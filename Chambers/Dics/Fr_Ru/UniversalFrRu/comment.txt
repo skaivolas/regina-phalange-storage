@@ -1,0 +1,5 @@
+UniversalFrRu-simplified.dict
+
+Deleted accent in Russian words
+Deleted <ex> tags
+Deleted <dtrn> tags

@@ -1,0 +1,1248 @@
+<k>1</k>
+ <dtrn>un, une</dtrn><k>10</k>
+ <dtrn>dix</dtrn><k>100</k>
+ <dtrn>cent</dtrn><k>1000</k>
+ <dtrn>mille</dtrn><k>11</k>
+ <dtrn>onze</dtrn><k>12</k>
+ <dtrn>douze</dtrn><k>13</k>
+ <dtrn>treize</dtrn><k>14</k>
+ <dtrn>quatorze</dtrn><k>15</k>
+ <dtrn>quinze</dtrn><k>16</k>
+ <dtrn>seize</dtrn><k>17</k>
+ <dtrn>dix-sept</dtrn><k>18</k>
+ <dtrn>dix-huit</dtrn><k>19</k>
+ <dtrn>dix-neuf</dtrn><k>2</k>
+ <dtrn>deux</dtrn><k>20</k>
+ <dtrn>vingt</dtrn><k>21</k>
+ <dtrn>vingt et un</dtrn><k>22</k>
+ <dtrn>vingt-deux</dtrn><k>23</k>
+ <dtrn>vingt-trois</dtrn><k>24</k>
+ <dtrn>vingt-quatre</dtrn><k>3</k>
+ <dtrn>trois</dtrn><k>30</k>
+ <dtrn>trente</dtrn><k>300</k>
+ <dtrn>trois cents</dtrn><k>4</k>
+ <dtrn>quatre</dtrn><k>40</k>
+ <dtrn>quarante</dtrn><k>5</k>
+ <dtrn>cinq</dtrn><k>50</k>
+ <dtrn>cinquante</dtrn><k>5223</k>
+ <dtrn>cinq mille deux cents vingt-trois</dtrn><k>6</k>
+ <dtrn>six</dtrn><k>60</k>
+ <dtrn>soixante</dtrn><k>7</k>
+ <dtrn>sept</dtrn><k>70</k>
+ <dtrn>soixante-dix</dtrn><k>8</k>
+ <dtrn>huit</dtrn><k>80</k>
+ <dtrn>quatre-vingt</dtrn><k>9</k>
+ <dtrn>neuf</dtrn><k>90</k>
+ <dtrn>quatre-vingt-dix</dtrn><k>_РАЗГОВОРНИК</k>
+ <i><dtrn><co>Разделы разговорника:</co></dtrn></i>
+  - <kref>ВСТРЕЧА</kref>
+  - <kref>ГОСТИНИЦА</kref>
+  - <kref>ЗДОРОВЬЕ/НАСТРОЕНИЕ</kref>
+  - <kref>ЗНАКОМСТВО</kref>
+  - <kref>МАГАЗИНЫ</kref>
+  - <kref>НА ГРАНИЦЕ</kref>
+  - <kref>НАДПИСИ</kref>
+  - <kref>НАЗНАЧЕНИЕ ВСТРЕЧИ</kref>
+  - <kref>ОБЩИЕ ФРАЗЫ</kref>
+  - <kref>ОФИЦИАЛЬНЫЕ СЛУЖБЫ</kref>
+  - <kref>ПОГОДА</kref>
+  - <kref>ПУТЕШЕСТВИЯ</kref>
+  - <kref>РАЗВЛЕЧЕНИЯ</kref>
+  - <kref>РЕСТОРАН/КАФЕ</kref>
+  - <kref>СПОРТ</kref>
+  - <kref>ТРАНСПОРТ</kref>
+  - <kref>ХОББИ/ИНТЕРЕСЫ</kref>
+  - <kref>ЧИСЛИТЕЛЬНЫЕ</kref><k>Безусловно!</k>
+ <dtrn>Évidemment (absolument, naturellement)!</dtrn><k>Берегись!</k>
+ <dtrn>Gare! Prenez garde!</dtrn><k>Блюдо пересолено (переварено, пережарено, несвежее)</k>
+ <dtrn>C&apos;est trop salé (cuit, brûlé, pas frais).</dtrn><k>Большое спасибо за приглашение.</k>
+ <dtrn>Merci beaucoup (Je vous remercie) pour l&apos;invitation.</dtrn><k>Большое спасибо!</k>
+ <dtrn>Merci beaucoup!</dtrn><k>Будет дождь (снег, ветер, туман, тепло, солнечно).</k>
+ <dtrn>Il pleuvra (neigera, sera le vent, fera du brouillard.)</dtrn><k>Буду рад Вас видеть.</k>
+ <dtrn>Je serai très content(-e) de vous voir.</dtrn><k>Будь внимателен!</k>
+ <dtrn>Sois attentif!</dtrn><k>Будьте добры, нарисуйте мне как идти.</k>
+ <dtrn>Porriez-vous me marquer l&apos;itinéraire?</dtrn><k>Будьте добры, упакуйте (заверните).</k>
+ <dtrn>Empaquetez tout ça, s&apos;il vous plaît.</dtrn><k>В какой гостинице Вы остановились?</k>
+ <dtrn>À quel hôtel êtes vous descendu?</dtrn><k>В какой театр Вы посоветуете пойти?</k>
+ <dtrn>Quel théâtre vous pouvez me conseiller?</dtrn><k>В каком кинотеатре идет этот фильм?</k>
+ <dtrn>A quel cinéma passe le film?</dtrn><k>В какую сторону ехать до...?</k>
+ <dtrn>Dans quelle direction dois-je aller pour venir à ...?</dtrn><k>ВСТРЕЧА</k>
+ <dtrn>Rendez-vous</dtrn>
+  - <kref>Вы заняты этим вечером?</kref>
+  - <kref>Вы не знаете, где находится...?</kref>
+  - <kref>Давайте договоримся о точном времени и месте.</kref>
+  - <kref>Давайте пойдем в кино (в театр, на стадион, на концерт)!</kref>
+  - <kref>Какое время (место) Вам подходит?</kref>
+  - <kref>Может быть, встретимся?</kref>
+  - <kref>Мы можем встретиться в (на, в центре)... в ... часов.</kref>
+  - <kref>Напишите адрес, пожалуйста.</kref>
+  - <kref>Не опаздывайте, пожалуйста.</kref>
+  - <kref>Не хотите ли присоединиться к нам (нашей компании)?</kref>
+  - <kref>Не хотите ли прогуляться (пойти в театр, в кино)?</kref>
+  - <kref>Рад встрече.</kref>
+  - <kref>С нетерпением жду встречи с Вами (там, в ...).</kref>
+  - <kref>Садитесь, пожалуйста.</kref>
+  - <kref>Сейчас пойдет дождь (снег). Давайте зайдем куда-нибудь.</kref>
+  - <kref>Спасибо (за приглашение).</kref>
+  - <kref>Спасибо за приглашение, но я буду занят.</kref>
+  - <kref>У меня мало времени.</kref>
+  - <kref>У меня нет времени.</kref>
+  - <kref>Я буду вовремя.</kref>
+  - <kref>Я буду очень рад(а) Вас (тебя) видеть.</kref>
+  - <kref>Я не знаю дороги (туда).</kref>
+  - <kref>Я подожду Вас на другой стороне (на углу) улицы.</kref><k>Вам больно?</k>
+ <dtrn>Est-ce que vous vous sentez très mal?</dtrn><k>Вам нравится эта музыка?</k>
+ <dtrn>Aimez-vous cette musique?</dtrn><k>Вам отсюда хорошо видно (слышно)?</k>
+ <dtrn>Est-ce que vous voyez (entendez) bien d&apos;ici?</dtrn><k>Вам понравился спектакль (представление, постановка, музыка, игра, пение, декорации, костюмы)?</k>
+ <dtrn>Est-ce que vous avez aimé la pièce (le spectacle, la mise en scène, la musique, le jeu, le chant, le décor, les costumes)?</dtrn><k>Вам тут нравится?</k>
+ <dtrn>Est ce que vous aimez cette place?</dtrn><k>Вам удобно? Вы хорошо себя чувствуете?</k>
+ <dtrn>Vous êtes bien ici?</dtrn><k>Ваш паспорт, пожалуйста!</k>
+ <dtrn>Votre passeport, s&apos;il vous plaît!</dtrn><k>Ваши водительские права, пожалуйста.</k>
+ <dtrn>Votre permis de conduire, s&apos;il vous plaît.</dtrn><k>Ввоз (вывоз) этих товаров запрещен.</k>
+ <dtrn>Importation (exporation) de ces articles est interdite.</dtrn><k>Взгляните!</k>
+ <dtrn>Mais regardez-moi ça!</dtrn><k>Внимание!</k>
+ <dtrn>(Faites) attention!</dtrn><k>Возможно, это так.</k>
+ <dtrn>C&apos;est bien (tout à fait) probable.</dtrn><k>Возможно.</k>
+ <dtrn>Peut-être.</dtrn><k>Возьмите еще...</k>
+ <dtrn>Prenez encore ...</dtrn><k>Все в порядке (хорошо).</k>
+ <dtrn>C&apos;est très jolie (bon, parfait) (avec moi).</dtrn><k>Въезд запрещен.</k>
+ <dtrn>Défense d&apos;entrer.</dtrn><k>Вы в порядке (устали, больны, Вам плохо)?</k>
+ <dtrn>Ça va? (Vous êtes fatigué/malade?)</dtrn><k>Вы говорите по-английски (по-немецки, по-французски, по-испански)?</k>
+ <dtrn>Parlez-vous anglais (allemand, français, espagnol)?</dtrn><k>Вы заняты этим вечером?</k>
+ <dtrn>Êtes-vous libre ce soir?</dtrn><k>Вы знаете хороший супермаркет (книжный, кондитерскую, кинотеатр, ночной клуб)?</k>
+ <dtrn>Où ce trouve un bon supermarché (la librairie, la pâtisserie, le cinéma, le club)?</dtrn><k>Вы курите?</k>
+ <dtrn>Est ce que vous fumez?</dtrn><k>Вы любите плавать (играть в волейбол, загорать)?</k>
+ <dtrn>Aimez-vous nager (jouer au volley-ball, être au soleil)?</dtrn><k>Вы меня понимаете?</k>
+ <dtrn>Vous me comprenez?</dtrn><k>Вы можете идти (сидеть, говорить)?</k>
+ <dtrn>Pouvez-vous marcher (être assis, parler) bien?</dtrn><k>Вы не знаете, где находится...?</k>
+ <dtrn>Est-ce que vous savez où ce trouve ... ?</dtrn><k>Вы не могли бы показать мне что-нибудь другое?</k>
+ <dtrn>Pouvez-vous me montrer quelque chose d&apos;autre?</dtrn><k>Вы не туда попали.</k>
+ <dtrn>Vous avez fait un numéro incorrect.</dtrn><k>Вы ничего себе не повредили (сломали, обожгли)?</k>
+ <dtrn>Avez-vous endommagé (cassé, brûlé) quelque chose?</dtrn><k>Вы ошибаетесь.</k>
+ <dtrn>Vous avez tort.</dtrn><k>Вы правы.</k>
+ <dtrn>Vous avez raison.</dtrn><k>Вы со мной согласны?</k>
+ <dtrn>Vous êtes d&apos;accord avec moi?</dtrn><k>Вы умеете играть на гитаре (виолончели, пианино, ударных)?</k>
+ <dtrn>Est ce que vous savez jouer de la guitare (du violon, du piano, des tambours)?</dtrn><k>Вы умеете плавать?</k>
+ <dtrn>Savez-vous nager?</dtrn><k>Вы хорошо плаваете (катаетесь на серфинге)?</k>
+ <dtrn>Est-ce que vous nagez bien?</dtrn><k>Вызовите, пожалуйста, скорую помощь.</k>
+ <dtrn>Appellez le médecin de garde, s&apos;il vous plaît.</dtrn><k>ГОСТИНИЦА</k>
+ <dtrn>Hôtel</dtrn>
+  - <kref>В какой гостинице Вы остановились?</kref>
+  - <kref>Где и когда можно позавтракать?</kref>
+  - <kref>Где можно почистить (погладить)...?</kref>
+  - <kref>Где находится эта гостиница?</kref>
+  - <kref>Дайте мне, пожалуйста, ключ от номера.</kref>
+  - <kref>Для меня был забронирован номер.</kref>
+  - <kref>Есть ли в номере кондиционер (телевизор, телефон, холодильник, )?</kref>
+  - <kref>Есть ли номер подешевле (получше)?</kref>
+  - <kref>Можно ли мне забронировать номер в...?</kref>
+  - <kref>Можно оставить ... в сейфе?</kref>
+  - <kref>На каком этаже находится номер?</kref>
+  - <kref>Разбудите меня, пожалуйста, в ...</kref>
+  - <kref>Сколько стоит номер с ванной (с завтраком, без завтрака, с полным пансионом)?</kref>
+  - <kref>У Вас есть одноместный (двухместный) номер?</kref>
+  - <kref>Этот номер мне (не) подходит.</kref>
+  - <kref>Я думаю остановиться на один день (неделю).</kref><k>Где (когда) будет соревнование (концерт, фильм, выставка)?</k>
+ <dtrn>Où (à quelle heure) a lieu la compétition (le concert, le film, l&apos;exposition)?</dtrn><k>Где ближайшая остановка автобуса (трамвая, станция метро)?</k>
+ <dtrn>Où est l&apos;arrêt de l&apos;autobus (du tram, de la station de métro) le plus proche?</dtrn><k>Где ближайший почтовый ящик?</k>
+ <dtrn>Où est la boîte à lettres la plus proche?</dtrn><k>Где бы нам встретиться?</k>
+ <dtrn>Où est ce que vous voulez que nous nous rencontrions?</dtrn><k>Где в этом магазине отдел игрушек (электротоваров, молочных продуктов)?</k>
+ <dtrn>Où est le rayon de jouets (articles électriques, produits laitiers)?</dtrn><k>Где зал английской (немецкой, испанской, французской) живописи?</k>
+ <dtrn>Où est la salle de la peinture anglaise (allemagne, espagnole, français).</dtrn><k>Где здесь выход?</k>
+ <dtrn>Où est la sortie ici?</dtrn><k>Где здесь можно запарковать машину?</k>
+ <dtrn>Où peut-on parquer un auto ici?</dtrn><k>Где здесь можно поменять деньги?</k>
+ <dtrn>Où peut-on changer de devise?</dtrn><k>Где здесь туалет?</k>
+ <dtrn>Où est la toilette ici?</dtrn><k>Где и когда можно позавтракать?</k>
+ <dtrn>Où et quand peut-on prendre le petit déjeuner?</dtrn><k>Где мне найти мой багаж?</k>
+ <dtrn>Où est-ce que je peux reprendre mes bagages?</dtrn><k>Где можно взять машину напрокат?</k>
+ <dtrn>Où peut-on louer un auto?</dtrn><k>Где можно купить билет?</k>
+ <dtrn>Où peut-on acheter le billet?</dtrn><k>Где можно купить путеводитель по музею (каталог, репродукции картин)?</k>
+ <dtrn>Où est ce que je peux acheter le guide de musée (catalogue, reproductions)?</dtrn><k>Где можно купить телефонную карточку?</k>
+ <dtrn>Où peut-on acheter la carte téléphonique?</dtrn><k>Где можно купить...?</k>
+ <dtrn>Où est-ce qu&apos;on peut acheter...?</dtrn><k>Где можно оплатить?</k>
+ <dtrn>Où puis-je payer?</dtrn><k>Где можно позвонить по телефону?</k>
+ <dtrn>Où peut-on téléphoner ici?</dtrn><k>Где можно почистить (погладить)...?</k>
+ <dtrn>Où est-ce que je peux nettoyer (repasser) ...?</dtrn><k>Где мы встретимся?</k>
+ <dtrn>Où l&apos;on se verra?</dtrn><k>Где находится эта гостиница?</k>
+ <dtrn>Où ce trouve cet hôtel?</dtrn><k>Где посадка на самолет?</k>
+ <dtrn>Où est la porte d&apos;embarquement?</dtrn><k>Где стоянка такси?</k>
+ <dtrn>Où est le parking de taxi?</dtrn><k>Где я могу купить...?</k>
+ <dtrn>Où est-ce que je peux acheter...?</dtrn><k>Говорите, пожалуйста, помедленнее (погромче, потише).</k>
+ <dtrn>Pourriez-vous parler plus lentement (haut, bas)?</dtrn><k>Гром гремит.</k>
+ <dtrn>Il tonne.</dtrn><k>Да, конечно.</k>
+ <dtrn>Oui, bien sûr (bien entendu).</dtrn><k>Да.</k>
+ <dtrn>Oui.</dtrn><k>Давайте договоримся о встрече.</k>
+ <dtrn>On va fixer un rendez-vous.</dtrn><k>Давайте договоримся о точном времени и месте.</k>
+ <dtrn>Il faut fixer l&apos;heure et place exacte.</dtrn><k>Давайте позавтракаем (пообедаем, поужинаем) в ресторане.</k>
+ <dtrn>Allons prendre le petit déjeuner (déjeuner, dîner) au restaurant.</dtrn><k>Давайте поиграем в хоккей (футбол, волейбол, баскетбол)!</k>
+ <dtrn>Voulez-vous jouer au hockey (football, volleyball, basketball)?</dtrn><k>Давайте пойдем в кино (в театр, на стадион, на концерт)!</k>
+ <dtrn>Allons au cinéma (théâtre, stade, concert)!</dtrn><k>Давайте попьем кофе (выпьем что-нибудь, поболтаем) у меня.</k>
+ <dtrn>On pourrait prendre un café (boire quelque chose, parler un peu) chez moi.</dtrn><k>Давайте посетим городские музеи.</k>
+ <dtrn>Allons visiter les musée de la ville.</dtrn><k>Давайте сходим на выставку фотографии.</k>
+ <dtrn>Voulez-vous aller à l&apos;exposition des photo?</dtrn><k>Давайте сядем у окна (в зале, на террасе, в тени).</k>
+ <dtrn>Asseyons-nous près de la fenêtre (dans la salle, a la terrasse, a l&apos;ombre)</dtrn><k>Дайте мне 100 гр сыра (килограмм персиков).</k>
+ <dtrn>Donnez-moi cent grammes du fromage (un kilo des pêches), s&apos;il vous plaît!</dtrn><k>Дайте мне, пожалуйста, ключ от номера.</k>
+ <dtrn>Donnez-moi la clé de la chambre, s&apos;il vous plaît.</dtrn><k>Дайте мне, пожалуйста, что-нибудь подешевле.</k>
+ <dtrn>Donnez-moi quelque chose pas si cher.</dtrn><k>Дайте мне, пожалуйста, что-нибудь получше (поближе, подальше, с краю, в середине).</k>
+ <dtrn>Donnez-moi quelque chose mieux (plus près, plus loin, à côté, au milieu).</dtrn><k>Дайте мне, пожалуйста,...</k>
+ <dtrn>Pourriez-vous me donner ..., s&apos;il vous plaît?</dtrn><k>Дайте, пожалуйста, програмку.</k>
+ <dtrn>Donnez-moi un programme, s&apos;il vous plaît.</dtrn><k>Два часа для меня в самый раз (не подходит, очень удобно, очень неудобно).</k>
+ <dtrn>Deux heures de l&apos;après-midi est le temps le plus préféré (le moin préféré, le plus convenable, le moins convenable) pour mois.</dtrn><k>Две (три) части с одним антрактом.</k>
+ <dtrn>Deux (trois) actes et un entracte.</dtrn><k>Две Кока-колы (два пива, две пинты, два коктейля, два кофе), пожалуйста!</k>
+ <dtrn>Apportez-moi deux Coca-Colas (bières, cocktails, cafés), s&apos;il vous plaît.</dtrn><k>Действительно?</k>
+ <dtrn>Est-ce que ça peut être vrai?</dtrn><k>Для меня был забронирован номер.</k>
+ <dtrn>Une chambre a été réservée pour moi.</dtrn><k>До встречи!</k>
+ <dtrn>A tout à l&apos;heure!</dtrn><k>До свидания!</k>
+ <dtrn>A bientôt!</dtrn><k>До скорого!</k>
+ <dtrn>On verra bientôt.</dtrn><k>Доброе утро!</k>
+ <dtrn>Bon matin!</dtrn><k>Доброй ночи.</k>
+ <dtrn>Bon nuit!</dtrn><k>Добрый день.</k>
+ <dtrn>Bon jour!</dtrn><k>Дорога закрыта.</k>
+ <dtrn>Route fermée.</dtrn><k>Дорогие ли билеты?</k>
+ <dtrn>Est-ce que les billets sont très chers?</dtrn><k>Едва ли это так.</k>
+ <dtrn>C&apos;est peu probable.</dtrn><k>Есть ли в номере кондиционер (телевизор, телефон, холодильник, )?</k>
+ <dtrn>Y a-t-il un climatiseur (téléviseur, téléphone, réfrigirateur) dans la chambre?</dtrn><k>Есть ли здесь экспонаты из других музеев?</k>
+ <dtrn>Est-ce que les objets exposés des autres musées sont représentés ici?</dtrn><k>Есть ли номер подешевле (получше)?</k>
+ <dtrn>Y a-t-il une chambre moins chère (plus belle)?</dtrn><k>Есть ли у Вас что-то облагаемое пошлиной?</k>
+ <dtrn>Avez-vous quelque chose à taxer?</dtrn><k>Еще рано!</k>
+ <dtrn>C&apos;est (encore) très tôt.</dtrn><k>ЗДОРОВЬЕ/НАСТРОЕНИЕ</k>
+ <dtrn>Santé/emotions</dtrn>
+  - <kref>Вам больно?</kref>
+  - <kref>Вам удобно? Вы хорошо себя чувствуете?</kref>
+  - <kref>Все в порядке (хорошо).</kref>
+  - <kref>Вы в порядке (устали, больны, Вам плохо)?</kref>
+  - <kref>Вы можете идти (сидеть, говорить)?</kref>
+  - <kref>Вы ничего себе не повредили (сломали, обожгли)?</kref>
+  - <kref>Вызовите, пожалуйста, скорую помощь.</kref>
+  - <kref>Как Вы себя чувствуете?</kref>
+  - <kref>Мне очень жарко.</kref>
+  - <kref>Мне плохо (грустно, противно).</kref>
+  - <kref>Мне так больно!</kref>
+  - <kref>Мне хорошо.</kref>
+  - <kref>Мое здоровье погублено.</kref>
+  - <kref>Мои надежды разбиты.</kref>
+  - <kref>Мои чувства задеты.</kref>
+  - <kref>Не волнуйтесь об этом.</kref>
+  - <kref>Подождите минутку, пожалуйста.</kref>
+  - <kref>Помогите мне, пожалуйста.</kref>
+  - <kref>У Вас что-нибудь болит?</kref>
+  - <kref>У меня (ужасная) головная боль.</kref>
+  - <kref>У меня болит живот (голова).</kref>
+  - <kref>У меня болит спина (колено, бок, рука).</kref>
+  - <kref>У меня болят ноги (руки).</kref>
+  - <kref>Я в порядке (слегка пьян, вдребезги пьян, устал).</kref>
+  - <kref>Я весь промок.</kref>
+  - <kref>Я замерз.</kref>
+  - <kref>Я попал в аварию.</kref><k>ЗНАКОМСТВО</k>
+ <dtrn>Connaissance</dtrn>
+  - <kref>Вы говорите по-английски (по-немецки, по-французски, по-испански)?</kref>
+  - <kref>Вы курите?</kref>
+  - <kref>Вы меня понимаете?</kref>
+  - <kref>Говорите, пожалуйста, помедленнее (погромче, потише).</kref>
+  - <kref>Здравствуйте, меня зовут...</kref>
+  - <kref>Как будет по-английски (по-немецки, по-французски, по-испански) ...?</kref>
+  - <kref>Как Вас зовут?</kref>
+  - <kref>Как дела?</kref>
+  - <kref>Когда у тебя день рождения?</kref>
+  - <kref>Мне ... лет.</kref>
+  - <kref>Мне скоро ... (лет).</kref>
+  - <kref>Нам (не) нужен переводчик.</kref>
+  - <kref>Откуда Вы?</kref>
+  - <kref>Повторите еще раз, будьте добры.</kref>
+  - <kref>Позвольте представить Вам...</kref>
+  - <kref>Приятно познакомиться.</kref>
+  - <kref>Рад встрече.</kref>
+  - <kref>Сколько Вам лет?</kref>
+  - <kref>Сколько лет Вашему брату (Вашей сестре)?</kref>
+  - <kref>Спасибо, хорошо.</kref>
+  - <kref>У Вас есть братья или сестры?</kref>
+  - <kref>У меня есть брат (... братьев) и сестра (... сестер).</kref>
+  - <kref>Это мой брат (сестра, мама, папа, друг...).</kref>
+  - <kref>Я (не) понимаю Вас.</kref>
+  - <kref>Я бизнесмен (студент, учительница).</kref>
+  - <kref>Я говорю слишком быстро?</kref>
+  - <kref>Я из России (Европы, Испании, Франции, Англии, Германии, Голландии, Швеции).</kref>
+  - <kref>Я не говорю по-английски (по-немецки, по-французски, по-испански).</kref>
+  - <kref>Я понимаю по-английски (по-немецки, по-французски, по-испански), но не могу говорить.</kref>
+  - <kref>Я русский (американец, француз, англичанин, голландец, испанец, немец)</kref>
+  - <kref>Я учу английский (немецкий, французский, испанский), но я все еще плохо говорю.</kref><k>За Интернетом будущее, в этом нет никаких сомнений.</k>
+ <dtrn>Internet est sans doutes un trait de future.</dtrn><k>За ваше здоровье!</k>
+ <dtrn>À votre santé!</dtrn><k>За какое время я доеду до...</k>
+ <dtrn>Combien de temps j&apos;ai besoins pour aller à ...</dtrn><k>За какую команду Вы болеете?</k>
+ <dtrn>Quelle équipe supportez-vous?</dtrn><k>Заверните все вместе (по отдельности), пожалуйста.</k>
+ <dtrn>Emballez tout ça ensemble (séparément).</dtrn><k>Закрыто!</k>
+ <dtrn>Fermé!</dtrn><k>Замечательно!</k>
+ <dtrn>C&apos;est superbe (vachement bien)!</dtrn><k>Занятия спортом (различными видами спорта) полезны для здоровья.</k>
+ <dtrn>Faire du sport est très bien pour la santé.</dtrn><k>Здесь довольно (немного, непереносимо, невероятно, ужасно) душно.</k>
+ <dtrn>On étouffe assez (un peu, très, extremement, trop) ici.</dtrn><k>Здесь довольно весело.</k>
+ <dtrn>Cette place est assez amusante.</dtrn><k>Здесь довольно пусто (многолюдно, душно, скучно).</k>
+ <dtrn>Cette place est assez vide (comble, étouffante, ennuyeuse).</dtrn><k>Здесь есть поблизости турбюро?</k>
+ <dtrn>Est qu&apos;il y a ici une agence de voyage?</dtrn><k>Здравствуй!</k>
+ <dtrn>Salut!</dtrn><k>Здравствуйте, меня зовут...</k>
+ <dtrn>Bonjour, je m&apos;appelle...</dtrn><k>Играют ли какие-нибудь знаменитые актеры в этом фильме?</k>
+ <dtrn>Est-ce qu&apos;il y a des acteur fameux dans ce film?</dtrn><k>Идет дождь (снег).</k>
+ <dtrn>Il pleut (neige).</dtrn><k>Извините!</k>
+ <dtrn>Je suis (très) désolé(-e).</dtrn><k>Извините, где находится банк?</k>
+ <dtrn>Excusez-moi, où est la banque ici?</dtrn><k>Извините, я не могу.</k>
+ <dtrn>Je regrette, mais je ne pourrais pas.</dtrn><k>Именно так!</k>
+ <dtrn>Justement (exactement)!</dtrn><k>Иногда, когда у меня есть время.</k>
+ <dtrn>Parfois, si j&apos;ai le temps.</dtrn><k>К какой школе он принадлежит?</k>
+ <dtrn>A quelle école appartient-il?</dtrn><k>Каждый платит за себя.</k>
+ <dtrn>Chacun paie pour soi.</dtrn><k>Как Вас зовут?</k>
+ <dtrn>Comment vous appelez-vous? (Quel est votre prénom?)</dtrn><k>Как Вы выглядите?</k>
+ <dtrn>Comment vous pouvez vous décrire?</dtrn><k>Как Вы обычно проводите свободное время?</k>
+ <dtrn>Comment passez-vous vos loisirs?</dtrn><k>Как Вы одеты?</k>
+ <dtrn>Les vêtements de quel style tu porte?</dtrn><k>Как Вы себя чувствуете?</k>
+ <dtrn>Comment vous sentez-vous?</dtrn><k>Как будет по-английски (по-немецки, по-французски, по-испански) ...?</k>
+ <dtrn>Comment cela veut dire en anglais (allemand, français, espagnol) ... ?</dtrn><k>Как давно Вы увлекаетесь этим?</k>
+ <dtrn>Depuis quand est-ce votre hobby?</dtrn><k>Как дела?</k>
+ <dtrn>Comment ça va?</dtrn><k>Как долго Вы пробудете здесь?</k>
+ <dtrn>Combien de temps vous allez rester isi?</dtrn><k>Как жаль!</k>
+ <dtrn>C&apos;est très dommage.</dtrn><k>Как жизнь?</k>
+ <dtrn>Comment ça va?</dtrn><k>Как мне лучше это сделать?</k>
+ <dtrn>Comment voulez-vous que je le fasse?</dtrn><k>Как мы доберемся до кинотеатра?</k>
+ <dtrn>Comment peut-on aller au cinéma?</dtrn><k>Какая сегодня погода?</k>
+ <dtrn>Quel temps fait-il aujourd&apos;hui?</dtrn><k>Какая следующая станция (остановка)?</k>
+ <dtrn>Comment s&apos;appelle la station suivante (l&apos;arrêt suivant)?</dtrn><k>Какая у Вас любимая книга (Какой у Вас любимый вид спорта, музыкальный жанр, фильм)?</k>
+ <dtrn>Quel est votre livre (musique, film,sport) préféré?</dtrn><k>Какая удача!</k>
+ <dtrn>Quelle chance!</dtrn><k>Какая чудесная ночь! (Какое чудесное утро! Какой чудесный день!)</k>
+ <dtrn>Quelle bonne nuit (matin, jour)!</dtrn><k>Какие книги Вы читаете?</k>
+ <dtrn>Qu&apos;est-ce que vous lisez d&apos;habitude?</dtrn><k>Какие летние (зимние) виды спорта популярны в твоей стране?</k>
+ <dtrn>Quels sports d&apos;été (d&apos;hivers) sont les plus préférés dans ton pays?</dtrn><k>Какие сейчас идут выставки?</k>
+ <dtrn>Quelles expositions sont ouvertes maintenant?</dtrn><k>Какие сорта вина Вы предпочитаете, красные или белые (сухие, столовые)?</k>
+ <dtrn>Quels vins préfèrez-vous, rouges ou blancs (sec, de table)?</dtrn><k>Какие спектакли (концерты, представления) идут сегодня?</k>
+ <dtrn>Quelles pièces (quels concerts, quelles représentations) donne-t-on ce soir?</dtrn><k>Какие у Вас хобби?</k>
+ <dtrn>Quel est votre hobby?</dtrn><k>Какого цвета ...?</k>
+ <dtrn>De quel couleur est (sont) ... ?</dtrn><k>Какое Ваше любимое блюдо?</k>
+ <dtrn>Quel est votre plat préféré?</dtrn><k>Какое время (место) Вам подходит?</k>
+ <dtrn>Quelle heure (place) est convenable pour vous?</dtrn><k>Какое время года Вы любите?</k>
+ <dtrn>Quel saison préfèrez-vous?</dtrn><k>Какой Вы хотите десерт?</k>
+ <dtrn>Quel dessert préfèrez-vous?</dtrn><k>Какой автобус (трамвай, какая линия метро) идет до ...?</k>
+ <dtrn>Quel autobus (tram, ligne de métro) dois-je prendre pour aller à ...?</dtrn><k>Какой месяц самый холодный (жаркий) в Вашей стране?</k>
+ <dtrn>Quel mois est le plus froid (chaud) dans votre pays?</dtrn><k>Какой музей Вы хотели бы посетить: исторический, изобразительных искусств или картинную галерею?</k>
+ <dtrn>Quel musée voulez-vous visiter: un musée historique, un musée des beaux-arts ou une galerie de peinture?</dtrn><k>Какой сегодня день недели?</k>
+ <dtrn>Quel jour sommes nous?</dtrn><k>Какой сегодня обменный курс?</k>
+ <dtrn>Quelle est la parité d&apos;échange aujourd&apos;hui?</dtrn><k>Какой сейчас месяц?</k>
+ <dtrn>Quel mois sommes nous?</dtrn><k>Какой счет?</k>
+ <dtrn>Quel est le score?</dtrn><k>Какую музыку Вы больше всего слушаете?</k>
+ <dtrn>Quel type de musique écoutez-vous plus souvent?</dtrn><k>Какую музыку Вы любите?</k>
+ <dtrn>Quel genre de musique préférez-vous?</dtrn><k>Когда жил этот художник (скульптор)?</k>
+ <dtrn>A quelle époque a vécu ce peintre?</dtrn><k>Когда музей открывается (закрывается)?</k>
+ <dtrn>A quelle heure ouvre (ferme) le musée?</dtrn><k>Когда мы должны приземлиться?</k>
+ <dtrn>A quelle heure nous devons atterrir?</dtrn><k>Когда открывается (закрывается) магазин?</k>
+ <dtrn>A quelle heure ouvre (ferme) le magasin?</dtrn><k>Когда следующий рейс?</k>
+ <dtrn>A quelle heure est le vol suivant?</dtrn><k>Когда у тебя день рождения?</k>
+ <dtrn>Quand as-tu ton anniversaire?</dtrn><k>Кто автор пьесы?</k>
+ <dtrn>Qui est l&apos;auteur de la pièce?</dtrn><k>Кто выиграл последние Олимпийские Игры (Кубок мира, Кубок Европы )?</k>
+ <dtrn>Quel sportif de votre pays est (était) le champion des Jeux Olympiques (Coupe du Monde, Coupe d&apos;Europe)?</dtrn><k>Кто дирижер (режиссер, продюсер, оператор)?</k>
+ <dtrn>Qui est le chef d&apos;orchestre (directeur, réalisateur, cameraman)?</dtrn><k>Кто забил гол?</k>
+ <dtrn>Qui a marqué le but?</dtrn><k>Кто знает!</k>
+ <dtrn>Qui sait!</dtrn><k>Кто играет в этом фильме (спектакле)?</k>
+ <dtrn>Qui (quels acteur) joue (jouent) dans ce film (cette pièce)?</dtrn><k>Кто играл главную роль?</k>
+ <dtrn>Qui a joué le rôle principal?</dtrn><k>Кто исполняет арию?</k>
+ <dtrn>Qui chante l&apos;air?</dtrn><k>Кто солирует?</k>
+ <dtrn>Qui est le (la) soliste?</dtrn><k>Кто судья?</k>
+ <dtrn>Qui est l&apos;arbitre du match?</dtrn><k>Кто твой любимый писатель (поэт, драматург)?</k>
+ <dtrn>Qui est ton écrivain (poète, dramaturge) préféré?</dtrn><k>Куда Вы идете?</k>
+ <dtrn>Où allez-vous?</dtrn><k>Куда ведет эта дорога?</k>
+ <dtrn>Où mène cette route?</dtrn><k>Кухню какой страны Вы предпочитаете?</k>
+ <dtrn>Cuisine de quel pays préférez-vous?</dtrn><k>МАГАЗИНЫ</k>
+ <dtrn>Magasins</dtrn>
+  - <kref>Будьте добры, упакуйте (заверните).</kref>
+  - <kref>Вы знаете хороший супермаркет (книжный, кондитерскую, кинотеатр, ночной клуб)?</kref>
+  - <kref>Вы не могли бы показать мне что-нибудь другое?</kref>
+  - <kref>Где в этом магазине отдел игрушек (электротоваров, молочных продуктов)?</kref>
+  - <kref>Где можно купить...?</kref>
+  - <kref>Где можно оплатить?</kref>
+  - <kref>Где я могу купить...?</kref>
+  - <kref>Дайте мне 100 гр сыра (килограмм персиков).</kref>
+  - <kref>Дайте мне, пожалуйста,...</kref>
+  - <kref>Две Кока-колы (два пива, две пинты, два коктейля, два кофе), пожалуйста!</kref>
+  - <kref>Заверните все вместе (по отдельности), пожалуйста.</kref>
+  - <kref>Когда открывается (закрывается) магазин?</kref>
+  - <kref>Можете ли Вы принести ... на размер больше (меньше)?</kref>
+  - <kref>Можно ли заплатить кредитной картой?</kref>
+  - <kref>Можно это померить?</kref>
+  - <kref>Покажите мне эту кассету (CD - диск, книгу), пожалуйста.</kref>
+  - <kref>Положите, пожалуйста, в пакет (бумажный пакет).</kref>
+  - <kref>Сколько это стоит?</kref>
+  - <kref>У вас есть ...?</kref>
+  - <kref>У меня ... размер.</kref>
+  - <kref>Я хотел бы обменять (вернуть) это.</kref>
+  - <kref>Я хочу купить...</kref><k>Меня встречают.</k>
+ <dtrn>On va me chercher.</dtrn><k>Место возле окна (прохода), пожалуйста.</k>
+ <dtrn>Une place à côté de la fenêtre (du couloir).</dtrn><k>Мне (не) нравится Ваш музыкальный вкус.</k>
+ <dtrn>Je (ne) partage (pas) vos goûts musicaux.</dtrn><k>Мне ... лет.</k>
+ <dtrn>J&apos;ai ... ans.</dtrn><k>Мне бы хотелось послушать оперу (концерт).</k>
+ <dtrn>Je voudrais écouter l&apos;opéra (le concert).</dtrn><k>Мне бы хотелось сходить в оперный театр (драматический театр, театр оперетты).</k>
+ <dtrn>Je voudrais aller au théâtre d&apos;opéra (théâtre dramatique, théâtre de la comédie musicale).</dtrn><k>Мне нечего декларировать.</k>
+ <dtrn>Je n&apos;ai rien à déclarer.</dtrn><k>Мне нравится встречаться с разными людьми.</k>
+ <dtrn>J&apos;aime me rencontrer aux gens différents.</dtrn><k>Мне нравится эта картина (скульптура, композиция).</k>
+ <dtrn>J&apos;aime ce tableau (cette sculpture, cette composition).</dtrn><k>Мне нужно указать эти вещи в декларации?</k>
+ <dtrn>Est-ce que je dois indiquer ces choses dans la déclaration?</dtrn><k>Мне очень жаль.</k>
+ <dtrn>Je suis désolé.</dtrn><k>Мне очень жарко.</k>
+ <dtrn>J&apos;ai très chaud.</dtrn><k>Мне плохо (грустно, противно).</k>
+ <dtrn>Je me sens mal (triste, mauvais).</dtrn><k>Мне скоро ... (лет).</k>
+ <dtrn>J&apos;aurai ... ans.</dtrn><k>Мне так больно!</k>
+ <dtrn>J&apos;ai mal si fort!</dtrn><k>Мне хорошо.</k>
+ <dtrn>Je me sens bon.</dtrn><k>Мое здоровье погублено.</k>
+ <dtrn>Ma santé est ruinée.</dtrn><k>Мое любимое блюдо (мой любимый напиток)...</k>
+ <dtrn>Mon plat (boisson) préféré est ... .</dtrn><k>Мое увлечение требует много времени.</k>
+ <dtrn>Mon hobby exige beaucoup de temps.</dtrn><k>Мое хобби - фотография (спорт, туризм).</k>
+ <dtrn>Je me passionne pour la photographie (le sport, le voyage).</dtrn><k>Может быть, встретимся?</k>
+ <dtrn>On verra, peut-être?</dtrn><k>Может, хотите еще чего-нибудь?</k>
+ <dtrn>Voulez-vous quelque chose de plus?</dtrn><k>Можете ли Вы принести ... на размер больше (меньше)?</k>
+ <dtrn>Pouvez-vous me donner ...d&apos;une taille de plus (de moins).</dtrn><k>Можно Вас на минуточку?</k>
+ <dtrn>Puis-je m&apos;adresser à vous?</dtrn><k>Можно ли заплатить кредитной картой?</k>
+ <dtrn>Puis-je payer avec ma carte de crédit.</dtrn><k>Можно ли здесь фотографировать (снимать на камеру)?</k>
+ <dtrn>Peut-on photographier ici?</dtrn><k>Можно ли мне забронировать номер в...?</k>
+ <dtrn>Est-ce que je peux réserver la chambre à...?</dtrn><k>Можно мне здесь присесть?</k>
+ <dtrn>Puis-je m&apos;asseoir ici?</dtrn><k>Можно мне...</k>
+ <dtrn>Puis-je..</dtrn><k>Можно оставить ... в сейфе?</k>
+ <dtrn>Puis-je laisser ... dans le coffre-fort?</dtrn><k>Можно получить деньги по моей кредитной карточке?</k>
+ <dtrn>Est-ce que je peux toucher de l&apos;argent de la carte de crédit?</dtrn><k>Можно это померить?</k>
+ <dtrn>Puis-je essayer ça?</dtrn><k>Мои любимые группы (исполнители, певцы) - это...</k>
+ <dtrn>Mes groupes (interprètes, chanteurs) préférés sont ... .</dtrn><k>Мои надежды разбиты.</k>
+ <dtrn>Mes espoirs sont détruits.</dtrn><k>Мои чувства задеты.</k>
+ <dtrn>Mes sentiments sont détruits.</dtrn><k>Мой любимый писатель (поэт, драматург) ...</k>
+ <dtrn>Mon écrivain (poète, dramaturge) préféré est ... .</dtrn><k>Мой тренер (иногда, часто, всегда) очень строг к своим подопечным.</k>
+ <dtrn>Mon entraîneur est (parfois, souvent, toujours) très sévère avec ses étudiants.</dtrn><k>Моя машина не заводится.</k>
+ <dtrn>Je ne peux pas mettre mon auto en marche.</dtrn><k>Музей (кинотеатр, стадион, развлекательный центр, супермаркет) находится рядом с отелем.</k>
+ <dtrn>Le musée (le cinéma, le stade, le centre de divertissement, le supermarché) se trouve près de l&apos;hôtel.</dtrn><k>Мы бы посмотрели интересный (смешной) фильм.</k>
+ <dtrn>Nous voudrions voir un film intéressant (amusant).</dtrn><k>Мы бы посмотрели футбольный (хоккейный, баскетбольный) матч.</k>
+ <dtrn>Nous voudrions assister à un match de football (hockey, basketball).</dtrn><k>Мы можем взять магнитофон с записанной экскурсией по-английски.</k>
+ <dtrn>On peut prendre l&apos;enregistrement anglais de cette excursion.</dtrn><k>Мы можем встретиться в (на, в центре)... в ... часов.</k>
+ <dtrn>On peut se rencontrer à (dans, en)... à ... heures.</dtrn><k>НА ГРАНИЦЕ</k>
+ <dtrn>A la frontière</dtrn>
+  - <kref>Ваш паспорт, пожалуйста!</kref>
+  - <kref>Ввоз (вывоз) этих товаров запрещен.</kref>
+  - <kref>Есть ли у Вас что-то облагаемое пошлиной?</kref>
+  - <kref>Как долго Вы пробудете здесь?</kref>
+  - <kref>Меня встречают.</kref>
+  - <kref>Мне нечего декларировать.</kref>
+  - <kref>Мне нужно указать эти вещи в декларации?</kref>
+  - <kref>Откройте, пожалуйста, чемодан.</kref>
+  - <kref>Позовите руководителя группы.</kref>
+  - <kref>Предъявите Вашу таможенную декларацию.</kref>
+  - <kref>Приготовьте паспорта!</kref>
+  - <kref>У Вас есть виза?</kref>
+  - <kref>У меня есть разрешение на ввоз (вывоз).</kref>
+  - <kref>У меня только личные вещи.</kref>
+  - <kref>Цель Вашей поездки?</kref>
+  - <kref>Это подарок.</kref>
+  - <kref>Я еду в составе тургруппы.</kref>
+  - <kref>Я турист (в командировке, в частной поездке).</kref><k>НАДПИСИ</k>
+ <dtrn>Inscriptions</dtrn>
+  - <kref>Въезд запрещен.</kref>
+  - <kref>Дорога закрыта.</kref>
+  - <kref>Закрыто!</kref>
+  - <kref>Не курить!</kref>
+  - <kref>Объезд.</kref>
+  - <kref>Одностороннее движение.</kref>
+  - <kref>Опасный поворот</kref>
+  - <kref>Остановка запрещена</kref>
+  - <kref>Осторожно, опасно!</kref>
+  - <kref>Открыто!</kref>
+  - <kref>Пристегните ремни безопасности!</kref>
+  - <kref>Проезд закрыт.</kref>
+  - <kref>Стоянка запрещена.</kref>
+  - <kref>Стоянка такси.</kref>
+  - <kref>Только для пешеходов.</kref>
+  - <kref>Туалет (свободно /занято)</kref><k>НАЗНАЧЕНИЕ ВСТРЕЧИ</k>
+ <dtrn>Dates</dtrn>
+  - <kref>Буду рад Вас видеть.</kref>
+  - <kref>Будьте добры, нарисуйте мне как идти.</kref>
+  - <kref>Вам тут нравится?</kref>
+  - <kref>Вы заняты этим вечером?</kref>
+  - <kref>Вы меня понимаете?</kref>
+  - <kref>Где бы нам встретиться?</kref>
+  - <kref>Где здесь выход?</kref>
+  - <kref>Где мы встретимся?</kref>
+  - <kref>Давайте договоримся о встрече.</kref>
+  - <kref>Давайте договоримся о точном времени и месте.</kref>
+  - <kref>Давайте попьем кофе (выпьем что-нибудь, поболтаем) у меня.</kref>
+  - <kref>Дайте мне, пожалуйста,...</kref>
+  - <kref>Два часа для меня в самый раз (не подходит, очень удобно, очень неудобно).</kref>
+  - <kref>Как Вы выглядите?</kref>
+  - <kref>Как Вы одеты?</kref>
+  - <kref>Какое время (место) Вам подходит?</kref>
+  - <kref>Может быть, встретимся?</kref>
+  - <kref>Можно мне здесь присесть?</kref>
+  - <kref>Мы можем встретиться в (на, в центре)... в ... часов.</kref>
+  - <kref>На мне шелковая блузка (синие джинсы, шерстяной свитер)</kref>
+  - <kref>Надеюсь, мы еще увидимся.</kref>
+  - <kref>Нам (не) нужен переводчик.</kref>
+  - <kref>Не беспокойтесь. Можно не разуваться, не снимать шляпу, пальто.</kref>
+  - <kref>Не опаздывайте, пожалуйста.</kref>
+  - <kref>Неужели уже так поздно?</kref>
+  - <kref>Повторите еще раз, будьте добры.</kref>
+  - <kref>Разрешите, я провожу Вас?</kref>
+  - <kref>С нетерпением жду встречи с Вами (там, в ...).</kref>
+  - <kref>Садитесь, пожалуйста.</kref>
+  - <kref>Сейчас пойдет дождь (снег). Давайте зайдем куда-нибудь.</kref>
+  - <kref>Спасибо (за приглашение).</kref>
+  - <kref>Хотите ли Вы взять с собой кого-нибудь?</kref>
+  - <kref>Что Вы предложите в таком случае?</kref>
+  - <kref>Это время Вам подходит?</kref>
+  - <kref>Я (не) понимаю Вас.</kref>
+  - <kref>Я буду вовремя.</kref>
+  - <kref>Я высокий (темноволосый).</kref>
+  - <kref>Я говорю слишком быстро?</kref>
+  - <kref>Я подожду Вас на другой стороне (на углу) улицы.</kref>
+  - <kref>Я светло/рыжеволосая (с голубыми/серыми глазами).</kref><k>На вкус это довольно горько (отвратительно).</k>
+ <dtrn>Ça a le goût un peu amer (dégoûtant).</dtrn><k>На вкус это довольно мило (сладкое, соленое, пряное).</k>
+ <dtrn>Ça a le goût un peu joli (doux, salé, épicé).</dtrn><k>На каком этаже находится номер?</k>
+ <dtrn>À quel étage se trouve la chambre?</dtrn><k>На мне шелковая блузка (синие джинсы, шерстяной свитер)</k>
+ <dtrn>Je porte une blouse de soie (les jeans bleus, un pull de laine).</dtrn><k>На углу Вам надо повернуть налево (направо).</k>
+ <dtrn>Au carrefour vous tournez à gauche (à droite).</dtrn><k>На этой дороге есть мотель (автосервис, заправочная станция)?</k>
+ <dtrn>Est-ce qu&apos;il y a un motel (une station-service, une station de remplissage) sur cette route?</dtrn><k>Надеюсь, мы еще увидимся.</k>
+ <dtrn>J&apos;espère vous voir encore une fois.</dtrn><k>Надеюсь, что это так.</k>
+ <dtrn>Je l&apos;espère bien.</dtrn><k>Надеюсь, я не сделал Вам больно.</k>
+ <dtrn>J&apos;espère que je ne vous ai pas fait mal (ne vous ai pas fâché).</dtrn><k>Нам (не) нужен переводчик.</k>
+ <dtrn>Nous (n&apos;) avons (pas) besoin d&apos;interprète.</dtrn><k>Нам нужна электроэнергия (вода).</k>
+ <dtrn>Nous avons besoin d&apos;électricité (de l&apos;eau).</dtrn><k>Наоборот!</k>
+ <dtrn>Au contraire!</dtrn><k>Напишите адрес, пожалуйста.</k>
+ <dtrn>Écrivez l&apos;adresse, s&apos;il vous plaît.</dtrn><k>Наш тренер (не) был профессиональным спортсменом.</k>
+ <dtrn>L&apos;entraîneur de notre équipe (n&apos;) était (pas) un sportif professionnel.</dtrn><k>Не беспокойтесь. Можно не разуваться, не снимать шляпу, пальто.</k>
+ <dtrn>Ne vous dérangez pas pour enlever vos chaussures, votre chapeau, votre manteau.</dtrn><k>Не волнуйтесь об этом.</k>
+ <dtrn>Ne vous en faites pas.</dtrn><k>Не за что. (в ответ на Спасибо)</k>
+ <dtrn>De rien!</dtrn><k>Не знаете, какой на завтра прогноз погоды?</k>
+ <dtrn>Savez-vous, quel temps fera-t-il demain?</dtrn><k>Не курить!</k>
+ <dtrn>Défence de fumer!</dtrn><k>Не могли бы Вы мне дать свой номер телефона.</k>
+ <dtrn>Pouvez-vous me donner votre numéro de téléphone?</dtrn><k>Не могли бы Вы мне сказать, когда мне выходить (пересаживаться)?</k>
+ <dtrn>Pourriez-vous me dire, où je dois descendre (changer)?</dtrn><k>Не о чем беспокоиться.</k>
+ <dtrn>Ce n&apos;est pas grave.</dtrn><k>Не обращайте внимания.</k>
+ <dtrn>Ne vous en faites pas, s&apos;il vous plaît.</dtrn><k>Не опаздывайте, пожалуйста.</k>
+ <dtrn>Ne soyez pas en retard, s&apos;il vous plaît!</dtrn><k>Не подскажете нам, как пройти к...?</k>
+ <dtrn>Pourriez-vous nous dire comment aller à ... ?</dtrn><k>Не подскажете, где ближайший почтамт?</k>
+ <dtrn>Dites-moi, s&apos;il vous plaît, où est la poste la plus proche?</dtrn><k>Не принимайте близко к сердцу.</k>
+ <dtrn>Ne vous en faites pas!</dtrn><k>Не хотите ли присоединиться к нам (нашей компании)?</k>
+ <dtrn>Voulez-vous nous joindre (à notre compagnie)?</dtrn><k>Не хотите ли прогуляться (пойти в театр, в кино)?</k>
+ <dtrn>Voulez-vous faire une promenade (aller au théâtre, aller au cinéma)?</dtrn><k>Не хотите ли что-нибудь выпить (съесть)?</k>
+ <dtrn>Voulez-vous prendre quelque chose?</dtrn><k>Не хотите покурить (выпить)?</k>
+ <dtrn>Voulez-vous fumer (boire quelque chose)?</dtrn><k>Невероятно!</k>
+ <dtrn>Je ne peux pas y croire.</dtrn><k>Нет, конечно.</k>
+ <dtrn>Bien sûr que non.</dtrn><k>Нет, спасибо, я уже сыт.</k>
+ <dtrn>Non, merci, je n&apos;ai plus faim.</dtrn><k>Нет, спасибо.</k>
+ <dtrn>Non, merci.</dtrn><k>Нет.</k>
+ <dtrn>No.</dtrn><k>Неужели уже так поздно?</k>
+ <dtrn>Est qu&apos;il est si tard?</dtrn><k>Ни в коем случае!</k>
+ <dtrn>Pas du tout!</dtrn><k>Ничего подобного!</k>
+ <dtrn>Pas du tout!</dtrn><k>О, Боже мой!</k>
+ <dtrn>Mon Dieux!</dtrn><k>О.К.</k>
+ <dtrn>D&apos;accord.</dtrn><k>ОБЩИЕ ФРАЗЫ</k>
+ <dtrn>Phrases générales</dtrn>
+  - <kref>Безусловно!</kref>
+  - <kref>Берегись!</kref>
+  - <kref>Большое спасибо!</kref>
+  - <kref>Будь внимателен!</kref>
+  - <kref>Взгляните!</kref>
+  - <kref>Внимание!</kref>
+  - <kref>Возможно.</kref>
+  - <kref>Возможно, это так.</kref>
+  - <kref>Все в порядке (хорошо).</kref>
+  - <kref>Вы в порядке (устали, больны, Вам плохо)?</kref>
+  - <kref>Вы любите плавать (играть в волейбол, загорать)?</kref>
+  - <kref>Вы меня понимаете?</kref>
+  - <kref>Вы не туда попали.</kref>
+  - <kref>Вы ошибаетесь.</kref>
+  - <kref>Вы правы.</kref>
+  - <kref>Вы со мной согласны?</kref>
+  - <kref>Говорите, пожалуйста, помедленнее (погромче, потише).</kref>
+  - <kref>Да.</kref>
+  - <kref>Да, конечно.</kref>
+  - <kref>Действительно?</kref>
+  - <kref>До встречи!</kref>
+  - <kref>До свидания!</kref>
+  - <kref>До скорого!</kref>
+  - <kref>Доброе утро!</kref>
+  - <kref>Доброй ночи.</kref>
+  - <kref>Добрый день.</kref>
+  - <kref>Едва ли это так.</kref>
+  - <kref>Еще рано!</kref>
+  - <kref>Замечательно!</kref>
+  - <kref>Здравствуй!</kref>
+  - <kref>Извините!</kref>
+  - <kref>Извините, я не могу.</kref>
+  - <kref>Именно так!</kref>
+  - <kref>Как будет по-английски (по-немецки, по-французски, по-испански) ...?</kref>
+  - <kref>Как дела?</kref>
+  - <kref>Как жаль!</kref>
+  - <kref>Как жизнь?</kref>
+  - <kref>Как мне лучше это сделать?</kref>
+  - <kref>Какая удача!</kref>
+  - <kref>Какого цвета ...?</kref>
+  - <kref>Какое время года Вы любите?</kref>
+  - <kref>Какой сегодня день недели?</kref>
+  - <kref>Какой сейчас месяц?</kref>
+  - <kref>Кто знает!</kref>
+  - <kref>Куда Вы идете?</kref>
+  - <kref>Мне очень жаль.</kref>
+  - <kref>Можно Вас на минуточку?</kref>
+  - <kref>Можно мне...</kref>
+  - <kref>На углу Вам надо повернуть налево (направо).</kref>
+  - <kref>Надеюсь, что это так.</kref>
+  - <kref>Надеюсь, я не сделал Вам больно.</kref>
+  - <kref>Наоборот!</kref>
+  - <kref>Напишите адрес, пожалуйста.</kref>
+  - <kref>Не за что. (в ответ на Спасибо)</kref>
+  - <kref>Не о чем беспокоиться.</kref>
+  - <kref>Не обращайте внимания.</kref>
+  - <kref>Не опаздывайте, пожалуйста.</kref>
+  - <kref>Не принимайте близко к сердцу.</kref>
+  - <kref>Невероятно!</kref>
+  - <kref>Нет, конечно.</kref>
+  - <kref>Нет, спасибо.</kref>
+  - <kref>Неужели уже так поздно?</kref>
+  - <kref>Ни в коем случае!</kref>
+  - <kref>Ничего подобного!</kref>
+  - <kref>О.К.</kref>
+  - <kref>О, Боже мой!</kref>
+  - <kref>Одну минуту, пожалуйста!</kref>
+  - <kref>Очень хорошо.</kref>
+  - <kref>Повторите еще раз, будьте добры.</kref>
+  - <kref>Повторите, пожалуйста.</kref>
+  - <kref>Позвоните попозже, пожалуйста!</kref>
+  - <kref>Пока!</kref>
+  - <kref>Покажите мне, пожалуйста, это на карте.</kref>
+  - <kref>Половина ...</kref>
+  - <kref>Помогите мне, пожалуйста.</kref>
+  - <kref>Привет!</kref>
+  - <kref>Простите...</kref>
+  - <kref>Простите, пожалуйста.</kref>
+  - <kref>Простите, что заставил Вас ждать.</kref>
+  - <kref>Прошу прощения.</kref>
+  - <kref>С (огромным) удовольствием.</kref>
+  - <kref>Скажите, пожалуйста...</kref>
+  - <kref>Сколько времени?</kref>
+  - <kref>Сначала поверните налево (направо), а потом идите прямо.</kref>
+  - <kref>Сомневаюсь.</kref>
+  - <kref>Спасибо (за приглашение).</kref>
+  - <kref>Спасибо, с удовольствием.</kref>
+  - <kref>Спасибо, с удовольствием.</kref>
+  - <kref>Спасибо, хорошо.</kref>
+  - <kref>У Вас что-нибудь болит?</kref>
+  - <kref>У меня мало времени.</kref>
+  - <kref>У меня нет времени.</kref>
+  - <kref>У меня нет слов!</kref>
+  - <kref>Увы!</kref>
+  - <kref>Хорошо.</kref>
+  - <kref>Через полчаса (два дня, неделю, месяц)</kref>
+  - <kref>Черт возьми!</kref>
+  - <kref>Четверть (без четверти) ...</kref>
+  - <kref>Что Вы предложите в таком случае?</kref>
+  - <kref>Что Вы сказали?</kref>
+  - <kref>Что за погода!</kref>
+  - <kref>Это Вас не касается.</kref>
+  - <kref>Это вероятно.</kref>
+  - <kref>Это далеко отсюда?</kref>
+  - <kref>Это меня не интересует.</kref>
+  - <kref>Это подарок.</kref>
+  - <kref>Это прекрасно (великолепно, чудесно)!</kref>
+  - <kref>Это чересчур!</kref>
+  - <kref>Я буду вовремя.</kref>
+  - <kref>Я в порядке (слегка пьян, вдребезги пьян, устал).</kref>
+  - <kref>Я Вам очень признателен!</kref>
+  - <kref>Я думаю, да.</kref>
+  - <kref>Я заблудился.</kref>
+  - <kref>Я иду домой (к ... в гости, к другу).</kref>
+  - <kref>Я люблю тебя!</kref>
+  - <kref>Я не виноват.</kref>
+  - <kref>Я не дам чаевых(, потому что мне не понравилось обслуживание).</kref>
+  - <kref>Я не знаю дороги (туда).</kref>
+  - <kref>Я не имел в виду этого (чего-нибудь плохого, тебя обидеть).</kref>
+  - <kref>Я не уверен.</kref>
+  - <kref>Я прошу прощения (за то, что назвал Вас ..., что обратился к Вам неподобающим образом).</kref>
+  - <kref>Я с Вами не согласен.</kref>
+  - <kref>Я согласен с Вами (ним, ней, чьей-то точкой зрения).</kref>
+  - <kref>Я часто хожу по магазинам с друзьями (родителями).</kref><k>ОФИЦИАЛЬНЫЕ СЛУЖБЫ</k>
+ <dtrn>Services officiels</dtrn>
+  - <kref>Вызовите, пожалуйста, скорую помощь.</kref>
+  - <kref>Где ближайший почтовый ящик?</kref>
+  - <kref>Где здесь можно поменять деньги?</kref>
+  - <kref>Где можно купить телефонную карточку?</kref>
+  - <kref>Где можно позвонить по телефону?</kref>
+  - <kref>Извините, где находится банк?</kref>
+  - <kref>Какой сегодня обменный курс?</kref>
+  - <kref>Можно получить деньги по моей кредитной карточке?</kref>
+  - <kref>Не подскажете, где ближайший почтамт?</kref>
+  - <kref>Пожалуйста, мелкими купюрами.</kref>
+  - <kref>Скажите, пожалуйста, где телефонная книга?</kref>
+  - <kref>Я ищу полицейский участок.</kref>
+  - <kref>Я попал в аварию.</kref>
+  - <kref>Я хотел бы заявить о краже.</kref><k>Обслужите нас как можно быстрее, пожалуйста.</k>
+ <dtrn>Servez-nous aussi vite que possible, s&apos;il vous plaît.</dtrn><k>Объезд.</k>
+ <dtrn>Détour.</dtrn><k>Одностороннее движение.</k>
+ <dtrn>Sens unique.</dtrn><k>Одну минуту, пожалуйста!</k>
+ <dtrn>Une minute, s&apos;il vous plaît!</dtrn><k>Опасный поворот</k>
+ <dtrn>Virage dangereux.</dtrn><k>Оснащен ли этот кинотеатр системой <nu />&quot;<nu />Долби-звук<nu />&quot;<nu />?</k>
+ <dtrn>Est-ce qu&apos;il y a un système dolby sound dans ce cinéma?</dtrn><k>Остановка запрещена</k>
+ <dtrn>Arrêt interdit.</dtrn><k>Осторожно, опасно!</k>
+ <dtrn>Danger!</dtrn><k>Отвезите меня ...</k>
+ <dtrn>Conduisez-moi, s&apos;il vous plaît, à...</dtrn><k>Откройте, пожалуйста, чемодан.</k>
+ <dtrn>Ouvrez votre valise, s&apos;il vous plaît!</dtrn><k>Открыто!</k>
+ <dtrn>Ouvert!</dtrn><k>Откуда Вы?</k>
+ <dtrn>D&apos;où venez-vous?</dtrn><k>Очень хорошо.</k>
+ <dtrn>Très bien!</dtrn><k>ПОГОДА</k>
+ <dtrn>Temps</dtrn>
+  - <kref>Будет дождь (снег, ветер, туман, тепло, солнечно).</kref>
+  - <kref>Гром гремит.</kref>
+  - <kref>Идет дождь (снег).</kref>
+  - <kref>Какая сегодня погода?</kref>
+  - <kref>Какая чудесная ночь! (Какое чудесное утро! Какой чудесный день!)</kref>
+  - <kref>Какой месяц самый холодный (жаркий) в Вашей стране?</kref>
+  - <kref>Мне очень жарко.</kref>
+  - <kref>Не знаете, какой на завтра прогноз погоды?</kref>
+  - <kref>Сегодня довольно тепло (холодно, морозно).</kref>
+  - <kref>Сегодня жарко (холодно).</kref>
+  - <kref>Сегодня прекрасная погода.</kref>
+  - <kref>Что за погода!</kref>
+  - <kref>Я замерз.</kref><k>ПУТЕШЕСТВИЯ</k>
+ <dtrn>Voyage</dtrn>
+  - <kref>Здесь есть поблизости турбюро?</kref>
+  - <kref>Нам нужна электроэнергия (вода).</kref>
+  - <kref>Париж - прекрасный (изумительный, восхитительный, огромный, скучный, шумный, многолюдный, грязный, чистый) город.</kref>
+  - <kref>У Вас есть план города?</kref>
+  - <kref>Я (активно) занимаюсь туризмом.</kref>
+  - <kref>Я (не) путешествую как турист.</kref>
+  - <kref>Я обожаю исследовать (посещать) новые места (страны, города).</kref>
+  - <kref>Я побывал в разных местах (странах, городах, на разных континентах).</kref>
+  - <kref>Я предпочитаю путешествовать сам по себе (с друзьями, с родителями).</kref>
+  - <kref>Я предпочитаю путешествовать самолетом (поездом, машиной, автобусом).</kref><k>Париж - прекрасный (изумительный, восхитительный, огромный, скучный, шумный, многолюдный, грязный, чистый) город.</k>
+ <dtrn>Paris est une ville excellente (merveilleuse, frappante, grande, ennuyeuse, bruyante, comblée, sale, propre).</dtrn><k>По большей части я читаю...</k>
+ <dtrn>D&apos;habitude je lis...</dtrn><k>Повторите еще раз, будьте добры.</k>
+ <dtrn>Répétez encore une fois, s&apos;il vous plaît.</dtrn><k>Повторите, пожалуйста.</k>
+ <dtrn>Répétez ancore une fois, s&apos;il vous plaît!</dtrn><k>Подождите минутку, пожалуйста.</k>
+ <dtrn>Une minute, s&apos;il vous plaît!</dtrn><k>Пожалуйста, мелкими купюрами.</k>
+ <dtrn>Les billets de banque petits, s&apos;il vous plaît.</dtrn><k>Пожалуйста, один билет в экономический класс (бизнес класс, первый класс, курящий, некурящий салон).</k>
+ <dtrn>Un billet en classe économique (en classe d&apos;affaires, en première classe, pour les fumeurs, pour les non-fumeurs), s&apos;il vous plaît.</dtrn><k>Пожалуйста, полный бак.</k>
+ <dtrn>Réservoir plein, s&apos;il vous plaît.</dtrn><k>Позвольте представить Вам...</k>
+ <dtrn>Permettez-moi de vous présenter ...</dtrn><k>Позвоните попозже, пожалуйста!</k>
+ <dtrn>S&apos;il vous plaît, téléphonez encore une fois un peu plus tard.</dtrn><k>Позовите руководителя группы.</k>
+ <dtrn>Appellez le chef du group!</dtrn><k>Пока!</k>
+ <dtrn>A bientôt!</dtrn><k>Покажите мне эту кассету (CD - диск, книгу), пожалуйста.</k>
+ <dtrn>Pourriez-vous me montrer cette cassette, (CD, ce livre) s&apos;il vous plaît.</dtrn><k>Покажите мне, пожалуйста, это на карте.</k>
+ <dtrn>Montrez-moi cela sur le plan, s&apos;il vous plaît.</dtrn><k>Покажите нам наши места, пожалуйста.</k>
+ <dtrn>Pourriez-vous nous montrer nos places?</dtrn><k>Половина ...</k>
+ <dtrn>Il est ... et demie.</dtrn><k>Положите, пожалуйста, в пакет (бумажный пакет).</k>
+ <dtrn>Pourriez-vous emballer ça dans le paquet (le paquet en papier)?</dtrn><k>Помогите мне, пожалуйста.</k>
+ <dtrn>Pourriez-vous m&apos;aider s&apos;il vous plaît?</dtrn><k>Понравился ли Вам фильм (спектакль, матч)?</k>
+ <dtrn>Avez-vous aimé le film (la pièce, le match)?</dtrn><k>Представление - очень хорошее (захватывающее, скучное, обычное...).</k>
+ <dtrn>La représentation est très bonne (palpitante, ennuyeuse, ordinaire ...).</dtrn><k>Предъявите Вашу таможенную декларацию.</k>
+ <dtrn>Montrez-moi votre déclaration en douane, s&apos;il vous plaît.</dtrn><k>Привет!</k>
+ <dtrn>Salut!</dtrn><k>Приготовьте паспорта!</k>
+ <dtrn>Préparez vos passeports!</dtrn><k>Принесите счет, пожалуйста.</k>
+ <dtrn>L&apos;addition, s&apos;il vous plaît</dtrn><k>Пристегните ремни безопасности!</k>
+ <dtrn>Attachez les ceintures!</dtrn><k>Приятно познакомиться.</k>
+ <dtrn>Enchanté de faire votre connaissance.</dtrn><k>Приятного аппетита!</k>
+ <dtrn>Bon appétit!</dtrn><k>Проезд закрыт.</k>
+ <dtrn>Passage interdit.</dtrn><k>Простите, пожалуйста.</k>
+ <dtrn>Je demande pardon!</dtrn><k>Простите, что заставил Вас ждать.</k>
+ <dtrn>Je m&apos;excuse pour vous faire attendre.</dtrn><k>Простите...</k>
+ <dtrn>Excusez-moi...</dtrn><k>Прошу прощения.</k>
+ <dtrn>Je demande pardon!</dtrn><k>РАЗВЛЕЧЕНИЯ</k>
+ <dtrn>Sortir quelquepart</dtrn>
+  - <kref>Большое спасибо за приглашение.</kref>
+  - <kref>Будьте добры, нарисуйте мне как идти.</kref>
+  - <kref>В какой театр Вы посоветуете пойти?</kref>
+  - <kref>В каком кинотеатре идет этот фильм?</kref>
+  - <kref>Вам нравится эта музыка?</kref>
+  - <kref>Вам нравится эта музыка?</kref>
+  - <kref>Вам отсюда хорошо видно (слышно)?</kref>
+  - <kref>Вам понравился спектакль (представление, постановка, музыка, игра, пение, декорации, костюмы)?</kref>
+  - <kref>Вам тут нравится?</kref>
+  - <kref>Вам удобно? Вы хорошо себя чувствуете?</kref>
+  - <kref>Вы заняты этим вечером?</kref>
+  - <kref>Вы знаете хороший супермаркет (книжный, кондитерскую, кинотеатр, ночной клуб)?</kref>
+  - <kref>Вы любите плавать (играть в волейбол, загорать)?</kref>
+  - <kref>Вы не знаете, где находится...?</kref>
+  - <kref>Вы умеете плавать?</kref>
+  - <kref>Вы хорошо плаваете (катаетесь на серфинге)?</kref>
+  - <kref>Где (когда) будет соревнование (концерт, фильм, выставка)?</kref>
+  - <kref>Где зал английской (немецкой, испанской, французской) живописи?</kref>
+  - <kref>Где здесь выход?</kref>
+  - <kref>Где здесь туалет?</kref>
+  - <kref>Где можно купить путеводитель по музею (каталог, репродукции картин)?</kref>
+  - <kref>Давайте поиграем в хоккей (футбол, волейбол, баскетбол)!</kref>
+  - <kref>Давайте посетим городские музеи.</kref>
+  - <kref>Давайте сходим на выставку фотографии.</kref>
+  - <kref>Давайте сядем у окна (в зале, на террасе, в тени).</kref>
+  - <kref>Дайте мне, пожалуйста, что-нибудь подешевле.</kref>
+  - <kref>Дайте мне, пожалуйста, что-нибудь получше (поближе, подальше, с краю, в середине).</kref>
+  - <kref>Дайте мне, пожалуйста,...</kref>
+  - <kref>Дайте, пожалуйста, програмку.</kref>
+  - <kref>Две (три) части с одним антрактом.</kref>
+  - <kref>Дорогие ли билеты?</kref>
+  - <kref>Есть ли здесь экспонаты из других музеев?</kref>
+  - <kref>Здесь довольно (немного, непереносимо, невероятно, ужасно) душно.</kref>
+  - <kref>Здесь довольно весело.</kref>
+  - <kref>Здесь довольно пусто (многолюдно, душно, скучно).</kref>
+  - <kref>Играют ли какие-нибудь знаменитые актеры в этом фильме?</kref>
+  - <kref>К какой школе он принадлежит?</kref>
+  - <kref>Как мы доберемся до кинотеатра?</kref>
+  - <kref>Какие сейчас идут выставки?</kref>
+  - <kref>Какие спектакли (концерты, представления) идут сегодня?</kref>
+  - <kref>Какой Вы хотите десерт?</kref>
+  - <kref>Какой музей Вы хотели бы посетить: исторический, изобразительных искусств или картинную галерею?</kref>
+  - <kref>Какую музыку Вы любите?</kref>
+  - <kref>Когда жил этот художник (скульптор)?</kref>
+  - <kref>Когда музей открывается (закрывается)?</kref>
+  - <kref>Кто автор пьесы?</kref>
+  - <kref>Кто дирижер (режиссер, продюсер, оператор)?</kref>
+  - <kref>Кто играет в этом фильме (спектакле)?</kref>
+  - <kref>Кто играл главную роль?</kref>
+  - <kref>Кто исполняет арию?</kref>
+  - <kref>Кто солирует?</kref>
+  - <kref>Куда Вы идете?</kref>
+  - <kref>Мне бы хотелось послушать оперу (концерт).</kref>
+  - <kref>Мне бы хотелось сходить в оперный театр (драматический театр, театр оперетты).</kref>
+  - <kref>Мне нравится эта картина (скульптура, композиция).</kref>
+  - <kref>Можно ли здесь фотографировать (снимать на камеру)?</kref>
+  - <kref>Можно мне здесь присесть?</kref>
+  - <kref>Музей (кинотеатр, стадион, развлекательный центр, супермаркет) находится рядом с отелем.</kref>
+  - <kref>Мы бы посмотрели интересный (смешной) фильм.</kref>
+  - <kref>Мы бы посмотрели футбольный (хоккейный, баскетбольный) матч.</kref>
+  - <kref>Мы можем взять магнитофон с записанной экскурсией по-английски.</kref>
+  - <kref>На вкус это довольно горько (отвратительно).</kref>
+  - <kref>На вкус это довольно мило (сладкое, соленое, пряное).</kref>
+  - <kref>Не могли бы Вы мне дать свой номер телефона.</kref>
+  - <kref>Не подскажете нам, как пройти к...?</kref>
+  - <kref>Не хотите ли присоединиться к нам (нашей компании)?</kref>
+  - <kref>Не хотите ли прогуляться (пойти в театр, в кино)?</kref>
+  - <kref>Обслужите нас как можно быстрее, пожалуйста.</kref>
+  - <kref>Оснащен ли этот кинотеатр системой Долби-звук?</kref>
+  - <kref>Покажите нам наши места, пожалуйста.</kref>
+  - <kref>Понравился ли Вам фильм (спектакль, матч)?</kref>
+  - <kref>Представление - очень хорошее (захватывающее, скучное, обычное...).</kref>
+  - <kref>Принесите счет, пожалуйста.</kref>
+  - <kref>Приятного аппетита!</kref>
+  - <kref>Сегодня прекрасная погода.</kref>
+  - <kref>Сейчас пойдет дождь (снег). Давайте зайдем куда-нибудь.</kref>
+  - <kref>Сколько антрактов?</kref>
+  - <kref>Сколько длится антракт?</kref>
+  - <kref>Сколько стоит билет?</kref>
+  - <kref>Сколько частей в спектакле (концерте, шоу)?</kref>
+  - <kref>Сколько это стоит?</kref>
+  - <kref>Сложно ли достать билеты на фильм (спектакль, представление...)?</kref>
+  - <kref>Солнцезащитные очки не помогают.</kref>
+  - <kref>Спасибо за приглашение, но я буду занят.</kref>
+  - <kref>Тут в счете ошибка.</kref>
+  - <kref>У вас есть ...?</kref>
+  - <kref>У Вас есть план города?</kref>
+  - <kref>Угощайтесь!</kref>
+  - <kref>Что Вы делаете завтра?</kref>
+  - <kref>Что сегодня идет в кино (в театрах )?</kref>
+  - <kref>Чья это работа?</kref>
+  - <kref>Это далеко отсюда?</kref>
+  - <kref>Это оригинал или копия?</kref>
+  - <kref>Это очень хорошее представление (опера, балет, концерт).</kref>
+  - <kref>Это постоянная экспозиция или временная выставка?</kref>
+  - <kref>Это цветной (черно-белый) фильм?</kref>
+  - <kref>Этот фильм получил приз за лучшую мужскую роль (женскую роль, сценарий, работу режиссера).</kref>
+  - <kref>Этот фильм получил приз за лучшую мужскую роль на Московском (Каннском, Венецианском, Берлинском) фестивале.</kref>
+  - <kref>Я бы посмотрел мелодраму (комедию, музыкальный фильм, ролик новостей, мультфильм).</kref>
+  - <kref>Я заблудился.</kref>
+  - <kref>Я забыла взять мои темные очки (зонтик, купальник, плавки, полотенце, кепку).</kref>
+  - <kref>Я заплачу за всех.</kref>
+  - <kref>Я заснул на солнце и ужасно обгорел.</kref>
+  - <kref>Я интересуюсь живописью и скульптурой европейских школ.</kref>
+  - <kref>Я люблю драму, но мне не нравится балет или комедия.</kref>
+  - <kref>Я люблю кино (кинофильмы, футбол) гораздо больше, чем театр.</kref>
+  - <kref>Я на диете.</kref>
+  - <kref>Я на диете.</kref>
+  - <kref>Я хочу пойти в кино (театр, на концерт).</kref>
+  - <kref>Я хочу пригласить Вас в театр (ко мне домой).</kref><k>РЕСТОРАН/КАФЕ</k>
+ <dtrn>Restaurant/Café</dtrn>
+  - <kref>Блюдо пересолено (переварено, пережарено, несвежее)</kref>
+  - <kref>Возьмите еще...</kref>
+  - <kref>Давайте позавтракаем (пообедаем, поужинаем) в ресторане.</kref>
+  - <kref>Давайте сядем у окна (в зале, на террасе, в тени).</kref>
+  - <kref>Две Кока-колы (два пива, две пинты, два коктейля, два кофе), пожалуйста!</kref>
+  - <kref>За ваше здоровье!</kref>
+  - <kref>Здесь довольно (немного, непереносимо, невероятно, ужасно) душно.</kref>
+  - <kref>Здесь довольно пусто (многолюдно, душно, скучно).</kref>
+  - <kref>Каждый платит за себя.</kref>
+  - <kref>Какие сорта вина Вы предпочитаете, красные или белые (сухие, столовые)?</kref>
+  - <kref>Какое Ваше любимое блюдо?</kref>
+  - <kref>Какой Вы хотите десерт?</kref>
+  - <kref>Кухню какой страны Вы предпочитаете?</kref>
+  - <kref>Мое любимое блюдо (мой любимый напиток)...</kref>
+  - <kref>Может, хотите еще чего-нибудь?</kref>
+  - <kref>На вкус это довольно мило (сладкое, соленое, пряное).</kref>
+  - <kref>Не хотите ли что-нибудь выпить (съесть)?</kref>
+  - <kref>Не хотите покурить (выпить)?</kref>
+  - <kref>Нет, спасибо, я уже сыт.</kref>
+  - <kref>Обслужите нас как можно быстрее, пожалуйста.</kref>
+  - <kref>Принесите счет, пожалуйста.</kref>
+  - <kref>Приятного аппетита!</kref>
+  - <kref>Разрешите выпить за успех (наших хозяев, за Ваше гостеприимство)!</kref>
+  - <kref>Тут в счете ошибка.</kref>
+  - <kref>У Вас не найдется закурить?</kref>
+  - <kref>Угощайтесь!</kref>
+  - <kref>Что Вы обычно едите на завтрак (обед, ужин)?</kref>
+  - <kref>Что Вы пьете к рыбе?</kref>
+  - <kref>Что Вы хотите, чай или кофе?</kref>
+  - <kref>Это - грязный стакан (нож, чашка, тарелка, вилка, ложка)!</kref>
+  - <kref>Я бы хотел стейк (рыбы, ветчины)</kref>
+  - <kref>Я заплачу за всех.</kref>
+  - <kref>Я на диете.</kref>
+  - <kref>Я не дам чаевых(, потому что мне не понравилось обслуживание).</kref>
+  - <kref>Я не ем мяса. (Я вегетарианец.)</kref>
+  - <kref>Я очень хочу есть (пить).</kref><k>Рад встрече.</k>
+ <dtrn>Je suis très content(e) de vous voir!</dtrn><k>Разбудите меня, пожалуйста, в ...</k>
+ <dtrn>S&apos;il vous plaît, réveillez-moi à ...</dtrn><k>Разрешите выпить за успех (наших хозяев, за Ваше гостеприимство)!</k>
+ <dtrn>Je voudrais lever mon verre à notre succès (nos hôtes, votre hospitalité)!</dtrn><k>Разрешите, я провожу Вас?</k>
+ <dtrn>Est ce que je peux vous conduire à la maison (quelque part)?</dtrn><k>С (огромным) удовольствием.</k>
+ <dtrn>Avec (beaucoup de) plaisir.</dtrn><k>С нетерпением жду встречи с Вами (там, в ...).</k>
+ <dtrn>J&apos;espère qu&apos;on se verra (à, dans ...).</dtrn><k>СПОРТ</k>
+ <dtrn>Sports</dtrn>
+  - <kref>Где (когда) будет соревнование (концерт, фильм, выставка)?</kref>
+  - <kref>Давайте поиграем в хоккей (футбол, волейбол, баскетбол)!</kref>
+  - <kref>За какую команду Вы болеете?</kref>
+  - <kref>Занятия спортом (различными видами спорта) полезны для здоровья.</kref>
+  - <kref>Иногда, когда у меня есть время.</kref>
+  - <kref>Какие летние (зимние) виды спорта популярны в твоей стране?</kref>
+  - <kref>Какой счет?</kref>
+  - <kref>Кто выиграл последние Олимпийские Игры (Кубок мира, Кубок Европы )?</kref>
+  - <kref>Кто забил гол?</kref>
+  - <kref>Кто судья?</kref>
+  - <kref>Мой тренер (иногда, часто, всегда) очень строг к своим подопечным.</kref>
+  - <kref>Мы бы посмотрели футбольный (хоккейный, баскетбольный) матч.</kref>
+  - <kref>Наш тренер (не) был профессиональным спортсменом.</kref>
+  - <kref>Я - поклонник ...</kref>
+  - <kref>Я болею за Спартак (Барселону, Манчестер Юнайтед, Баварию, Милан)</kref>
+  - <kref>Я занимаюсь спортом (очень активно).</kref>
+  - <kref>Я начал заниматься плаванием (верховой ездой), когда мне было ... лет.</kref>
+  - <kref>Я начал играть в футбол (баскетбол, бейсбол), когда мне было ... лет.</kref>
+  - <kref>Я не (профессиональный) спортсмен, но люблю спорт.</kref>
+  - <kref>Я обожаю различные виды спорта.</kref>
+  - <kref>Я показываю хорошие (лучшие, плохие, худшие, самые плохие) результаты.</kref>
+  - <kref>Я предпочитаю заниматься спортом, а не смотреть его.</kref>
+  - <kref>Я предпочитаю смотреть спорт по телевизору.</kref><k>Садитесь, пожалуйста.</k>
+ <dtrn>Asseyez-vous, s&apos;il vous plaît.</dtrn><k>Самолет опаздывает?</k>
+ <dtrn>L&apos;avion est en retard?</dtrn><k>Сегодня довольно тепло (холодно, морозно).</k>
+ <dtrn>Il fait assez chaud (frais, froid) aujourd&apos;hui.</dtrn><k>Сегодня жарко (холодно).</k>
+ <dtrn>Il fait chaud (froid).</dtrn><k>Сегодня прекрасная погода.</k>
+ <dtrn>Il fait beau aujourd&apos;hui</dtrn><k>Сейчас пойдет дождь (снег). Давайте зайдем куда-нибудь.</k>
+ <dtrn>Il va pleuvoir (neiger). Peut-être on va quelque part?</dtrn><k>Скажите, пожалуйста, где телефонная книга?</k>
+ <dtrn>Dites-mois, s&apos;il vous plaît, où est l&apos;annuaire?</dtrn><k>Скажите, пожалуйста...</k>
+ <dtrn>Dites-moi, s&apos;il vous plaît...</dtrn><k>Сколько Вам лет?</k>
+ <dtrn>Quel âge avez-vous?</dtrn><k>Сколько антрактов?</k>
+ <dtrn>Combien d&apos;entractes y a-t-il?</dtrn><k>Сколько времени?</k>
+ <dtrn>Quelle heure est-il?</dtrn><k>Сколько длится антракт?</k>
+ <dtrn>Combien de temps va l&apos;entracte durer?</dtrn><k>Сколько лет Вашему брату (Вашей сестре)?</k>
+ <dtrn>Quel âge a votre frère (votre soeur)?</dtrn><k>Сколько остановок до ...?</k>
+ <dtrn>Combien d&apos;arrêts faut-il passer pour descendre à ...?</dtrn><k>Сколько стоит билет?</k>
+ <dtrn>Combien coûte un billet?</dtrn><k>Сколько стоит номер с ванной (с завтраком, без завтрака, с полным пансионом)?</k>
+ <dtrn>Combien coûte une chambre avec la salle de bains (avec le petit déjeuner, sans petit déjeuner,avec la pension complète)?</dtrn><k>Сколько стоит проезд в метро (автобусе)?</k>
+ <dtrn>Combien coûte le billet pour le métro (l&apos;autobus)?</dtrn><k>Сколько стоит прокат ... в неделю?</k>
+ <dtrn>Combien coûte louer un auto ... par semaine?</dtrn><k>Сколько частей в спектакле (концерте, шоу)?</k>
+ <dtrn>Combien d&apos;actes a cette pièce (ce concert, ce show)?</dtrn><k>Сколько это стоит?</k>
+ <dtrn>Combien ça coûte?</dtrn><k>Сложно ли достать билеты на фильм (спектакль, представление...)?</k>
+ <dtrn>Est-ce qu&apos;il est difficile d&apos;obtenir des billets pour ce film (cette pièce, ce spectacle)?</dtrn><k>Сначала поверните налево (направо), а потом идите прямо.</k>
+ <dtrn>Vous tournez à gauche (à droite), puis vous allez tout droit.</dtrn><k>Солнцезащитные очки не помогают.</k>
+ <dtrn>Des lunettes de protection n&apos;aident pas en fait.</dtrn><k>Сомневаюсь.</k>
+ <dtrn>Je doute.</dtrn><k>Спасибо (за приглашение).</k>
+ <dtrn>Merci (pour l&apos;invitation).</dtrn><k>Спасибо за приглашение, но я буду занят.</k>
+ <dtrn>Merci pour l&apos;invitation, mais je serai occupé(e).</dtrn><k>Спасибо, с удовольствием.</k>
+ <dtrn>Merci, avec plaisir.</dtrn><k>Спасибо, хорошо.</k>
+ <dtrn>Merci, ça va bien.</dtrn><k>Стоянка запрещена.</k>
+ <dtrn>Stationnement interdit.</dtrn><k>Стоянка такси.</k>
+ <dtrn>Taxi.</dtrn><k>ТРАНСПОРТ</k>
+ <dtrn>Transports</dtrn>
+  - <kref>В какую сторону ехать до...?</kref>
+  - <kref>Ваши водительские права, пожалуйста.</kref>
+  - <kref>Где ближайшая остановка автобуса (трамвая, станция метро)?</kref>
+  - <kref>Где здесь можно запарковать машину?</kref>
+  - <kref>Где мне найти мой багаж?</kref>
+  - <kref>Где можно взять машину напрокат?</kref>
+  - <kref>Где можно купить билет?</kref>
+  - <kref>Где посадка на самолет?</kref>
+  - <kref>Где стоянка такси?</kref>
+  - <kref>За какое время я доеду до...</kref>
+  - <kref>Какая следующая станция (остановка)?</kref>
+  - <kref>Какой автобус (трамвай, какая линия метро) идет до ...?</kref>
+  - <kref>Когда мы должны приземлиться?</kref>
+  - <kref>Когда следующий рейс?</kref>
+  - <kref>Куда ведет эта дорога?</kref>
+  - <kref>Место возле окна (прохода), пожалуйста.</kref>
+  - <kref>Моя машина не заводится.</kref>
+  - <kref>На этой дороге есть мотель (автосервис, заправочная станция)?</kref>
+  - <kref>Не могли бы Вы мне сказать, когда мне выходить (пересаживаться)?</kref>
+  - <kref>Отвезите меня ...</kref>
+  - <kref>Пожалуйста, один билет в экономический класс (бизнес класс, первый класс, курящий, некурящий салон).</kref>
+  - <kref>Пожалуйста, полный бак.</kref>
+  - <kref>Покажите мне, пожалуйста, это на карте.</kref>
+  - <kref>Самолет опаздывает?</kref>
+  - <kref>Сколько остановок до ...?</kref>
+  - <kref>Сколько стоит проезд в метро (автобусе)?</kref>
+  - <kref>Сколько стоит прокат ... в неделю?</kref>
+  - <kref>Уже объявили регистрацию (посадку)?</kref>
+  - <kref>Я хотел бы заправиться.</kref><k>Тебе нравится музыка (спорт, чтение)?</k>
+ <dtrn>Aimes-tu la musique (le sport, la lecture)?</dtrn><k>Только для пешеходов.</k>
+ <dtrn>Seulement pour les pietons.</dtrn><k>Туалет (свободно /занято)</k>
+ <dtrn>W.C.(ouvert/fermé)</dtrn><k>Тут в счете ошибка.</k>
+ <dtrn>Il y a une erreur dans l&apos;addition.</dtrn><k>У Вас есть братья или сестры?</k>
+ <dtrn>Est-que vous avez des frères ou des soeurs?</dtrn><k>У Вас есть виза?</k>
+ <dtrn>Avez-vous le visa?</dtrn><k>У Вас есть одноместный (двухместный) номер?</k>
+ <dtrn>Avez-vous des chambres à un lit (à deux lits)?</dtrn><k>У Вас есть план города?</k>
+ <dtrn>Avez-vous le plan de la ville?</dtrn><k>У Вас не найдется закурить?</k>
+ <dtrn>Est ce que je peux allumer une cigarette?</dtrn><k>У Вас что-нибудь болит?</k>
+ <dtrn>Vous avez mal (quelque part)?</dtrn><k>У вас есть ...?</k>
+ <dtrn>Avez-vous ... ?</dtrn><k>У меня (ужасная) головная боль.</k>
+ <dtrn>J&apos;ai mal (très fort) à la tête.</dtrn><k>У меня ... размер.</k>
+ <dtrn>Ma taille (dimension, pointure) est ...</dtrn><k>У меня болит живот (голова).</k>
+ <dtrn>J&apos;ai mal au ventre (à la tête).</dtrn><k>У меня болит спина (колено, бок, рука).</k>
+ <dtrn>J&apos;ai mal au dos (au genou, au flanc, au bras).</dtrn><k>У меня большая коллекция CD - дисков (кассет, пластинок).</k>
+ <dtrn>J&apos;ai une grande collection de CDs (bandes, disques).</dtrn><k>У меня болят ноги (руки).</k>
+ <dtrn>J&apos;ai mal au pieds (au bras).</dtrn><k>У меня есть брат (... братьев) и сестра (... сестер).</k>
+ <dtrn>J&apos;ai un frère (... frères) et une soeur (... soeurs).</dtrn><k>У меня есть разрешение на ввоз (вывоз).</k>
+ <dtrn>J&apos;ai le permis d&apos;importation (d&apos;exportation).</dtrn><k>У меня мало времени на мое увлечение.</k>
+ <dtrn>Je n&apos;ai pas beaucoup de temps pour mon hobby.</dtrn><k>У меня мало времени.</k>
+ <dtrn>J&apos;ai peu de temps.</dtrn><k>У меня много (два, три) домашних животных.</k>
+ <dtrn>J&apos;ai beaucoup des (deux, trois) animaux domestique.</dtrn><k>У меня нет времени.</k>
+ <dtrn>Je n&apos;ai pas de temps.</dtrn><k>У меня нет слов!</k>
+ <dtrn>Il n&apos;y a pas à dire!</dtrn><k>У меня только личные вещи.</k>
+ <dtrn>Ce sont les affaires personnelles.</dtrn><k>Увы!</k>
+ <dtrn>Hélas!</dtrn><k>Угощайтесь!</k>
+ <dtrn>Servez-vous, s&apos;il vous plaît.</dtrn><k>Уже объявили регистрацию (посадку)?</k>
+ <dtrn>Est-ce que l&apos;enregistrement (l&apos;embarquement) a été déjà annoncé?</dtrn><k>ХОББИ/ИНТЕРЕСЫ</k>
+ <dtrn>Hobby/intérêts</dtrn>
+  - <kref>Вы умеете играть на гитаре (виолончели, пианино, ударных)?</kref>
+  - <kref>Давайте поиграем в хоккей (футбол, волейбол, баскетбол)!</kref>
+  - <kref>За Интернетом будущее, в этом нет никаких сомнений.</kref>
+  - <kref>Занятия спортом (различными видами спорта) полезны для здоровья.</kref>
+  - <kref>Играют ли какие-нибудь знаменитые актеры в этом фильме?</kref>
+  - <kref>Иногда, когда у меня есть время.</kref>
+  - <kref>Как Вы обычно проводите свободное время?</kref>
+  - <kref>Как давно Вы увлекаетесь этим?</kref>
+  - <kref>Какая у Вас любимая книга (Какой у Вас любимый вид спорта, музыкальный жанр, фильм)?</kref>
+  - <kref>Какие книги Вы читаете?</kref>
+  - <kref>Какие летние (зимние) виды спорта популярны в твоей стране?</kref>
+  - <kref>Какие у Вас хобби?</kref>
+  - <kref>Какую музыку Вы больше всего слушаете?</kref>
+  - <kref>Какую музыку Вы любите?</kref>
+  - <kref>Кто выиграл последние Олимпийские Игры (Кубок мира, Кубок Европы )?</kref>
+  - <kref>Кто играл главную роль?</kref>
+  - <kref>Кто твой любимый писатель (поэт, драматург)?</kref>
+  - <kref>Мне (не) нравится Ваш музыкальный вкус.</kref>
+  - <kref>Мне нравится встречаться с разными людьми.</kref>
+  - <kref>Мое увлечение требует много времени.</kref>
+  - <kref>Мое хобби - фотография (спорт, туризм).</kref>
+  - <kref>Мои любимые группы (исполнители, певцы) - это...</kref>
+  - <kref>Мой любимый писатель (поэт, драматург) ...</kref>
+  - <kref>Мой тренер (иногда, часто, всегда) очень строг к своим подопечным.</kref>
+  - <kref>По большей части я читаю...</kref>
+  - <kref>Понравился ли Вам фильм (спектакль, матч)?</kref>
+  - <kref>Тебе нравится музыка (спорт, чтение)?</kref>
+  - <kref>У меня большая коллекция CD - дисков (кассет, пластинок).</kref>
+  - <kref>У меня мало времени на мое увлечение.</kref>
+  - <kref>У меня много (два, три) домашних животных.</kref>
+  - <kref>Чем Вы интересуетесь?</kref>
+  - <kref>Что в этом (хобби) интересного?</kref>
+  - <kref>Я - поклонник ...</kref>
+  - <kref>Я (не слишком) хорошо играю.</kref>
+  - <kref>Я (не) очень люблю музыку.</kref>
+  - <kref>Я беру уроки игры на фортепьяно (гитаре, виолончели, скрипке).</kref>
+  - <kref>Я беру уроки игры на фортепьяно в школе (дома, в университете)</kref>
+  - <kref>Я болею за Спартак (Барселону, Манчестер Юнайтед, Баварию, Милан)</kref>
+  - <kref>Я занимаюсь спортом (очень активно).</kref>
+  - <kref>Я знаю несколько аккордов.</kref>
+  - <kref>Я и сам пытаюсь писать.</kref>
+  - <kref>Я играю на гитаре (виолончели, ударных и т.д.).</kref>
+  - <kref>Я играю на гитаре в (школьной, университетской) группе.</kref>
+  - <kref>Я коллекционирую марки (пивные банки, автографы) ... лет.</kref>
+  - <kref>Я люблю путешествовать (читать, кататься на лыжах).</kref>
+  - <kref>Я люблю спорт, музыку, кино, собирать марки.</kref>
+  - <kref>Я люблю читать классические романы (короткие рассказы, поэзию, детективы).</kref>
+  - <kref>Я могу слушать любую музыку, кроме тяжелого металла (классической музыки, рэпа, попмузыки).</kref>
+  - <kref>Я начал заниматься плаванием (верховой ездой), когда мне было ... лет.</kref>
+  - <kref>Я обожаю различные виды спорта.</kref>
+  - <kref>Я очень люблю ...</kref>
+  - <kref>Я очень часто сижу в Интернете.</kref>
+  - <kref>Я поклонник музыки!</kref>
+  - <kref>Я предпочитаю инструментальную музыку.</kref>
+  - <kref>Я слушаю разную музыку.</kref>
+  - <kref>Я собираю марки (открытки, значки, монеты)</kref>
+  - <kref>Я считаю классическую музыку ерундой (скучной, увлекательной, забавной).</kref>
+  - <kref>Я увлекаюсь...</kref><k>Хорошо.</k>
+ <dtrn>Ah, bon. (C&apos;est bien.Ça va.)</dtrn><k>Хотите ли Вы взять с собой кого-нибудь?</k>
+ <dtrn>Voulez-vous inviter quelqu&apos;un?</dtrn><k>Цель Вашей поездки?</k>
+ <dtrn>Quel est le but de votre voyage?</dtrn><k>ЧИСЛИТЕЛЬНЫЕ</k>
+ <dtrn>Numéraux</dtrn>
+  - <kref>1</kref>
+  - <kref>10</kref>
+  - <kref>100</kref>
+  - <kref>1000</kref>
+  - <kref>11</kref>
+  - <kref>12</kref>
+  - <kref>13</kref>
+  - <kref>14</kref>
+  - <kref>15</kref>
+  - <kref>16</kref>
+  - <kref>17</kref>
+  - <kref>18</kref>
+  - <kref>19</kref>
+  - <kref>2</kref>
+  - <kref>20</kref>
+  - <kref>21</kref>
+  - <kref>22</kref>
+  - <kref>23</kref>
+  - <kref>24</kref>
+  - <kref>3</kref>
+  - <kref>30</kref>
+  - <kref>300</kref>
+  - <kref>4</kref>
+  - <kref>40</kref>
+  - <kref>5</kref>
+  - <kref>50</kref>
+  - <kref>5223</kref>
+  - <kref>6</kref>
+  - <kref>60</kref>
+  - <kref>7</kref>
+  - <kref>70</kref>
+  - <kref>8</kref>
+  - <kref>80</kref>
+  - <kref>9</kref>
+  - <kref>90</kref>
+  - <kref>миллион</kref><k>Чем Вы интересуетесь?</k>
+ <dtrn>A quoi vous vous intéressez?</dtrn><k>Через полчаса (два дня, неделю, месяц)</k>
+ <dtrn>Dans une demi-heure (deux jours, un mois)</dtrn><k>Черт возьми!</k>
+ <dtrn>Ah, Diable!</dtrn><k>Четверть (без четверти) ...</k>
+ <dtrn>Il est ... et quart (moins le quart).</dtrn><k>Что Вы делаете завтра?</k>
+ <dtrn>Que faites-vous demain?</dtrn><k>Что Вы обычно едите на завтрак (обед, ужин)?</k>
+ <dtrn>Qu&apos;est ce que vous prenez pour le petit déjeuner (déjeuner, dîner)?</dtrn><k>Что Вы предложите в таком случае?</k>
+ <dtrn>Et alors, qu&apos;est ce que tu propose?</dtrn><k>Что Вы пьете к рыбе?</k>
+ <dtrn>Qu&apos;est ce que vous buvez avec le poisson?</dtrn><k>Что Вы сказали?</k>
+ <dtrn>Pardon, qu&apos;est-ce que vous avez dit?</dtrn><k>Что Вы хотите, чай или кофе?</k>
+ <dtrn>Qu&apos;est ce que vous voulez, du café ou du thé?</dtrn><k>Что в этом (хобби) интересного?</k>
+ <dtrn>Comment peut cet hobby être intéressant?</dtrn><k>Что за погода!</k>
+ <dtrn>Quel temps!</dtrn><k>Что сегодня идет в кино (в театрах )?</k>
+ <dtrn>Quel film passe-t-on aujourd&apos;hui au cinéma (Quelle pièce passe-t-on aujourd&apos;hui au théâtre)?</dtrn><k>Чья это работа?</k>
+ <dtrn>Qui est l&apos;auteur de cette toile?</dtrn><k>Это - грязный стакан (нож, чашка, тарелка, вилка, ложка)!</k>
+ <dtrn>Ce verre (tasse, assiette, fourchette, couteau) est sale.</dtrn><k>Это Вас не касается.</k>
+ <dtrn>Ça ne vous regarde pas!</dtrn><k>Это вероятно.</k>
+ <dtrn>C&apos;est tout à fait probable.</dtrn><k>Это время Вам подходит?</k>
+ <dtrn>Êtes-vous d&apos;accord avec l&apos;heure?</dtrn><k>Это далеко отсюда?</k>
+ <dtrn>Est-ce que c&apos;est très loin?</dtrn><k>Это меня не интересует.</k>
+ <dtrn>Ça ne m&apos;intéresse pas.</dtrn><k>Это мой брат (сестра, мама, папа, друг...).</k>
+ <dtrn>C&apos;est mon frère (ma soeure, ma maman, mon papa, mon ami ...).</dtrn><k>Это оригинал или копия?</k>
+ <dtrn>Est-ce l&apos;original ou la copie?</dtrn><k>Это очень хорошее представление (опера, балет, концерт).</k>
+ <dtrn>La représentation (l&apos;opéra, le ballet, le concert) est très bonne.</dtrn><k>Это подарок.</k>
+ <dtrn>C&apos;est un cadeau.</dtrn><k>Это постоянная экспозиция или временная выставка?</k>
+ <dtrn>Est ce que cette exposition est permanente ou provisoire?</dtrn><k>Это прекрасно (великолепно, чудесно)!</k>
+ <dtrn>C&apos;est parfait (magnifique, superbe)!</dtrn><k>Это цветной (черно-белый) фильм?</k>
+ <dtrn>Est-ce un film en couleurs (en noir-et-blanc)?</dtrn><k>Это чересчур!</k>
+ <dtrn>C&apos;en est trop!</dtrn><k>Этот номер мне (не) подходит.</k>
+ <dtrn>Cette chambre (ne) me plaît (pas).</dtrn><k>Этот фильм получил приз за лучшую мужскую роль (женскую роль, сценарий, работу режиссера).</k>
+ <dtrn>Ce film a remporté un prix pour le meilleur rôle masculin (rôle féminin, scénario, mise en scène).</dtrn><k>Этот фильм получил приз за лучшую мужскую роль на Московском (Каннском, Венецианском, Берлинском) фестивале.</k>
+ <dtrn>Ce film a remporté un prix pour le meilleur rôle masculin au festival de Moscou (Cannes, Venise, Berlin).</dtrn><k>Я (активно) занимаюсь туризмом.</k>
+ <dtrn>Je m&apos;occupe activement du tourisme.</dtrn><k>Я (не слишком) хорошо играю.</k>
+ <dtrn>Je (ne) joue (pas) bien.</dtrn><k>Я (не) очень люблю музыку.</k>
+ <dtrn>J&apos;aime beaucoup (un peu) la musique.</dtrn><k>Я (не) понимаю Вас.</k>
+ <dtrn>Je (ne) vous comprends (pas).</dtrn><k>Я (не) путешествую как турист.</k>
+ <dtrn>Je (ne) voyage (pas) comme touriste.</dtrn><k>Я - поклонник ...</k>
+ <dtrn>Je suis supporter de ....</dtrn><k>Я Вам очень признателен!</k>
+ <dtrn>Je suis très obligé à vous!</dtrn><k>Я беру уроки игры на фортепьяно (гитаре, виолончели, скрипке).</k>
+ <dtrn>Je prends les leçons de piano (guitare, violoncelle, violon).</dtrn><k>Я беру уроки игры на фортепьяно в школе (дома, в университете)</k>
+ <dtrn>Je prends les leçons de piano à l&apos;école (à la maison, à l&apos;université).</dtrn><k>Я бизнесмен (студент, учительница).</k>
+ <dtrn>Je suis businessman (étudiant, professeur).</dtrn><k>Я болею за Спартак (Барселону, Манчестер Юнайтед, Баварию, Милан)</k>
+ <dtrn>Je supporte Spartak (Barcelone, Manchester United, Bayern, Milan)</dtrn><k>Я буду вовремя.</k>
+ <dtrn>J&apos;arriverai à temps.</dtrn><k>Я буду очень рад(а) Вас (тебя) видеть.</k>
+ <dtrn>Je serai heureux(-se) de vous (te) voir.</dtrn><k>Я бы посмотрел мелодраму (комедию, музыкальный фильм, ролик новостей, мультфильм).</k>
+ <dtrn>Je voudrais voir un mélodrame (une comédie, une comédie musicale, les actualités, un dessin animé).</dtrn><k>Я бы хотел стейк (рыбы, ветчины)</k>
+ <dtrn>Je prendrais un steak (du poisson, du porc).</dtrn><k>Я в порядке (слегка пьян, вдребезги пьян, устал).</k>
+ <dtrn>Tout est bien. (Je suis un peu ivre, ivre, fatigué)</dtrn><k>Я весь промок.</k>
+ <dtrn>Je suis trempé.</dtrn><k>Я высокий (темноволосый).</k>
+ <dtrn>Je suis grand (aux cheveux brun).</dtrn><k>Я говорю слишком быстро?</k>
+ <dtrn>Est-ce que je parle très vite?</dtrn><k>Я думаю остановиться на один день (неделю).</k>
+ <dtrn>Je vais rester ici pour un jour (une semain).</dtrn><k>Я думаю, да.</k>
+ <dtrn>Je pense (crois) que oui (si).</dtrn><k>Я еду в составе тургруппы.</k>
+ <dtrn>Je voyage avec le group des touristes.</dtrn><k>Я заблудился.</k>
+ <dtrn>Je me suis perdu(e).</dtrn><k>Я забыла взять мои темные очки (зонтик, купальник, плавки, полотенце, кепку).</k>
+ <dtrn>J&apos;ai oublié mes lunette de protection (parasol, maillot de bain, serviette, casquette).</dtrn><k>Я замерз.</k>
+ <dtrn>Je suis gelé.</dtrn><k>Я занимаюсь спортом (очень активно).</k>
+ <dtrn>Je fais du sport très activement.</dtrn><k>Я заплачу за всех.</k>
+ <dtrn>Je paie pour tout le monde.</dtrn><k>Я заснул на солнце и ужасно обгорел.</k>
+ <dtrn>Je me suis endormi au soleil et je suis extrêmement brûlé.</dtrn><k>Я знаю несколько аккордов.</k>
+ <dtrn>Je sais quelques accords.</dtrn><k>Я и сам пытаюсь писать.</k>
+ <dtrn>Je tente d&apos;écrire quelque choses.</dtrn><k>Я играю на гитаре (виолончели, ударных и т.д.).</k>
+ <dtrn>Je joue de la guitare (du violon, des tambours)</dtrn><k>Я играю на гитаре в (школьной, университетской) группе.</k>
+ <dtrn>Je joue de la guitare dans la troupe d&apos;école (de l&apos;université).</dtrn><k>Я иду домой (к ... в гости, к другу).</k>
+ <dtrn>Je vais à la maison (chez ..., chez mon ami(e)).</dtrn><k>Я из России (Европы, Испании, Франции, Англии, Германии, Голландии, Швеции).</k>
+ <dtrn>Je suis de la Russie (de l&apos;Europe, de l&apos;Espagne, de la France, de l&apos;Angleterre, de l&apos;Allemagne, de la Hollande, de la Suède, ...).</dtrn><k>Я интересуюсь живописью и скульптурой европейских школ.</k>
+ <dtrn>Je m&apos;intéresse à la peinture et à la sculpture des écoles européen.</dtrn><k>Я ищу полицейский участок.</k>
+ <dtrn>Je cherche la police.</dtrn><k>Я коллекционирую марки (пивные банки, автографы) ... лет.</k>
+ <dtrn>Je collectionne des timbres (boîtes de bière, autographes) depuis ... ans.</dtrn><k>Я люблю драму, но мне не нравится балет или комедия.</k>
+ <dtrn>J&apos;aime le drame, mais je n&apos;aime pas les ballets ou les comédies.</dtrn><k>Я люблю кино (кинофильмы, футбол) гораздо больше, чем театр.</k>
+ <dtrn>J&apos;aime le cinéma (les films, les matchs de football) plus que théâtre.</dtrn><k>Я люблю путешествовать (читать, кататься на лыжах).</k>
+ <dtrn>J&apos;aime voyager (lire, faire du ski).</dtrn><k>Я люблю спорт, музыку, кино, собирать марки.</k>
+ <dtrn>J&apos;aime (beaucoup) le sport (la musique, le cinéma, collectionner des timbres).</dtrn><k>Я люблю тебя!</k>
+ <dtrn>Je t&apos;aime.</dtrn><k>Я люблю читать классические романы (короткие рассказы, поэзию, детективы).</k>
+ <dtrn>J&apos;aime lire les romans classiques (les récits, la poésie, les romans policiers).</dtrn><k>Я могу слушать любую музыку, кроме <nu />&quot;<nu />тяжелого металла<nu />&quot;<nu /> (классической музыки, рэпа, попмузыки).</k>
+ <dtrn>Je peux écouter toute la musique à l&apos;exception de heavy metal (la musique classique, rap, la musique populaire).</dtrn><k>Я на диете.</k>
+ <dtrn>Je suis au régime.</dtrn><k>Я начал заниматься плаванием (верховой ездой), когда мне было ... лет.</k>
+ <dtrn>J&apos;ai commencé à m&apos;occuper de natation (équitation) quand j&apos;étais... .</dtrn><k>Я начал играть в футбол (баскетбол, бейсбол), когда мне было ... лет.</k>
+ <dtrn>J&apos;ai commencé à jouer au football (basketball, baseball) quand j&apos;étais... .</dtrn><k>Я не (профессиональный) спортсмен, но люблю спорт.</k>
+ <dtrn>Je ne suis pas sportif, mais j&apos;aime le sport.</dtrn><k>Я не виноват.</k>
+ <dtrn>Ce n&apos;est pas de ma faute.</dtrn><k>Я не говорю по-английски (по-немецки, по-французски, по-испански).</k>
+ <dtrn>Je ne parle pas l&apos;anglais (l&apos;allemand, l&apos;espagnol).</dtrn><k>Я не дам чаевых(, потому что мне не понравилось обслуживание).</k>
+ <dtrn>Pas de pourboire, parce que je n&apos;aime pas le service.</dtrn><k>Я не ем мяса. (Я вегетарианец.)</k>
+ <dtrn>Je ne mange pas de viande. (Je suis végétarien).</dtrn><k>Я не знаю дороги (туда).</k>
+ <dtrn>Je ne sais pas comment y aller.</dtrn><k>Я не имел в виду этого (чего-нибудь плохого, тебя обидеть).</k>
+ <dtrn>Je n&apos;ai pas voulu vous offenser (vous faire quelque chose de mauvais).</dtrn><k>Я не уверен.</k>
+ <dtrn>Je n&apos;en suis pas sûr.</dtrn><k>Я обожаю исследовать (посещать) новые места (страны, города).</k>
+ <dtrn>J&apos;aime explorer (visiter) des places (pays, villes) nouvelles.</dtrn><k>Я обожаю различные виды спорта.</k>
+ <dtrn>J&apos;aime les sports différents.</dtrn><k>Я очень люблю ...</k>
+ <dtrn>J&apos;aime beaucoup...</dtrn><k>Я очень хочу есть (пить).</k>
+ <dtrn>J&apos;ai (très) faim (soif).</dtrn><k>Я очень часто сижу в Интернете.</k>
+ <dtrn>Je voyage dans Internet assez souvent.</dtrn><k>Я побывал в разных местах (странах, городах, на разных континентах).</k>
+ <dtrn>J&apos;ai visité beaucoup de places (pays, villes, continents) différents.</dtrn><k>Я подожду Вас на другой стороне (на углу) улицы.</k>
+ <dtrn>Je vais vous attendre de ce côté de la rue (au coin de la rue).</dtrn><k>Я показываю хорошие (лучшие, плохие, худшие, самые плохие) результаты.</k>
+ <dtrn>Je montre des bons (les meilleurs, mauvais, les plus mauvais) résultats.</dtrn><k>Я поклонник музыки!</k>
+ <dtrn>Je suis fanat de la musique!</dtrn><k>Я понимаю по-английски (по-немецки, по-французски, по-испански), но не могу говорить.</k>
+ <dtrn>Je comprends l&apos;anglais (allemand, français, espagnol), mais je ne peux pas parler.</dtrn><k>Я попал в аварию.</k>
+ <dtrn>J&apos;ai un accident.</dtrn><k>Я предпочитаю заниматься спортом, а не смотреть его.</k>
+ <dtrn>Je préfère faire le sport que le regarder.</dtrn><k>Я предпочитаю инструментальную музыку.</k>
+ <dtrn>Je préfère la musique instrumentale.</dtrn><k>Я предпочитаю путешествовать сам по себе (с друзьями, с родителями).</k>
+ <dtrn>Je préfère voyager tout(-e) seul(-e) (avec mes amis, avec mes parents).</dtrn><k>Я предпочитаю путешествовать самолетом (поездом, машиной, автобусом).</k>
+ <dtrn>Je préfère voyager par l&apos;avion (par le train, par la voiture, par le bus).</dtrn><k>Я предпочитаю смотреть спорт по телевизору.</k>
+ <dtrn>Je préfère regarder le sport par télé.</dtrn><k>Я прошу прощения (за то, что назвал Вас ..., что обратился к Вам неподобающим образом).</k>
+ <dtrn>Excusez-moi de vous appeler un ....</dtrn><k>Я русский (американец, француз, англичанин, голландец, испанец, немец)</k>
+ <dtrn>Je suis Russe (Français, Anglais, Hollandais, Espagnol, Allemand).</dtrn><k>Я с Вами не согласен.</k>
+ <dtrn>Je ne suis pas d&apos;accord avec vous.</dtrn><k>Я светло/рыжеволосая (с голубыми/серыми глазами).</k>
+ <dtrn>Je suis aux cheveux blanc/rouge (aux yeux bleus/grises).</dtrn><k>Я слушаю разную музыку.</k>
+ <dtrn>J&apos;écoute la musique très différente.</dtrn><k>Я собираю марки (открытки, значки, монеты)</k>
+ <dtrn>Je collectionne des timbres (des cartes postales, des pins).</dtrn><k>Я согласен с Вами (ним, ней, чьей-то точкой зрения).</k>
+ <dtrn>Je supporte votre (mon, son, leur) avis.</dtrn><k>Я считаю классическую музыку ерундой (скучной, увлекательной, забавной).</k>
+ <dtrn>Je pense que la musique classique est fadaise (ennuyeuse, fascinante, amusante).</dtrn><k>Я турист (в командировке, в частной поездке).</k>
+ <dtrn>Je suis touriste (en mission, en visite non officielle).</dtrn><k>Я увлекаюсь...</k>
+ <dtrn>J&apos;aime beaucoup ... .</dtrn><k>Я учу английский (немецкий, французский, испанский), но я все еще плохо говорю.</k>
+ <dtrn>J&apos;étudie le français (l&apos;anglais, l&apos;allemand, l&apos;espagnol), mais je ne parle pas bien.</dtrn><k>Я хотел бы заправиться.</k>
+ <dtrn>Je voudrais faire le plein d&apos;essence.</dtrn><k>Я хотел бы заявить о краже.</k>
+ <dtrn>Je voudrais dire du vol.</dtrn><k>Я хотел бы обменять (вернуть) это.</k>
+ <dtrn>Je voudrais changer (rendre) ça.</dtrn><k>Я хочу купить...</k>
+ <dtrn>Je voudrais acheter ...</dtrn><k>Я хочу пойти в кино (театр, на концерт).</k>
+ <dtrn>Je voudrais aller au cinéma (théâtre, concert).</dtrn><k>Я хочу пригласить Вас в театр (ко мне домой).</k>
+ <dtrn>Je voudrais vous inviter au théâtre (chez moi, chez nous).</dtrn><k>Я часто хожу по магазинам с друзьями (родителями).</k>
+ <dtrn>Très souvent je fais des achats avec mes amis (mes parents).</dtrn><k>миллион</k>
+ <dtrn>million</dtrn><k>разговорник</k>
+ <i><dtrn><co>Разделы разговорника:</co></dtrn></i>
+  - <kref>ВСТРЕЧА</kref>
+  - <kref>ГОСТИНИЦА</kref>
+  - <kref>ЗДОРОВЬЕ/НАСТРОЕНИЕ</kref>
+  - <kref>ЗНАКОМСТВО</kref>
+  - <kref>МАГАЗИНЫ</kref>
+  - <kref>НА ГРАНИЦЕ</kref>
+  - <kref>НАДПИСИ</kref>
+  - <kref>НАЗНАЧЕНИЕ ВСТРЕЧИ</kref>
+  - <kref>ОБЩИЕ ФРАЗЫ</kref>
+  - <kref>ОФИЦИАЛЬНЫЕ СЛУЖБЫ</kref>
+  - <kref>ПОГОДА</kref>
+  - <kref>ПУТЕШЕСТВИЯ</kref>
+  - <kref>РАЗВЛЕЧЕНИЯ</kref>
+  - <kref>РЕСТОРАН/КАФЕ</kref>
+  - <kref>СПОРТ</kref>
+  - <kref>ТРАНСПОРТ</kref>
+  - <kref>ХОББИ/ИНТЕРЕСЫ</kref>
+  - <kref>ЧИСЛИТЕЛЬНЫЕ</kref>
