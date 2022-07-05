@@ -1,0 +1,1170 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\Bonus.ScreenshotReader]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\Bonus.ScreenshotReader\12.00]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\FineReader]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\FineReader\12.00]
+"InterfaceLanguage"="1"
+"ProductCode"="{F12000CE-0001-0000-0000-074957833700}"
+"ReleaseVersion"="12.0.501.439.0"
+"SetupGUID"="{6279223F-08AD-4F79-ADB7-72E014DF6CCA}"
+"SilentInstall"="true"
+"InstallPath"="C:\\Documents and Settings\\Maxwell\\Рабочий стол\\ABBYY FineReader 12 v12.0.101.483 Lite Portable by punsh Eng_Rus\\ABBYY FineReader 12\\App\\FineReader\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\FineReader\12.00\Integration]
+"SupportedOpenImageFormat"="bmp,dib,rle,dcx,djvu,djv,gif,jb2,jbig2,jp2,j2k,jpf,jpx,jpc,jpg,jpeg,pcx,pdf,png,tif,tiff,xps,wdp,wmp"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\FineReader\12.00\Shell]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\FineReader\12.00\Shell\Options]
+@=""
+"UserSendStatistics"="false"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ABBYY\Setup]
+"InstallationCount"="1"
+
+[HKEY_CURRENT_USER\Software\ABBYY]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader]
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader\12.00]
+"AutoRun"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00]
+"InterfaceLanguage"="1"
+"SetupGUID"="{6279223F-08AD-4F79-ADB7-72E014DF6CCA}"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader\Options]
+"ShowFrameAfterRestart"="false"
+"AlwaysOnTop"="false"
+"LastSaveImageFormat"="14"
+"LastSaveImagePath"=""
+"SaveTextFormat"="-1"
+"SaveTextPath"=""
+"SaveTableFormat"="-1"
+"SaveTablePath"=""
+"OpenFileAfterSave"="false"
+"LastCaptureRect"="[0, 0, 0, 0]"
+"UseLastCaptureRect"="false"
+"LastRecognitionLanguage"="English;French;German;Russian;Ukrainian;1"
+"LanguagesMRU"="English;French;German;Russian;Ukrainian;1,English;0,Russian;0,Ukrainian;0,German;0,French;0"
+"CaptureRegime"="TextToClipboard"
+"ScreenShotRegime"="Area"
+"PlaySuccessfullySound"="true"
+"TimedDelay"="5"
+"ShowCaptureTip"="true"
+"EnableHotKeys"="false"
+"FirstRun"="false"
+"LastUseTime"="0"
+"LastReminderTime"="0"
+"ShowAdvertisingBanner"="-1"
+"HiddenAdvertisementId"="0"
+"BannerServerResponseTime"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI\Dialogs]
+"VerificationDlgRect"="[0\\, 0\\, 1588\\, 752],[479\\, 109\\, 1219\\, 525]"
+"LanguageEditorLocation"="[0\\, 0\\, 1588\\, 752],[566\\, 150\\, 1023\\, 602]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\NORMALES-E5997A]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Customize]
+"AcceleratorsCount"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Dialogs]
+"ApplyTemplateToSelected"="true"
+"LastExportDestination"="3"
+"AdjustDialogRect"="[0, 0, 0, 0]"
+"AdjustDialogGroup"="4"
+"OpenBatchDialogSize"="[0, 0]"
+"SaveBatchDialogSize"="[0, 0]"
+"OpenBatchViewMode"="1"
+"SaveBatchViewMode"="1"
+"LastFormatsPage"="1"
+"BatchDialogsMRU"=""
+"LoadImageFormat"="0"
+"SaveMultyPageImage"="false"
+"SaveImageFormat"="32"
+"SaveToFormat"="21"
+"FileExportMode"="SingleFile"
+"MailFileNameTemplate"=""
+"ImportTAPath"=""
+"ExportTAPath"=""
+"ShowOpenImagePreview"="true"
+"KindleAccountName"=""
+"KindleFileName"=""
+"KindleExportMode"="SingleFile"
+"WebFolderPath"=""
+"SaveToWebFolderPath"=""
+"ShowNextPageAfterOperationComplete"="false"
+"OpenAfterSave"="true"
+"DocumentSplitterSize"="[0, 0]"
+"DocumentSplitterDocumentsPartWidth"="0"
+"DocumetnSplitterPagesWidth"="0"
+"BatchOptionsPath"="C:\\Documents and Settings\\Maxwell\\Мои документы\\"
+"LoadImagePath"="C:\\Documents and Settings\\Maxwell\\Рабочий стол\\pers-lat\\"
+"SaveImagePath"="C:\\Documents and Settings\\Maxwell\\Мои документы\\Мои рисунки\\"
+"SaveToPath"="C:\\Documents and Settings\\Maxwell\\Рабочий стол\\"
+"SaveBlocksPath"="C:\\Documents and Settings\\Maxwell\\Мои документы\\"
+"LoadBlocksPath"="C:\\Documents and Settings\\Maxwell\\Мои документы\\"
+"OpenImageWindowListViewMode"="list"
+"OpenImageWindowLocation"="[0\\, 0\\, 1588\\, 752],[444\\, 126\\, 1144\\, 626]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame]
+"PageSplitterRatio"="719/1437"
+"LastQTTab"="BasicTasks"
+"PdfTasksMode"="6"
+"EbookTasksMode"="14"
+"QTPdfPaneFormatIsPDFA"="false"
+"LastRelativeScale"="whole"
+"LastFixedPercent"="32"
+"FrameRect"="[22, 29, 1213, 570]"
+"FrameCmdShow"="3"
+"LastCustomizeCategory"="0"
+"LastCustomizeToolbar"="0"
+"ShowQuickAccessBar"="false"
+"ShowMainBar"="true"
+"RunCountForRateUs"="3"
+"RateUsRemindLater"="false"
+"LastTimeShowRateUs"="false"
+"HasUserAlreadyRatedUs"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\Layout]
+"40760"="[719, 400]%2"
+"40761"="[718, 400]%3"
+"40763"="[1588, 0]%1"
+"40758"="[150, 600]%2"
+"40759"="[1438, 200]%1"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\RecentFileList]
+"Path0"=""
+"Path1"=""
+"Path2"=""
+"Path3"=""
+"Path4"=""
+"Path5"=""
+"Path6"=""
+"Path7"=""
+"Path8"=""
+"Path9"=""
+"Path10"=""
+"Path11"=""
+"Path12"=""
+"Path13"=""
+"Path14"=""
+"Path15"=""
+"Path16"=""
+"Path17"=""
+"Path18"=""
+"Path19"=""
+"Path20"=""
+"Path21"=""
+"Path22"=""
+"Path23"=""
+"Path24"=""
+"Path25"=""
+"Path26"=""
+"Path27"=""
+"Path28"=""
+"Path29"=""
+"LastUsed"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options]
+"OpenLastBatch"="false"
+"OpenQuickTaskWindowOnBatchOpen"="false"
+"LastOptionsPage"="1"
+"ShowAreaProperties"="false"
+"ShowTextProperties"="false"
+"UserSendStatistics"="false"
+"LastSocialMessageType"="2"
+"LastGetSingleTipsRequestEvent"="0"
+"LastWebFoldersNames"=""
+"UseNativeInterfaceScannerNames"=""
+"LastWarningPopupPosition"="[0, 0]#9"
+"Unit"="Centimeter"
+"UnicodeFont"="Microsoft Sans Serif"
+"ProcessingMode"="Recognize"
+"DoProcessPagesOnOpen"="true"
+"PacketViewMode"="Thumbnail"
+"SaveCommand"="40576"
+"StoredSaveCommand"="40576"
+"LastTAScenario"=""
+"ShowNewsAndSocialNetworkLinks"="true"
+"MaxProcessorsCoresLimit"="2147483647"
+"LastSendStatisticsEvent"="131580031250890000"
+"LastGetTipsRequestEvent"="131582061798010000"
+"FirstTipsRequest"="0"
+"LastTipsRequest"="0"
+"SpellerTextScale"="200"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Colors]
+"SpellCommentColor"="R=0, G=0, B=128"
+"SpellLetterBoxColor"="R=0, G=0, B=255"
+"SpellLetterBoxBackgroundColor"="R=255, G=255, B=128"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Integration]
+"InsertIntoNewDocument"="true"
+"WordPopupFromScaner"="true"
+"ExcelPopupFromScaner"="true"
+"LastOutlookSendDestination"="MSWord"
+"OutlookIntegratinSendMode"="true"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Text]
+"StopOnSuspected"="true"
+"StopOnNonLexical"="true"
+"StopOnComposits"="false"
+"AddSilently"="true"
+"CorrectPunctuators"="false"
+"IgnoreNumbers"="true"
+"SpellerAvoidPixelToPixelPercent"="0"
+"SpellerForceScaleToGray"="true"
+"SpellerRect"="[0, 0, 0, 0]"
+"MRURecognitionLanguages"="@Alefbaye 2om;0,English;French;German;Russian;Spanish;1,Mixed;0,German;0,English;0,Russian;0,French;0,Spanish;0"
+"UseWordCustomDictionary"="false"
+"UserDictionariesFolder"="C:\\Documents and Settings\\Maxwell\\Application Data\\ABBYY\\FineReader\\12.00\\UserDictionaries"
+"WordCustomDictionary"="C:\\Documents and Settings\\Maxwell\\Application Data\\Microsoft\\Proof\\CUSTOM.DIC"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Updates]
+"CHECK_UPDATES"="true"
+"NO_PROMPT"="false"
+"LastCheckForUpdatesTime"="131578032110530000"
+
+[HKEY_CURRENT_USER\Software\ABBYY]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader]
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader\12.00]
+"AutoRun"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00]
+"InterfaceLanguage"="0"
+"SetupGUID"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader\Options]
+"ShowFrameAfterRestart"="false"
+"AlwaysOnTop"="false"
+"LastSaveImageFormat"="14"
+"LastSaveImagePath"=""
+"SaveTextFormat"="-1"
+"SaveTextPath"=""
+"SaveTableFormat"="-1"
+"SaveTablePath"=""
+"OpenFileAfterSave"="false"
+"LastCaptureRect"="[0, 0, 0, 0]"
+"UseLastCaptureRect"="false"
+"LastRecognitionLanguage"="English;French;German;Russian;Ukrainian;1"
+"LanguagesMRU"="English;French;German;Russian;Ukrainian;1,English;0,Russian;0,Ukrainian;0,German;0,French;0"
+"CaptureRegime"="TextToClipboard"
+"ScreenShotRegime"="Area"
+"PlaySuccessfullySound"="true"
+"TimedDelay"="5"
+"ShowCaptureTip"="true"
+"EnableHotKeys"="false"
+"FirstRun"="false"
+"LastUseTime"="0"
+"LastReminderTime"="0"
+"ShowAdvertisingBanner"="-1"
+"HiddenAdvertisementId"="0"
+"BannerServerResponseTime"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI\Dialogs]
+"VerificationDlgRect"="[0\\, 0\\, 1588\\, 752],[479\\, 109\\, 1219\\, 525],[0\\, 0\\, 1920\\, 1034],[280\\, 367\\, 1245\\, 858]"
+"LanguageEditorLocation"="[0\\, 0\\, 1588\\, 752],[566\\, 150\\, 1023\\, 602],[0\\, 0\\, 1920\\, 1034],[133\\, 128\\, 828\\, 794]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\CAS0002040594]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\NORMALES-E5997A]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Customize]
+"AcceleratorsCount"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Dialogs]
+"ApplyTemplateToSelected"="true"
+"LastExportDestination"="3"
+"AdjustDialogRect"="[0, 0, 0, 0]"
+"AdjustDialogGroup"="4"
+"OpenBatchDialogSize"="[0, 0]"
+"SaveBatchDialogSize"="[0, 0]"
+"OpenBatchViewMode"="1"
+"SaveBatchViewMode"="1"
+"LastFormatsPage"="1"
+"BatchDialogsMRU"=""
+"LoadImageFormat"="0"
+"SaveMultyPageImage"="false"
+"SaveImageFormat"="32"
+"SaveToFormat"="21"
+"FileExportMode"="SingleFile"
+"MailFileNameTemplate"=""
+"ImportTAPath"=""
+"ExportTAPath"=""
+"ShowOpenImagePreview"="true"
+"KindleAccountName"=""
+"KindleFileName"=""
+"KindleExportMode"="SingleFile"
+"WebFolderPath"=""
+"SaveToWebFolderPath"=""
+"ShowNextPageAfterOperationComplete"="false"
+"OpenAfterSave"="true"
+"DocumentSplitterSize"="[0, 0]"
+"DocumentSplitterDocumentsPartWidth"="0"
+"DocumetnSplitterPagesWidth"="0"
+"BatchOptionsPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadImagePath"="C:\\Users\\HARDYMA\\Synchro"
+"SaveImagePath"="C:\\Users\\HARDYMA\\Pictures\\"
+"SaveToPath"="C:\\Users\\HARDYMA\\Synchro\\"
+"SaveBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"OpenImageWindowListViewMode"="list"
+"OpenImageWindowLocation"="[0\\, 0\\, 1588\\, 752],[444\\, 126\\, 1144\\, 626]"
+"RecentlyUsedSymbol"="?Cambria,?Cambria,?Cambria,?Cambria"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame]
+"PageSplitterRatio"="735/1469"
+"LastQTTab"="BasicTasks"
+"PdfTasksMode"="6"
+"EbookTasksMode"="14"
+"QTPdfPaneFormatIsPDFA"="false"
+"LastRelativeScale"="whole"
+"LastFixedPercent"="32"
+"FrameRect"="[22, 29, 1213, 570]"
+"FrameCmdShow"="3"
+"LastCustomizeCategory"="0"
+"LastCustomizeToolbar"="0"
+"ShowQuickAccessBar"="false"
+"ShowMainBar"="true"
+"RunCountForRateUs"="4"
+"RateUsRemindLater"="false"
+"LastTimeShowRateUs"="false"
+"HasUserAlreadyRatedUs"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\Layout]
+"40760"="[735, 647]%2"
+"40761"="[734, 647]%3"
+"40763"="[1920, 0]%1"
+"40758"="[450, 847]%2"
+"40759"="[1470, 200]%1"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\RecentFileList]
+"Path0"=""
+"Path1"=""
+"Path2"=""
+"Path3"=""
+"Path4"=""
+"Path5"=""
+"Path6"=""
+"Path7"=""
+"Path8"=""
+"Path9"=""
+"Path10"=""
+"Path11"=""
+"Path12"=""
+"Path13"=""
+"Path14"=""
+"Path15"=""
+"Path16"=""
+"Path17"=""
+"Path18"=""
+"Path19"=""
+"Path20"=""
+"Path21"=""
+"Path22"=""
+"Path23"=""
+"Path24"=""
+"Path25"=""
+"Path26"=""
+"Path27"=""
+"Path28"=""
+"Path29"=""
+"LastUsed"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options]
+"OpenLastBatch"="false"
+"OpenQuickTaskWindowOnBatchOpen"="false"
+"LastOptionsPage"="4"
+"ShowAreaProperties"="false"
+"ShowTextProperties"="false"
+"UserSendStatistics"="true"
+"LastSocialMessageType"="3"
+"LastGetSingleTipsRequestEvent"="0"
+"LastWebFoldersNames"=""
+"UseNativeInterfaceScannerNames"=""
+"LastWarningPopupPosition"="[0, 0]#9"
+"Unit"="Centimeter"
+"UnicodeFont"="Microsoft Sans Serif"
+"ProcessingMode"="Recognize"
+"DoProcessPagesOnOpen"="true"
+"PacketViewMode"="Report"
+"SaveCommand"="40576"
+"StoredSaveCommand"="40576"
+"LastTAScenario"=""
+"ShowNewsAndSocialNetworkLinks"="true"
+"MaxProcessorsCoresLimit"="2147483647"
+"LastSendStatisticsEvent"="132298228538780000"
+"LastGetTipsRequestEvent"="132298228550630000"
+"FirstTipsRequest"="0"
+"LastTipsRequest"="0"
+"SpellerTextScale"="200"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Colors]
+"SpellCommentColor"="R=0, G=0, B=128"
+"SpellLetterBoxColor"="R=0, G=0, B=255"
+"SpellLetterBoxBackgroundColor"="R=255, G=255, B=128"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Integration]
+"InsertIntoNewDocument"="true"
+"WordPopupFromScaner"="true"
+"ExcelPopupFromScaner"="true"
+"LastOutlookSendDestination"="MSWord"
+"OutlookIntegratinSendMode"="true"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Text]
+"StopOnSuspected"="true"
+"StopOnNonLexical"="true"
+"StopOnComposits"="false"
+"AddSilently"="true"
+"CorrectPunctuators"="false"
+"IgnoreNumbers"="true"
+"SpellerAvoidPixelToPixelPercent"="0"
+"SpellerForceScaleToGray"="true"
+"SpellerRect"="[0, 0, 0, 0]"
+"MRURecognitionLanguages"="English;RussianOldSpelling;0,@Copy of Russian (Old Spelling);English;0,English;0,@OldBelarussian;English;0,Belarusian;Russian;RussianOldSpelling;0,English;French;German;Italian;Spanish;1,@Alefbaye 2om;0,English;French;German;Russian;Spanish;1,Mixed;0,German;0,Russian;0,French;0,Spanish;0"
+"UseWordCustomDictionary"="false"
+"UserDictionariesFolder"="C:\\Users\\HARDYMA\\AppData\\Roaming\\ABBYY\\FineReader\\12.00\\UserDictionaries"
+"WordCustomDictionary"="C:\\Documents and Settings\\Maxwell\\Application Data\\Microsoft\\Proof\\CUSTOM.DIC"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Updates]
+"CHECK_UPDATES"="true"
+"NO_PROMPT"="false"
+"LastCheckForUpdatesTime"="131578032110530000"
+
+[HKEY_CURRENT_USER\Software\ABBYY]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader]
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader\12.00]
+"AutoRun"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00]
+"InterfaceLanguage"="0"
+"SetupGUID"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader\Options]
+"ShowFrameAfterRestart"="false"
+"AlwaysOnTop"="false"
+"LastSaveImageFormat"="14"
+"LastSaveImagePath"=""
+"SaveTextFormat"="-1"
+"SaveTextPath"=""
+"SaveTableFormat"="-1"
+"SaveTablePath"=""
+"OpenFileAfterSave"="false"
+"LastCaptureRect"="[0, 0, 0, 0]"
+"UseLastCaptureRect"="false"
+"LastRecognitionLanguage"="English;French;German;Russian;Ukrainian;1"
+"LanguagesMRU"="English;French;German;Russian;Ukrainian;1,English;0,Russian;0,Ukrainian;0,German;0,French;0"
+"CaptureRegime"="TextToClipboard"
+"ScreenShotRegime"="Area"
+"PlaySuccessfullySound"="true"
+"TimedDelay"="5"
+"ShowCaptureTip"="true"
+"EnableHotKeys"="false"
+"FirstRun"="false"
+"LastUseTime"="0"
+"LastReminderTime"="0"
+"ShowAdvertisingBanner"="-1"
+"HiddenAdvertisementId"="0"
+"BannerServerResponseTime"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI\Dialogs]
+"VerificationDlgRect"="[0\\, 0\\, 1588\\, 752],[479\\, 109\\, 1219\\, 525],[0\\, 0\\, 1920\\, 1034],[280\\, 367\\, 1245\\, 858]"
+"LanguageEditorLocation"="[0\\, 0\\, 1588\\, 752],[566\\, 150\\, 1023\\, 602],[0\\, 0\\, 1920\\, 1034],[133\\, 128\\, 828\\, 794]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\CAS0002040594]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\NORMALES-E5997A]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Customize]
+"AcceleratorsCount"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Dialogs]
+"ApplyTemplateToSelected"="true"
+"LastExportDestination"="3"
+"AdjustDialogRect"="[0, 0, 0, 0]"
+"AdjustDialogGroup"="4"
+"OpenBatchDialogSize"="[0, 0]"
+"SaveBatchDialogSize"="[0, 0]"
+"OpenBatchViewMode"="1"
+"SaveBatchViewMode"="1"
+"LastFormatsPage"="1"
+"BatchDialogsMRU"=""
+"LoadImageFormat"="0"
+"SaveMultyPageImage"="false"
+"SaveImageFormat"="32"
+"SaveToFormat"="21"
+"FileExportMode"="SingleFile"
+"MailFileNameTemplate"=""
+"ImportTAPath"=""
+"ExportTAPath"=""
+"ShowOpenImagePreview"="true"
+"KindleAccountName"=""
+"KindleFileName"=""
+"KindleExportMode"="SingleFile"
+"WebFolderPath"=""
+"SaveToWebFolderPath"=""
+"ShowNextPageAfterOperationComplete"="false"
+"OpenAfterSave"="true"
+"DocumentSplitterSize"="[0, 0]"
+"DocumentSplitterDocumentsPartWidth"="0"
+"DocumetnSplitterPagesWidth"="0"
+"BatchOptionsPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadImagePath"="C:\\Users\\HARDYMA\\Synchro"
+"SaveImagePath"="C:\\Users\\HARDYMA\\Pictures\\"
+"SaveToPath"="C:\\Users\\HARDYMA\\Synchro\\"
+"SaveBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"OpenImageWindowListViewMode"="list"
+"OpenImageWindowLocation"="[0\\, 0\\, 1588\\, 752],[444\\, 126\\, 1144\\, 626]"
+"RecentlyUsedSymbol"="?Cambria,?Cambria,?Cambria,?Cambria"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame]
+"PageSplitterRatio"="735/1469"
+"LastQTTab"="BasicTasks"
+"PdfTasksMode"="6"
+"EbookTasksMode"="14"
+"QTPdfPaneFormatIsPDFA"="false"
+"LastRelativeScale"="whole"
+"LastFixedPercent"="32"
+"FrameRect"="[22, 29, 1213, 570]"
+"FrameCmdShow"="1"
+"LastCustomizeCategory"="0"
+"LastCustomizeToolbar"="0"
+"ShowQuickAccessBar"="false"
+"ShowMainBar"="true"
+"RunCountForRateUs"="4"
+"RateUsRemindLater"="false"
+"LastTimeShowRateUs"="false"
+"HasUserAlreadyRatedUs"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\Layout]
+"40760"="[735, 647]%2"
+"40761"="[734, 647]%3"
+"40763"="[1920, 0]%1"
+"40758"="[450, 847]%2"
+"40759"="[1470, 200]%1"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\RecentFileList]
+"Path0"=""
+"Path1"=""
+"Path2"=""
+"Path3"=""
+"Path4"=""
+"Path5"=""
+"Path6"=""
+"Path7"=""
+"Path8"=""
+"Path9"=""
+"Path10"=""
+"Path11"=""
+"Path12"=""
+"Path13"=""
+"Path14"=""
+"Path15"=""
+"Path16"=""
+"Path17"=""
+"Path18"=""
+"Path19"=""
+"Path20"=""
+"Path21"=""
+"Path22"=""
+"Path23"=""
+"Path24"=""
+"Path25"=""
+"Path26"=""
+"Path27"=""
+"Path28"=""
+"Path29"=""
+"LastUsed"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options]
+"OpenLastBatch"="false"
+"OpenQuickTaskWindowOnBatchOpen"="false"
+"LastOptionsPage"="4"
+"ShowAreaProperties"="false"
+"ShowTextProperties"="false"
+"UserSendStatistics"="true"
+"LastSocialMessageType"="3"
+"LastGetSingleTipsRequestEvent"="0"
+"LastWebFoldersNames"=""
+"UseNativeInterfaceScannerNames"=""
+"LastWarningPopupPosition"="[0, 0]#9"
+"Unit"="Centimeter"
+"UnicodeFont"="Microsoft Sans Serif"
+"ProcessingMode"="Recognize"
+"DoProcessPagesOnOpen"="true"
+"PacketViewMode"="Report"
+"SaveCommand"="40576"
+"StoredSaveCommand"="40576"
+"LastTAScenario"=""
+"ShowNewsAndSocialNetworkLinks"="true"
+"MaxProcessorsCoresLimit"="2147483647"
+"LastSendStatisticsEvent"="132382393962680000"
+"LastGetTipsRequestEvent"="132382393962300000"
+"FirstTipsRequest"="0"
+"LastTipsRequest"="0"
+"SpellerTextScale"="200"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Colors]
+"SpellCommentColor"="R=0, G=0, B=128"
+"SpellLetterBoxColor"="R=0, G=0, B=255"
+"SpellLetterBoxBackgroundColor"="R=255, G=255, B=128"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Integration]
+"InsertIntoNewDocument"="true"
+"WordPopupFromScaner"="true"
+"ExcelPopupFromScaner"="true"
+"LastOutlookSendDestination"="MSWord"
+"OutlookIntegratinSendMode"="true"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Text]
+"StopOnSuspected"="true"
+"StopOnNonLexical"="true"
+"StopOnComposits"="false"
+"AddSilently"="true"
+"CorrectPunctuators"="false"
+"IgnoreNumbers"="true"
+"SpellerAvoidPixelToPixelPercent"="0"
+"SpellerForceScaleToGray"="true"
+"SpellerRect"="[0, 0, 0, 0]"
+"MRURecognitionLanguages"="English;RussianOldSpelling;0,@Copy of Russian (Old Spelling);English;0,English;0,@OldBelarussian;English;0,Belarusian;Russian;RussianOldSpelling;0,English;French;German;Italian;Spanish;1,@Alefbaye 2om;0,English;French;German;Russian;Spanish;1,Mixed;0,German;0,Russian;0,French;0,Spanish;0"
+"UseWordCustomDictionary"="false"
+"UserDictionariesFolder"="C:\\Users\\HARDYMA\\AppData\\Roaming\\ABBYY\\FineReader\\12.00\\UserDictionaries"
+"WordCustomDictionary"="C:\\Documents and Settings\\Maxwell\\Application Data\\Microsoft\\Proof\\CUSTOM.DIC"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Updates]
+"CHECK_UPDATES"="true"
+"NO_PROMPT"="false"
+"LastCheckForUpdatesTime"="131578032110530000"
+
+[HKEY_CURRENT_USER\Software\ABBYY]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader]
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader\12.00]
+"AutoRun"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00]
+"InterfaceLanguage"="0"
+"SetupGUID"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader\Options]
+"ShowFrameAfterRestart"="false"
+"AlwaysOnTop"="false"
+"LastSaveImageFormat"="14"
+"LastSaveImagePath"=""
+"SaveTextFormat"="-1"
+"SaveTextPath"=""
+"SaveTableFormat"="-1"
+"SaveTablePath"=""
+"OpenFileAfterSave"="false"
+"LastCaptureRect"="[0, 0, 0, 0]"
+"UseLastCaptureRect"="false"
+"LastRecognitionLanguage"="English;French;German;Russian;Ukrainian;1"
+"LanguagesMRU"="English;French;German;Russian;Ukrainian;1,English;0,Russian;0,Ukrainian;0,German;0,French;0"
+"CaptureRegime"="TextToClipboard"
+"ScreenShotRegime"="Area"
+"PlaySuccessfullySound"="true"
+"TimedDelay"="5"
+"ShowCaptureTip"="true"
+"EnableHotKeys"="false"
+"FirstRun"="false"
+"LastUseTime"="0"
+"LastReminderTime"="0"
+"ShowAdvertisingBanner"="-1"
+"HiddenAdvertisementId"="0"
+"BannerServerResponseTime"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI\Dialogs]
+"VerificationDlgRect"="[0\\, 0\\, 1588\\, 752],[479\\, 109\\, 1219\\, 525],[0\\, 0\\, 1920\\, 1034],[280\\, 367\\, 1245\\, 858]"
+"LanguageEditorLocation"="[0\\, 0\\, 1588\\, 752],[566\\, 150\\, 1023\\, 602],[0\\, 0\\, 1920\\, 1034],[133\\, 128\\, 828\\, 794]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\CAS0002040594]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\NORMALES-E5997A]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Customize]
+"AcceleratorsCount"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Dialogs]
+"ApplyTemplateToSelected"="true"
+"LastExportDestination"="3"
+"AdjustDialogRect"="[0, 0, 0, 0]"
+"AdjustDialogGroup"="4"
+"OpenBatchDialogSize"="[0, 0]"
+"SaveBatchDialogSize"="[855, 631]"
+"OpenBatchViewMode"="1"
+"SaveBatchViewMode"="1"
+"LastFormatsPage"="1"
+"BatchDialogsMRU"="C:\\\\Users\\\\HARDYMA\\\\Desktop\\\\OCR"
+"LoadImageFormat"="0"
+"SaveMultyPageImage"="false"
+"SaveImageFormat"="32"
+"SaveToFormat"="6"
+"FileExportMode"="SingleFile"
+"MailFileNameTemplate"=""
+"ImportTAPath"=""
+"ExportTAPath"=""
+"ShowOpenImagePreview"="true"
+"KindleAccountName"=""
+"KindleFileName"=""
+"KindleExportMode"="SingleFile"
+"WebFolderPath"=""
+"SaveToWebFolderPath"=""
+"ShowNextPageAfterOperationComplete"="false"
+"OpenAfterSave"="true"
+"DocumentSplitterSize"="[0, 0]"
+"DocumentSplitterDocumentsPartWidth"="0"
+"DocumetnSplitterPagesWidth"="0"
+"BatchOptionsPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadImagePath"="C:\\Users\\HARDYMA\\Desktop"
+"SaveImagePath"="C:\\Users\\HARDYMA\\Pictures\\"
+"SaveToPath"="C:\\Users\\HARDYMA\\Synchro\\"
+"SaveBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"OpenImageWindowListViewMode"="list"
+"OpenImageWindowLocation"="[0\\, 0\\, 1588\\, 752],[444\\, 126\\, 1144\\, 626]"
+"RecentlyUsedSymbol"="?Cambria,?Cambria,?Cambria,?Cambria"
+"SaveBatchWindowLocation"="[0\\, 0\\, 1920\\, 1034],[610\\, 267\\, 1465\\, 898]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\FindReplace]
+"FindCount"="1"
+"Find0"="?????"
+"ReplaceCount"="0"
+"Forward"="true"
+"AllPages"="true"
+"MatchCase"="false"
+"WholeWords"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame]
+"PageSplitterRatio"="334/1439"
+"LastQTTab"="BasicTasks"
+"PdfTasksMode"="6"
+"EbookTasksMode"="14"
+"QTPdfPaneFormatIsPDFA"="false"
+"LastRelativeScale"="whole"
+"LastFixedPercent"="32"
+"FrameRect"="[22, 31, 1213, 573]"
+"FrameCmdShow"="3"
+"LastCustomizeCategory"="0"
+"LastCustomizeToolbar"="0"
+"ShowQuickAccessBar"="false"
+"ShowMainBar"="true"
+"RunCountForRateUs"="5"
+"RateUsRemindLater"="false"
+"LastTimeShowRateUs"="false"
+"HasUserAlreadyRatedUs"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\Layout]
+"40760"="[334, 647]%2"
+"40761"="[1105, 647]%3"
+"40763"="[1920, 0]%1"
+"40758"="[480, 847]%2"
+"40759"="[1440, 200]%1"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\RecentFileList]
+"Path0"=""
+"Path1"=""
+"Path2"=""
+"Path3"=""
+"Path4"=""
+"Path5"=""
+"Path6"=""
+"Path7"=""
+"Path8"=""
+"Path9"=""
+"Path10"=""
+"Path11"=""
+"Path12"=""
+"Path13"=""
+"Path14"=""
+"Path15"=""
+"Path16"=""
+"Path17"=""
+"Path18"=""
+"Path19"=""
+"Path20"=""
+"Path21"=""
+"Path22"=""
+"Path23"=""
+"Path24"=""
+"Path25"=""
+"Path26"=""
+"Path27"=""
+"Path28"=""
+"Path29"=""
+"LastUsed"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options]
+"OpenLastBatch"="false"
+"OpenQuickTaskWindowOnBatchOpen"="false"
+"LastOptionsPage"="4"
+"ShowAreaProperties"="false"
+"ShowTextProperties"="false"
+"UserSendStatistics"="true"
+"LastSocialMessageType"="0"
+"LastGetSingleTipsRequestEvent"="0"
+"LastWebFoldersNames"=""
+"UseNativeInterfaceScannerNames"=""
+"LastWarningPopupPosition"="[0, 0]#9"
+"Unit"="Centimeter"
+"UnicodeFont"="Microsoft Sans Serif"
+"ProcessingMode"="Recognize"
+"DoProcessPagesOnOpen"="true"
+"PacketViewMode"="Thumbnail"
+"SaveCommand"="40565"
+"StoredSaveCommand"="40576"
+"LastTAScenario"=""
+"ShowNewsAndSocialNetworkLinks"="true"
+"MaxProcessorsCoresLimit"="2147483647"
+"LastSendStatisticsEvent"="132382393962680000"
+"LastGetTipsRequestEvent"="132382393962300000"
+"FirstTipsRequest"="0"
+"LastTipsRequest"="0"
+"SpellerTextScale"="200"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Colors]
+"SpellCommentColor"="R=0, G=0, B=128"
+"SpellLetterBoxColor"="R=0, G=0, B=255"
+"SpellLetterBoxBackgroundColor"="R=255, G=255, B=128"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Integration]
+"InsertIntoNewDocument"="true"
+"WordPopupFromScaner"="true"
+"ExcelPopupFromScaner"="true"
+"LastOutlookSendDestination"="MSWord"
+"OutlookIntegratinSendMode"="true"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Text]
+"StopOnSuspected"="true"
+"StopOnNonLexical"="true"
+"StopOnComposits"="false"
+"AddSilently"="true"
+"CorrectPunctuators"="false"
+"IgnoreNumbers"="true"
+"SpellerAvoidPixelToPixelPercent"="0"
+"SpellerForceScaleToGray"="true"
+"SpellerRect"="[0, 0, 0, 0]"
+"MRURecognitionLanguages"="Belarusian;Russian;RussianOldSpelling;0,English;French;German;Italian;Spanish;1,English;RussianOldSpelling;0,@Copy of Russian (Old Spelling);English;0,English;0,@OldBelarussian;English;0,@Alefbaye 2om;0,English;French;German;Russian;Spanish;1,Mixed;0,German;0,Russian;0,French;0,Spanish;0"
+"UseWordCustomDictionary"="false"
+"UserDictionariesFolder"="C:\\Users\\HARDYMA\\AppData\\Roaming\\ABBYY\\FineReader\\12.00\\UserDictionaries"
+"WordCustomDictionary"="C:\\Documents and Settings\\Maxwell\\Application Data\\Microsoft\\Proof\\CUSTOM.DIC"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Updates]
+"CHECK_UPDATES"="true"
+"NO_PROMPT"="false"
+"LastCheckForUpdatesTime"="132382394276880000"
+
+[HKEY_CURRENT_USER\Software\ABBYY]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader]
+
+[HKEY_CURRENT_USER\Software\ABBYY\Bonus.ScreenshotReader\12.00]
+"AutoRun"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00]
+"InterfaceLanguage"="0"
+"SetupGUID"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Bonus.ScreenshotReader\Options]
+"ShowFrameAfterRestart"="false"
+"AlwaysOnTop"="false"
+"LastSaveImageFormat"="14"
+"LastSaveImagePath"=""
+"SaveTextFormat"="-1"
+"SaveTextPath"=""
+"SaveTableFormat"="-1"
+"SaveTablePath"=""
+"OpenFileAfterSave"="false"
+"LastCaptureRect"="[0, 0, 0, 0]"
+"UseLastCaptureRect"="false"
+"LastRecognitionLanguage"="English;French;German;Russian;Ukrainian;1"
+"LanguagesMRU"="English;French;German;Russian;Ukrainian;1,English;0,Russian;0,Ukrainian;0,German;0,French;0"
+"CaptureRegime"="TextToClipboard"
+"ScreenShotRegime"="Area"
+"PlaySuccessfullySound"="true"
+"TimedDelay"="5"
+"ShowCaptureTip"="true"
+"EnableHotKeys"="false"
+"FirstRun"="false"
+"LastUseTime"="0"
+"LastReminderTime"="0"
+"ShowAdvertisingBanner"="-1"
+"HiddenAdvertisementId"="0"
+"BannerServerResponseTime"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\FineUI\Dialogs]
+"VerificationDlgRect"="[0\\, 0\\, 1588\\, 752],[479\\, 109\\, 1219\\, 525],[0\\, 0\\, 1920\\, 1034],[280\\, 367\\, 1245\\, 858]"
+"LanguageEditorLocation"="[0\\, 0\\, 1588\\, 752],[566\\, 150\\, 1023\\, 602],[0\\, 0\\, 1920\\, 1034],[133\\, 128\\, 828\\, 794]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning]
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\CAS0002040594]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Scanning\NORMALES-E5997A]
+"ActiveSource"=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell]
+@=""
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Customize]
+"AcceleratorsCount"="0"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Dialogs]
+"ApplyTemplateToSelected"="true"
+"LastExportDestination"="3"
+"AdjustDialogRect"="[0, 0, 0, 0]"
+"AdjustDialogGroup"="4"
+"OpenBatchDialogSize"="[0, 0]"
+"SaveBatchDialogSize"="[855, 631]"
+"OpenBatchViewMode"="1"
+"SaveBatchViewMode"="1"
+"LastFormatsPage"="1"
+"BatchDialogsMRU"="C:\\\\Users\\\\HARDYMA\\\\Desktop\\\\OCR"
+"LoadImageFormat"="0"
+"SaveMultyPageImage"="false"
+"SaveImageFormat"="32"
+"SaveToFormat"="6"
+"FileExportMode"="SingleFile"
+"MailFileNameTemplate"=""
+"ImportTAPath"=""
+"ExportTAPath"=""
+"ShowOpenImagePreview"="true"
+"KindleAccountName"=""
+"KindleFileName"=""
+"KindleExportMode"="SingleFile"
+"WebFolderPath"=""
+"SaveToWebFolderPath"=""
+"ShowNextPageAfterOperationComplete"="false"
+"OpenAfterSave"="true"
+"DocumentSplitterSize"="[0, 0]"
+"DocumentSplitterDocumentsPartWidth"="0"
+"DocumetnSplitterPagesWidth"="0"
+"BatchOptionsPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadImagePath"="C:\\Users\\HARDYMA\\Desktop"
+"SaveImagePath"="C:\\Users\\HARDYMA\\Pictures\\"
+"SaveToPath"="C:\\Users\\HARDYMA\\Synchro\\"
+"SaveBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"LoadBlocksPath"="\\\\Casnas100.ca-sa.local\\dfs_root\\redirection\\HARDYMA\\Documents\\"
+"OpenImageWindowListViewMode"="list"
+"OpenImageWindowLocation"="[0\\, 0\\, 1588\\, 752],[444\\, 126\\, 1144\\, 626]"
+"RecentlyUsedSymbol"="?Cambria,?Cambria,?Cambria,?Cambria"
+"SaveBatchWindowLocation"="[0\\, 0\\, 1920\\, 1034],[610\\, 267\\, 1465\\, 898]"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\FindReplace]
+"FindCount"="1"
+"Find0"="?????"
+"ReplaceCount"="0"
+"Forward"="true"
+"AllPages"="true"
+"MatchCase"="false"
+"WholeWords"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame]
+"PageSplitterRatio"="334/1439"
+"LastQTTab"="BasicTasks"
+"PdfTasksMode"="6"
+"EbookTasksMode"="14"
+"QTPdfPaneFormatIsPDFA"="false"
+"LastRelativeScale"="whole"
+"LastFixedPercent"="32"
+"FrameRect"="[22, 31, 1213, 573]"
+"FrameCmdShow"="3"
+"LastCustomizeCategory"="0"
+"LastCustomizeToolbar"="0"
+"ShowQuickAccessBar"="false"
+"ShowMainBar"="true"
+"RunCountForRateUs"="6"
+"RateUsRemindLater"="false"
+"LastTimeShowRateUs"="false"
+"HasUserAlreadyRatedUs"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\Layout]
+"40760"="[334, 647]%2"
+"40761"="[1105, 647]%3"
+"40763"="[1920, 0]%1"
+"40758"="[480, 847]%2"
+"40759"="[1440, 200]%1"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\MainFrame\RecentFileList]
+"Path0"=""
+"Path1"=""
+"Path2"=""
+"Path3"=""
+"Path4"=""
+"Path5"=""
+"Path6"=""
+"Path7"=""
+"Path8"=""
+"Path9"=""
+"Path10"=""
+"Path11"=""
+"Path12"=""
+"Path13"=""
+"Path14"=""
+"Path15"=""
+"Path16"=""
+"Path17"=""
+"Path18"=""
+"Path19"=""
+"Path20"=""
+"Path21"=""
+"Path22"=""
+"Path23"=""
+"Path24"=""
+"Path25"=""
+"Path26"=""
+"Path27"=""
+"Path28"=""
+"Path29"=""
+"LastUsed"="false"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options]
+"OpenLastBatch"="false"
+"OpenQuickTaskWindowOnBatchOpen"="false"
+"LastOptionsPage"="4"
+"ShowAreaProperties"="false"
+"ShowTextProperties"="false"
+"UserSendStatistics"="true"
+"LastSocialMessageType"="1"
+"LastGetSingleTipsRequestEvent"="0"
+"LastWebFoldersNames"=""
+"UseNativeInterfaceScannerNames"=""
+"LastWarningPopupPosition"="[0, 0]#9"
+"Unit"="Centimeter"
+"UnicodeFont"="Microsoft Sans Serif"
+"ProcessingMode"="Recognize"
+"DoProcessPagesOnOpen"="true"
+"PacketViewMode"="Thumbnail"
+"SaveCommand"="40565"
+"StoredSaveCommand"="40576"
+"LastTAScenario"=""
+"ShowNewsAndSocialNetworkLinks"="true"
+"MaxProcessorsCoresLimit"="2147483647"
+"LastSendStatisticsEvent"="132382393962680000"
+"LastGetTipsRequestEvent"="132396504936180000"
+"FirstTipsRequest"="0"
+"LastTipsRequest"="0"
+"SpellerTextScale"="200"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Colors]
+"SpellCommentColor"="R=0, G=0, B=128"
+"SpellLetterBoxColor"="R=0, G=0, B=255"
+"SpellLetterBoxBackgroundColor"="R=255, G=255, B=128"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Integration]
+"InsertIntoNewDocument"="true"
+"WordPopupFromScaner"="true"
+"ExcelPopupFromScaner"="true"
+"LastOutlookSendDestination"="MSWord"
+"OutlookIntegratinSendMode"="true"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Shell\Options\Text]
+"StopOnSuspected"="true"
+"StopOnNonLexical"="true"
+"StopOnComposits"="false"
+"AddSilently"="true"
+"CorrectPunctuators"="false"
+"IgnoreNumbers"="true"
+"SpellerAvoidPixelToPixelPercent"="0"
+"SpellerForceScaleToGray"="true"
+"SpellerRect"="[0, 0, 0, 0]"
+"MRURecognitionLanguages"="English;French;German;Italian;Spanish;1,Belarusian;Russian;RussianOldSpelling;0,English;RussianOldSpelling;0,@Copy of Russian (Old Spelling);English;0,English;0,@OldBelarussian;English;0,@Alefbaye 2om;0,English;French;German;Russian;Spanish;1,Mixed;0,German;0,Russian;0,French;0,Spanish;0"
+"UseWordCustomDictionary"="false"
+"UserDictionariesFolder"="C:\\Users\\HARDYMA\\AppData\\Roaming\\ABBYY\\FineReader\\12.00\\UserDictionaries"
+"WordCustomDictionary"="C:\\Documents and Settings\\Maxwell\\Application Data\\Microsoft\\Proof\\CUSTOM.DIC"
+
+[HKEY_CURRENT_USER\Software\ABBYY\FineReader\12.00\Updates]
+"CHECK_UPDATES"="true"
+"NO_PROMPT"="false"
+"LastCheckForUpdatesTime"="132396505056610000"
