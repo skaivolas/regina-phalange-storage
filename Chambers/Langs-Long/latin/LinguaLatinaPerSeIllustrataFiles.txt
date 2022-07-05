@@ -1,0 +1,28 @@
+.
+./LingvaLatinaPars2RomaAeterna.djvu
+./LatinEnglishVocabulary.pdf
+./genesis
+./genesis/[Hans_H._Ørberg]_Pars_I_Familia_Romana(BookFi).pdf
+./genesis/(Lingua Latina per se Illustrata) Hans H. Ørberg-Lingua Latina per se Illustrata, Pars I_ Grammatica Latina-Focus Publishing_R.Pullins Co. (2006).djvu
+./genesis/[Hans_H._Orberg]_Lingua_Latina_Latin-English_Voca(BookFi).pdf
+./genesis/[Hans_H. Ørberg]_Pars_II_Indices(BookZZ.org).djvu
+./genesis/(Lingua Latina per se Illustrata) Hans H. Ørberg-Teacher’s Materials & Answer Key-Focus Publishing_R. Pullins Co. (2005).djvu
+./genesis/[Hans_H. Ørberg]_Pars_II_Exercitia_Latina_II(BookZZ.org).djvu
+./genesis/[Hans_H.Â Ãrberg]_Pars_I_Vocabulaire_latin-franÃ(BookFi).pdf
+./genesis/[Hans_H. Ørberg]_Pars_I_Grammatica_Latina(BookZZ.org).djvu
+./genesis/lingua-latina-per-se-illustrata-pars-ii-roma-aeterna-pdf-150907014645-lva1-app6891.pdf
+./genesis/[Hans_H._Ørberg]_Pars_I_Latin-English_Vocabulary(BookFi).pdf
+./genesis/[Hans_H._Orberg]_Colloquia_Personarum(BookZZ.org).pdf
+./genesis/(Lingua Latina per se Illustrata) Hans H. Ørberg-Pars I_ Latine Disco_ Student’s Manual-Focus Publishing_R. Pullins Company (2005).djvu
+./genesis/(Lingua Latina per se Illustrata) Hans H. Ørberg-Pars II_ Instructions-Focus Publishing_R. Pullins Company (2002).djvu
+./genesis/[Hans_H._Ørberg]_Pars_I_Exercitia_Latina_I(BookZZ.org).djvu
+./LinguaLatinaPerSeIllustrataFiles.txt
+./FabellaeLatinae.pdf
+./LingvaLatinaPars1FamiliaRomana.djvu
+./upgrades
+./upgrades/Upgrade Familia Romana from version 1.0 (CD-ROM) to V1.3
+./upgrades/Upgrade Familia Romana from version 1.0 (CD-ROM) to V1.3/Latina.exe
+./upgrades/Upgrade ROMA AETERNA from version 1.0 (CD-ROM) to version 1.1
+./upgrades/Upgrade ROMA AETERNA from version 1.0 (CD-ROM) to version 1.1/Latina.exe
+./upgrades/Upgrade EXERCITIA LATINA from version 1.0 (CD-ROM) to version 1.1
+./upgrades/Upgrade EXERCITIA LATINA from version 1.0 (CD-ROM) to version 1.1/ExercitiaLatina.exe
