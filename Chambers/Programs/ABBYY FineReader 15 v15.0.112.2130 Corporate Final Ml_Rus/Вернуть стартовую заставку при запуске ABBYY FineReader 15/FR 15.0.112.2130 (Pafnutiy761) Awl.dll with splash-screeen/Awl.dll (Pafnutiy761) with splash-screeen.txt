@@ -1,0 +1,11 @@
+Pafnutiy761 написал:
+¬ернуть стартовую заставку при запуске программы ABBYY FineReader 15:
+Offset awl.dll
+0017FE30 EB => 75
+001802E0 EB => 75
+
+Awl.dll (Pafnutiy761) with splash-screeen:
+77b58caf7210577a4945395f8fbe2272 *Awl.dll
+
+Awl.dll (Pafnutiy761) ДoriginalУ:
+e6dbe12598219126a189fd7bff94df14 *Awl.dll
