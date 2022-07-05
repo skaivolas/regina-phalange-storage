@@ -1,0 +1,28 @@
+.loading {
+    position: fixed;
+    width: 350px;
+    text-align: center;
+    height: 200px;
+    left: 0;
+    right: 0;
+    /*top: 0;*/
+    bottom: 0;
+    margin: auto;
+    /*margin-top: auto;
+    margin-bottom: auto;*/
+    background: whitesmoke;
+    padding: 25px;
+    border: 1px solid;
+}
+#submit-form {
+    visibility:hidden;
+}
+h1 {
+    visibility:hidden;
+}
+#radiiFrm {
+    visibility:hidden;
+}
+#sad {
+   visibility:hidden;
+}

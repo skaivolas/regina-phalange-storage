@@ -1,0 +1,3 @@
+%20080506~130845	%User ID,AU,AU Anaphraseus User,OY Ole Yansen	%TU=00000000	%EN-US	%Wordfast TM v.5.51b/00	%FR-FR	%---12345678					                                                            .
+20080506~130854	AU	0	EN-US	SETUP STEPS	FR-FR	L'INSTALLATION
+20210118~200027	AU	0	EN-US	 To translate a document with Anaphraseus do the following: 1. Open the document you want to translate.	FR-FR	Mjun gsmfl kds ipsid  sbifdb yuigdoq

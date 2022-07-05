@@ -1,0 +1,245 @@
+List of changes 
+===============
+ 2019-12-22 09:26 [2.08]  ole_yansen
+    * Support for DeepL translator API (https://www.deepl.com/). 
+ 
+ 2018-07-03 16:33 [2.07]  ole_yansen
+    * Added support of Online TM Server mymemory.translated.net  It allow to translate text and save your translation to server.
+      Enter MyMemory API key (from https://mymemory.translated.net/doc/keygen.php) and select 'Your TM' checkbox to work with your MyMemory located TM.
+      Please note: your translation will be saved at MyMemory server in this case. Do not enter API key or unselect checkbox if you don't want to.
+ 
+ 2017-07-31 13:06 [2.06]  ole_yansen
+    * Fixed BASIC code to work with LibreOffice 5.4
+ 
+ 2017-06-22 20:51 [2.05.133]  ole_yansen
+    * Improved Portuguese (Brasil) translation by Luis Suarez
+ 
+ 2017-03-31 18:12 [2.05.132b]  ole_yansen
+    * Fixed Basic errors in LibreOffice starting from 5.3
+ 
+ 2017-01-05 21:45 [2.05.131b]  ole_yansen
+    * Fixed UTF-8 requests to DICT servers
+    * Aded file picker to query dict app selection
+    * Fixed Google Translate
+ 
+ 2014-01-26 13:27 [2.05b]  ole_yansen
+    * Added messages indicating clean-up and restore
+    * Placeables fixed
+    * Added color picker for found glossary term
+    * Fixed bug when translation segment painted in terms color after closing
+    * Added paid Google Translate API v2 (with API key)
+    * Translated string size for Google Translate increased from 2 to 5 Kb using POST request
+    * Galician translation added
+    * Added translation for Serbian and Slovenian
+    * Terminology recognition bug fixed
+    * Fix for ClassCastException: FileURLConnection can't be cast to JarURLConnection
+    * Fixed cursor behavior in table
+    * Added Yandex.Translate
+    * Untranslatables and delimiters now editable
+    * Fixed editable Untranslatables and Delimiters bug
+    * Support for Apache OpenOffice 4
+ 
+ 2011-11-30 15:17 [2.04b]  ole_yansen
+    * Fixed hanging in table during cleanup/restore
+    * Placeables (only numbers up to now)
+    * Recognized soft hypen in terms
+    * Bullets/numbering fix
+    * Mark terms cursor fix
+    * Fixed quotes for Google Translate
+    * Fixed bug in concordance search for big TMs (issue #2101540)
+    * Google Translate module rewritten to meet shutdown of API v1
+    * Fixed encoding problem in Google Translate - fix in ver. 2.04.99
+
+ 2011-05-06 14:53 [2.03b]  ole_yansen
+    * Added Concordance Search
+    * Query to Apertium (www.apertium.org)
+    * Keyboard configuration module rewritten. Now keys stored in config file
+    * Added query to dict.org, added user dictionary
+    * Added Traditional Chinese language
+    * Skipping entries containing only untranslatables
+    * Translating intext tables consistently
+    * Changed segment traveling code
+    * Lot of bugs fixed: Fixed issue #2743295 - Translation in Footnote/Endnote was crached because Openoffice isn't allow to create tables in footnotes. Fixed issue with deleted language folder. Saving text color/size/font during translation and cleanup in no-clipboard mode (Issue #2051519). Fixed error in code of closing segment (format preserving mode) - no more tables deletion during cleanup, hardspace is no more counts as space char. Fixed expand segment module to avoid painting segments in magenta. Fixed online translation for Google/Microsoft translator (Chinese). Added Chinese hieroglyphs for end of sentence/untranslatables. Fixed bug not allowing to go up segment with turned on untranslatables skipping, fixed bullets/numbering.
+    * UI slightly changed
+
+ 2011-01-19 22:53 [2.02b]  ole_yansen
+    * Added Java Translation Memory storage
+    * Queries to Google/Microsoft Translate
+    * LibreOffice integration
+    * Check if TM, TMX and glossary is valid
+    * Keyboard configurator by Ives Moy
+    * Added Portuguese, French languages
+    * Dialogs for keys and color selection
+    * Format preserving, several 100% matches
+
+ 2010-01-26 22:53 [2.01b]  ole_yansen
+    * Text format preseving with clipboard
+    * Color of tables in config file
+    * UTF-8 for TM, TMX and glossaries
+    * Various bugs fixed
+
+ 2009-11-13 17:44 [2.00b]  ole_yansen
+    * New user interface
+    * New localisation on-the-fly
+    * Localised in 14 languages
+    * Strip OmegaT special tags during convertion
+    * Preserve tags feature
+    * New TM dialog by Sergey Medvedeff
+    * Config variable ShowHidden=(true/false) (not)to show hidden characters during translation
+    * Various bugs fixed
+
+ 2008-03-07 23:48 [1.23b]  ole_yansen
+    * Clean Up in text tables.
+    * OmegaT TMX format loading.
+    * Slightly changes in TM loading code.
+    * Simple statistic.
+    * Big icons for Ubuntu and MacOS
+    * Fixed bug in creation *.ini file on Linux
+    * Fixed bug in Vista open/save dialogs
+    * Added Wordfast TM's character codes
+    * Code reviewed under Wordfast's specifications
+    * All TMX operation runs by "TMX Import" button now
+    * Fixed bug with <TAB> delimiter
+
+ 2008-07-06 18:32 [1.22b]  ole_yansen
+    *  Tested to work with OpenOffice.org 2.0.2
+    *  Added keyboard modifier selection (Alt, Ctrl, Shift).
+    *  Translation in text tables.
+    *  Fixed bug in glossary loading.
+    *  Source/Target locale now checking against OOo locales.
+    *  Glossary and TM items checked before loading
+    *  Fixed error 1971835 "TMX export fails if TM has empty paragraphs"
+
+ 2008-05-22 17:18 [1.21b]  ole_yansen
+    *  Fixed bugs in terms function
+    *  More symbols added to untranslatables
+    *  Result of Fuzzy match shown in statusbar
+    *  Changed functions to show and hide of translation tables
+    *  All mesages moved to L10N module for further localisation
+    *  Saving Unicode TM as ANSI
+    *  Glossary Sorting ("Reorganize" button), homonymical terms
+    *  User Glossary
+    *  Quickadding terms to User Glossary with Alt+E
+    *  Fixed minor bugs
+
+ 2008-05-10 23:48 [1.20b]  ole_yansen
+    *  Locale for source and translation
+    *  anaphraseus.ini now stored in $user dir ("C:\Documents and Settings\[username]\Application Data\OpenOffice.org2\user\" for Windows, "/home/[username]/.OpenOffice.org2\user\" for Linux).
+    *  Anaphraseus extension for OOo released
+    *  Fixed bugs in "Restore Source" and "Clean Up"
+
+ 2008-05-06 12:53 [1.19b]  ole_yansen
+    *  Unicode files readed in memory now
+    *  Fixed some bugs in unicode functions
+    *  Progress of loading TM and glossary shows in statusbar
+
+ 2008-04-30 15:05 [1.18b]  ole_yansen
+    *  "Goto next segment" binded to "Translate" button
+    *  Unicode read function rewrited to speed up process
+    *  Support for TMX 1.0
+    *  Source text marked as 'hidden'. Press Ctrl+F10 to see translation.
+    *  Minor bugs fixed
+
+ 2008-04-11 13:03 [1.17b]  ole_yansen
+    *  Export/Import Translation Memory Exchange files (TMX)
+    *  Inverce Source/Target language feature
+    *  Unicode UTF16 support for glossary files
+    *  Progressbar for saving/loading operations
+    *  Minor bugs fixed
+
+ 2008-04-06 17:25 [1.16b]  ole_yansen
+    *  Unicode UTF16 support for TM files
+    *  Fixed "Segment are not opened in end of document" bug
+
+ 2008-03-28 16:39 [1.15b]  ole_yansen
+    *  Better code in Clean-Up/Restore functions
+    *  Creating of *.ini file and emergency TM file
+    *  Dialog on ond of translations
+    *  Some minor bugs fixed in terms
+
+ 2008-03-22 21:46  ole_yansen
+    *  Incomplete terms with asteriks
+    *  Insert source function
+    *  Restore source (entire document/segment)
+    *  Fixed bug "Segmentation on decimal point"
+
+ 2008-03-12 16:24 [1.14b]  ole_yansen
+   *  Fixed bug - terms at the beginning and the end of a sentence not recognized
+
+ 2008-03-08 15:46  ole_yansen
+   *  Fuzzy search results display in the statusbar
+   *  Fixed bug - spaces at the beginning of a segment in complex paragraphs
+
+ 2008-02-29 16:36 [1.13b]  ole_yansen
+   *  Added buttons for Fuzzy Match results
+   *  Fixed incorrect behaviour in Infra Resourse builds of OOo ):
+   *  Fixed bug 1883432 "Segment expand must stop over paragraph marks"
+   *  Fixed bug 1883433 "Crush/error message if segment expand discarded"
+   *  Fixed bug 1883425 "No segment break in the middle of abbreviation"
+
+ 2008-02-08 12:45 [1.12b]  ole_yansen
+   *  Simple Fuzzy Match
+   *  Fixed case sensitivity in terminology recognition (bug 1887743)
+   *  Fixed bug 1887737 "Terms not recognized if followed by comma, semicolon"
+
+ 2008-02-05 12:38  ole_yansen
+   *  Quick clean-up function (doesn't work in tables yet)
+   *  Fixed bug 1883419 "Spaces between sentences/segments must not be included"
+
+ 2008-01-29 22:38 [1.11b]  ole_yansen
+   *  Fixed memory leak in terminology function (thanks to Gabix)
+   *  Added "Setup" tab handler
+   *  Button "Reorganize Glossary" works now
+
+ 2008-01-22 14:05  ole_yansen
+   *  Alt+Up now opens previous translation segment
+   *  Fixed bug 1873555 "Error when modifying translation from 100% match"
+
+ 2008-01-17 10:57 [1.10b]  ole_yansen
+   *  Fixed critical bug in WriteTU function
+   *  Fixed issue 1871861 "Alt+Down keeps cycling through the same segment"
+
+ 2008-01-14 18:28 [1.09b]  ole_yansen
+   *  Changes in glossary setup dialog
+   *  Term info in statusbar
+   *  Hotkeys for all commands
+   *  Error handler. Here is no more annoying 'your segment is open' after crash (I hope...)
+   *  Deal with trailing/leading spaces/CRs/tabs
+   *  Correct processing of CRs in selected segments
+
+ 2008-01-02 10:10 [1.08b]  ole_yansen
+   *  Major changes in glossary functions
+   *  Lot of bugs fixed (incorrect adding of new TU, TM and glossary file overwrite etc, etc...)
+   *  Added nice "About" tab :-)
+
+ 2007-12-13 10:10 [1.07b]  ole_yansen
+   *  Fixed bug 1844112 (Can't create new TM)
+   *  Added preliminary functions for working with a glossary (slow and buggy)
+
+ 2007-11-30 10:10 [1.06b]  ole_yansen
+       * Minor fixes in "Expand Segment" and "Shrink Segment" functions.
+
+ 2007-11-28 23:18  ole_yansen
+       * Added "Shrink Segment" function.
+
+ 2007-11-27  17:20 [1.05b]  ole_yansen
+       * Bugs fixed in "Expand Segment" function.
+
+ 2007-11-26  12:57 [1.04b]  ole_yansen
+       * Added "Close" button in Setup Dialog.
+       * Fixed bug with translation without TM.
+       * Added "Expand Segment" function.
+
+ 2007-10-15  12:43 [1.03b]  ole_yansen
+       * Bug "file not found" fixed.
+       * Tested on a Linux system.
+
+ 2007-10-11  15:59 [1.02b]  ole_yansen
+       * Minor changes in OFSetup module.
+       * "Reorganise" button is activated.
+
+ 2007-10-11  10:28 [1.01b]  ole_yansen
+       * openwf.ini expected in your work directory now.
+       * Minor changes in OFSetup module.
+       * "New TM" button is activated.
+

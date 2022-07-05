@@ -1,0 +1,5 @@
+abil*	aptitude	  	
+acid	acide	  	
+action	action	  	
+activity	activite	  	
+wolf	loup	  	

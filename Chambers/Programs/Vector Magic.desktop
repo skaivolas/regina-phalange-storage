@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Vector Magic
+Exec=env WINEPREFIX="/home/maxwell/.wine" wine C:\\\\Program\\ Files\\ \\(x86\\)\\\\Vector\\ Magic\\\\vmde.exe 
+Type=Application
+StartupNotify=true
+Path=/home/maxwell/.wine/dosdevices/c:/Program Files (x86)/Vector Magic
+Icon=87F3_vmde.0

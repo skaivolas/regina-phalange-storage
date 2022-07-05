@@ -1,0 +1,17 @@
+{
+  "countryLang": {
+    "message": "ru"
+  },
+  "disabled": {
+    "message": "CyberGhost отключен"
+  },
+  "enabled": {
+    "message": "CyberGhost активирован"
+  },
+  "disabled_desc": {
+    "message": "Сейчас вы используете обычное<br/>подключение к Интернету, ваш IP-адрес виден."
+  },
+  "enabled_desc": {
+    "message": "Сейчас вы подключены к<br/>серверу CyberGhost,<br/>ваш IP-адрес скрыт."
+  }
+}

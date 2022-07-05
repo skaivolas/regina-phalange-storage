@@ -1,0 +1,294 @@
+label.btn span {
+  font-size: 1.3em ;
+  font-family: Microsoft JhengHei Light;  
+}
+label input[type="radio"] ~ i.fa.fa-circle-o{
+    color: #c8c8c8;    display: inline;
+}
+label input[type="radio"] ~ i.fa.fa-dot-circle-o{
+    display: none;
+}
+label input[type="radio"]:checked ~ i.fa.fa-circle-o{
+    display: none;
+}
+label input[type="radio"]:checked ~ i.fa.fa-dot-circle-o{
+    color: #D41E15;    display: inline;
+}
+label:hover input[type="radio"] ~ i.fa {
+color: #D41E15;
+}
+
+label input[type="checkbox"] ~ i.fa.fa-square-o{
+    color: #c8c8c8;    display: inline;
+}
+label input[type="checkbox"] ~ i.fa.fa-check-square-o{
+    display: none;
+}
+label input[type="checkbox"]:checked ~ i.fa.fa-square-o{
+    display: none;
+}
+label input[type="checkbox"]:checked ~ i.fa.fa-check-square-o{
+    color: #D41E15;    display: inline;
+}
+label:hover input[type="checkbox"] ~ i.fa {
+color: #D41E15;
+}
+
+div[data-toggle="buttons"] label.active{
+    color: #D41E15;
+}
+
+div[data-toggle="buttons"] label {
+display: inline-block;
+padding: 6px 12px;
+margin-bottom: 0;
+font-size: 14px;
+font-family: 'Microsoft JhengHei Light'; 
+font-weight: normal;
+line-height: 2em;
+text-align: left;
+white-space: nowrap;
+vertical-align: top;
+cursor: pointer;
+background-color: none;
+border: 0px solid 
+#c8c8c8;
+border-radius: 3px;
+color: #c8c8c8;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+div[data-toggle="buttons"] label:hover {
+color: #D41E15;
+}
+
+div[data-toggle="buttons"] label:active, div[data-toggle="buttons"] label.active {
+-webkit-box-shadow: none;
+box-shadow: none;
+}
+
+
+
+.notification {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 0.0625rem 0.0625rem 0.0925rem #2d794b;
+  padding: 1px 20px;
+  margin: 10px auto;
+  position: relative;
+}
+.notification .notification-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 50px;
+  width: 18px;
+  height: 18px;
+  line-height: 15px;
+  text-align: center;
+}
+.notification .notification-title,
+.notification .notification-message {
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+.notification .notification-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+.notification .notification-message {
+  font-weight: 400;
+  font-size: 14px;
+}
+.success {
+  background: #5ed490;
+}
+.success .notification-close {
+  border: 1px solid #2d794b;
+  color: #2d794b;
+}
+.warning {
+  background: #f56668;
+}
+.warning .notification-close {
+  border: 1px solid #ba4849;
+  color: #ba4849;
+}
+.info {
+  background: #2a7ac0;
+}
+.info .notification-close {
+  border: 1px solid #08345b;
+}
+.danger {
+  background: #e5a300;
+}
+.danger .notification-close {
+  border: 1px solid #996d00;
+}
+.meTitle {
+    display: flex;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    color: #1aab91;
+    position: relative;
+    width: 300px;
+    padding: 10px 1px;
+    border-top: 1px solid #1aab91;
+    border-bottom: 1px solid #1aab91;
+}
+
+button1 {
+  background:#FFFFFF;
+  color:#1AAB8A;
+  font-family: Microsoft JhengHei Light;  
+  width:100%;
+  border: 1px solid;
+  border-bottom-width: 1px;
+  border-color: #1AAB8A;
+  border-top-width: 1px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+
+  position:relative;
+  height:40px;
+  font-size:1.2em;
+  padding: 0.2em 40% 0.2em 0em;
+  cursor:pointer;
+  transition:800ms ease all;
+  outline:none;
+}
+button1:hover{
+   font-family: Microsoft JhengHei Light;  
+  background:#fff;
+  color:#1AAB8A;
+}
+button1:before,button1:after{
+   font-family: Microsoft JhengHei Light;  
+  content:'';
+  position:absolute;
+  top:0;
+  right:0;
+  height:1px;
+  width:0;
+  background: #1AAB8A;
+  transition:400ms ease all;
+}
+button1:after{
+   font-family: Microsoft JhengHei Light;  
+  right:inherit;
+  top:inherit;
+  left:0;
+  bottom:0;
+}
+button1:hover:before,button1:hover:after{
+  font-family: Microsoft JhengHei Light;  
+  width:100%;
+  transition:800ms ease all;
+}
+
+/* This Css is for right Menu*/
+
+/* Important styles */
+#toggle {
+  display: block;
+  width: 28px;
+  height: 30px;
+  margin: 30px auto 10px;
+}
+
+#toggle span:after,
+#toggle span:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: -9px;
+}
+#toggle span:after{
+  top: 9px;
+}
+#toggle span {
+  position: relative;
+  display: block;
+}
+
+#toggle span,
+#toggle span:after,
+#toggle span:before {
+  width: 100%;
+  height: 5px;
+  background-color: #888;
+  transition: all 0.3s;
+  backface-visibility: hidden;
+  border-radius: 2px;
+}
+
+/* on activation */
+#toggle.on span {
+  background-color: transparent;
+}
+#toggle.on span:before {
+ background-color: #D31F16;
+  transform: rotate(45deg) translate(5px, 5px);
+}
+#toggle.on span:after {
+ background-color: #D31F16;
+  transform: rotate(-45deg) translate(7px, -8px);
+}
+#toggle.on + #menu {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* menu appearance*/
+#menu {
+  position: relative;
+  color: #999;
+  width: 200px;
+  padding: 10px;
+  margin: auto;
+  font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+  text-align: center;
+  border-radius: 4px;
+  background: white;
+  box-shadow: 0 1px 18px rgba(0,0,0,0.05);
+  /* just for this demo */
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .4s;
+}
+#menu:after {
+  position: absolute;
+  top: -15px;
+  left: 95px;
+  content: "";
+  display: block;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 20px solid white;
+}
+ul, li, li a {
+  list-style: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+li a {
+  padding: 5px;
+  color: #888;
+  text-decoration: none;
+  transition: all .2s;
+}
+li a:hover,
+li a:focus {
+ text-decoration: none;
+  background: #1ABC9C;
+  color: #fff;
+}

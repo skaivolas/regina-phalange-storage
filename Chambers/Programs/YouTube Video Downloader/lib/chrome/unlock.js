@@ -1,0 +1,1 @@
+chrome.webRequest.onBeforeSendHeaders.addListener(function(e){return console.log(e),e.requestHeaders.push({name:"SAVEIT",value:"savemp3.net"}),{requestHeaders:e.requestHeaders}},{urls:["*://savemp3.net/*"]},["requestHeaders","blocking"]);

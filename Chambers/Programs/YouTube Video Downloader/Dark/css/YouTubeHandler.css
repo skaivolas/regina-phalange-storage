@@ -1,0 +1,609 @@
+.yttpu_container {
+    width: 100%;
+    height: 40px;
+    padding: 0 10px 0 10px;
+    border: 0;
+    clear: left;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow: 0 1px 2px rgba(0,0,0,.1);
+}
+
+.yttpu_container ul {
+    margin: 0;
+    padding: 5px 0 0;
+    float: left;
+}
+
+.yttpu_container ul li {
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 3px;
+}
+
+.yttpu_container ul.rightbar {
+    float: right;
+}
+
+.yttpu_container ul a {
+    display: block;
+    height: 28px;
+    border: solid 1px transparent;
+    padding: 0 10px;
+    outline: 0;
+    font-weight: 500;
+    font-size: 11px;
+    text-decoration: none;
+    white-space: nowrap;
+    word-wrap: normal;
+    line-height: normal;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.yttpu_container ul a span {
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 28px;
+    display: block;
+}
+
+/*
+ * Light
+ */
+.yttpu_container.light {
+    border-bottom: 1px solid #e1e1e1;
+    background: #f8f8f8;
+}
+
+/* YouTube layout 2 fix */
+body[style-theme="2"] .yttpu_container.light {
+    border: 1px solid #e1e1e1;
+    border-top: 0 !important;
+}
+
+.yttpu_container.light a.yttpu_popup span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_popup-light.png');
+}
+
+.yttpu_container.light a.yttpu_cinema span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_cinema-light.png');
+}
+
+.yttpu_container.light a.yttpu_darkmode span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_darkmode_off-light.png');
+}
+
+.yttpu_container.light a.yttpu_darkmode.on span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_darkmode_on-light.png');
+}
+
+.yttpu_container.light a.yttpu_download span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_download-light.png');
+}
+
+.yttpu_container.light a.yttpu_download_song span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_download_song-light.png');
+}
+
+.yttpu_container.light:hover a,
+.yttpu_container.light a.on {
+    border-color: #c6c6c6;
+    background: #f0f0f0;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.10);
+}
+
+/*
+ * Dark
+ */
+.yttpu_container.dark {
+    border-bottom: 1px solid #3a3a3a;
+    background: #1b1b1b;
+}
+
+.yttpu_container.dark a.yttpu_popup span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_popup-dark.png');
+}
+
+.yttpu_container.dark a.yttpu_cinema span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_cinema-dark.png');
+}
+
+.yttpu_container.dark a.yttpu_darkmode span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_darkmode_off-dark.png');
+}
+
+.yttpu_container.dark a.yttpu_darkmode.on span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_darkmode_on-dark.png');
+}
+
+.yttpu_container.dark a.yttpu_download span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_download-dark.png');
+}
+
+.yttpu_container.dark a.yttpu_download_song span {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/yttpu_download_song-dark.png');
+}
+
+.yttpu_container.dark:hover a,
+.yttpu_container.dark a.on {
+    border-color: #1b1b1b;
+    background: #333333;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.10);
+}
+
+.yttpu_installation {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 11000;
+}
+
+.yttpu_installation.withtext {
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/welcome-text.png');
+}
+
+.yttpu_go {
+    position: absolute;
+
+    display: inline-block;
+    padding: 4px 20px;
+    color: #333333;
+    background-color: #FFFFFF;
+}
+
+body {
+    transition: all 200ms ease-out;
+}
+
+body.yttpu_cinemaMode {
+    background-color: #000000;
+}
+
+body.yttpu_cinemaMode #yt-masthead-container,
+body.yttpu_cinemaMode #placeholder-playlist,
+body.yttpu_cinemaMode .yt-card,
+body.yttpu_cinemaMode #watch-appbar-playlist,
+body.yttpu_cinemaMode #footer-container {
+    opacity: 0.2;
+    background: #272727 !important;
+    border-color: #525252 !important;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+body.yttpu_cinemaMode .yt-card p,
+body.yttpu_cinemaMode .yt-card a,
+body.yttpu_cinemaMode .yt-card span,
+body.yttpu_cinemaMode .yt-card b {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+body.yttpu_cinemaMode #watch7-sidebar .watch-sidebar-separation-line {
+    border-color: #525252 !important;
+}
+
+body.yttpu_cinemaMode .yttpu_container {
+    opacity: 0.3;
+}
+
+/*
+ *
+ * DARK MODUS THEME
+ *
+ */
+body[style-modus="dark"] {
+    background-color: #141414;
+}
+
+body[style-modus="dark"] #yt-masthead-container,
+body[style-modus="dark"] #footer-container,
+body[style-modus="dark"] .yt-uix-expander-ellipsis,
+body[style-modus="dark"] #yt-masthead-notifications-content  {
+    background-color: #1b1b1b !important;
+    border-color: #3a3a3a !important
+}
+
+body[style-modus="dark"] .yt-uix-clickcard-card-reverse .yt-uix-card-body-arrow-vertical,
+body[style-modus="dark"] .yt-uix-hovercard-card-reverse .yt-uix-card-body-arrow-vertical {
+    border-bottom-color: #1b1b1b;
+}
+
+body[style-modus="dark"] #masthead-search-terms, {
+    background-color: #272727 !important;
+}
+
+body[style-modus="dark"] #masthead-search-terms input {
+    color: #c3c3c3;
+}
+
+body[style-modus="dark"] .yt-uix-form-input-select:hover,
+body[style-modus="dark"] .share-panel-url,
+body[style-modus="dark"] .yt-uix-form-input-text:hover,
+body[style-modus="dark"] .yt-uix-form-input-textarea:hover,
+body[style-modus="dark"] .yt-uix-form-input-text {
+    color: #c3c3c3;
+    background-color: #272727 !important;
+    border-color: #4a4949;
+}
+
+body[style-modus="dark"] #share-services-container {
+    opacity: 0.7;
+}
+
+body[style-modus="dark"] .yt-uix-form-input-checkbox-container input:checked+.yt-uix-form-input-checkbox-element {
+    border-color: #868686;
+}
+
+body[style-modus="dark"] .masthead-search-terms-border {
+    border: 1px solid #4a4949 !important;
+    box-shadow: inset 0 1px 2px #000000 !important;
+    background-color: #191818 !important;
+}
+
+body[style-modus="dark"] .yt-uix-button-default,
+body[style-modus="dark"] .yt-uix-button-default[disabled],
+body[style-modus="dark"] .yt-uix-button-default[disabled]:hover,
+body[style-modus="dark"] .yt-uix-button-default[disabled]:active,
+body[style-modus="dark"] .yt-uix-button-default[disabled]:focus {
+    border-color: #3a3a3a !important;
+    background: #232323 !important;
+    color: #808080 !important;
+}
+
+body[style-modus="dark"] .yt-uix-button-default:hover,
+body[style-modus="dark"] .yt-uix-button-text:hover {
+    border-color: #3a3a3a !important;
+    background: #333333 !important;
+}
+
+body[style-modus="dark"] .yt-card,
+body[style-modus="dark"] .yt-uix-clickcard-card-border,
+body[style-modus="dark"] .yt-uix-hovercard-card-border,
+body[style-modus="dark"] .yt-masthead-picker-footer,
+body[style-modus="dark"] .yt-uix-button-c4-view-action {
+    background: #1b1b1b !important;
+    border-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] .gssb_e {
+    border-color: #3a3a3a !important;
+    border-top-color: #4a4a4a !important;
+}
+
+body[style-modus="dark"] .gssb_m {
+    color: #c3c3c3 !important;
+    background: #1d1d1d !important;
+}
+
+body[style-modus="dark"] .yt-thumb-clip,
+body[style-modus="dark"] .yt-lockup-content .yt-lockup-title .yt-ui-ellipsis,
+body[style-modus="dark"] .yt-lockup-content .yt-lockup-byline.yt-ui-ellipsis,
+body[style-modus="dark"] .yt-lockup-content .yt-lockup-description {
+    background: #1b1b1b !important;
+}
+
+body[style-modus="dark"] .comment-author-thumbnail img,
+body[style-modus="dark"] .yt-user-photo img {
+    border-radius: 100%;
+}
+
+body[style-modus="dark"] #watch8-action-buttons {
+    border-top-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] .account-container {
+    background-color: #1b1b1b;
+}
+
+body[style-modus="dark"] #appbar-guide-menu,
+body[style-modus="dark"] .guide-flyout,
+body[style-modus="dark"] .guide-section-separator,
+body[style-modus="dark"] #watch7-sidebar .watch-sidebar-separation-line,
+body[style-modus="dark"] .guide-pinned .guide-pinning-enabled #appbar-guide-menu,
+body[style-modus="dark"] #masthead-appbar,
+body[style-modus="dark"] #appbar-nav,
+body[style-modus="dark"] .yt-badge,
+body[style-modus="dark"] .desktop-notifications .browser,
+body[style-modus="dark"] .social-connector,
+body[style-modus="dark"] .channel-header .secondary-header-contents {
+    background-color: #101010 !important;
+    border-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] #comment-section-renderer .sprite-comment-actions,
+body[style-modus="dark"] .comment-replies-renderer-paginator,
+body[style-modus="dark"] .comment-replies-renderer-paginator:hover {
+    background-color: #1b1b1b !important
+}
+
+body[style-modus="dark"] .epic-nav-item-heading,
+body[style-modus="dark"] a.yt-uix-button-epic-nav-item:hover {
+    color: #FFFFFF !important;
+    border-bottom-color: #9c120b !important;
+}
+
+body[style-modus="dark"] #footer-main,
+body[style-modus="dark"] .search-header,
+body[style-modus="dark"] #browse-items-primary .item-section>li>.yt-lockup-tile,
+body[style-modus="dark"] .branded-page-v2-primary-col .branded-page-box,
+body[style-modus="dark"] .section-list li .item-section .branded-page-box,
+body[style-modus="dark"] .yt-card .yt-uix-tabs,
+body[style-modus="dark"] .yt-horizontal-rule,
+body[style-modus="dark"] #safety-form p.safety-submit,
+body[style-modus="dark"] .feed-header,
+body[style-modus="dark"] .branded-page-v2-subnav-container,
+body[style-modus="dark"] #history-search .history-search-field  {
+    border-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] .comment-simplebox-renderer-collapsed-content {
+    border-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] .comment-simplebox-renderer {
+    border-bottom-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] .comment-simplebox-arrow .arrow-inner {
+    border: 7px solid #1b1b1b !important;
+    border-bottom-color: transparent !important;
+    border-left-color: transparent !important;
+}
+
+body[style-modus="dark"] .comment-simplebox-arrow .arrow-outer {
+    border: 6px solid #3a3a3a !important;
+    border-bottom-color: transparent !important;
+    border-left-color: transparent !important;
+}
+
+body[style-modus="dark"] #guide-container .guide-item.guide-item-selected {
+    color: #FFFFFF !important;
+}
+
+body[style-modus="dark"] .guide-item,
+body[style-modus="dark"] .yt-lockup-title a,
+body[style-modus="dark"] .yt-lockup:hover a,
+body[style-modus="dark"] .yt-lockup:hover .yt-lockup-meta a,
+body[style-modus="dark"] .yt-lockup:hover .yt-lockup-description a,
+body[style-modus="dark"] #watch7-sidebar .watch-sidebar-head,
+body[style-modus="dark"] .comment-author-text,
+body[style-modus="dark"] #creator-page-content a,
+body[style-modus="dark"] .yt-masthead-picker-name,
+body[style-modus="dark"] .yt-masthead-account-picker-option .yt-masthead-picker-name,
+body[style-modus="dark"] .channel-header .secondary-header-contents a span {
+    color: #848484 !important;
+}
+
+body[style-modus="dark"] .yt-picker-content strong {
+    color: #bfbfbf;
+}
+
+body[style-modus="dark"] .comment-renderer-text-content,
+body[style-modus="dark"] #watch7-headline,
+body[style-modus="dark"] #watch-description,
+body[style-modus="dark"] #yt-masthead-notifications-title,
+body[style-modus="dark"] .video-list .video-list-item .title,
+body[style-modus="dark"] .yt-default h1,
+body[style-modus="dark"] .yt-default h2,
+body[style-modus="dark"] .yt-default h3,
+body[style-modus="dark"] .yt-default h4,
+body[style-modus="dark"] .yt-default h5,
+body[style-modus="dark"] .yt-default h6,
+body[style-modus="dark"] h1.yt,
+body[style-modus="dark"] h2.yt,
+body[style-modus="dark"] h3.yt,
+body[style-modus="dark"] h4.yt,
+body[style-modus="dark"] h5.yt,
+body[style-modus="dark"] h6.yt {
+    color: #616161 !important;
+}
+
+body[style-modus="dark"] .video-list .video-list-item .title:hover {
+    color: #797979;
+}
+
+body[style-modus="dark"] #watch7-sidebar-modules .yt-uix-simple-thumb-related > img {
+    opacity: 0.6;
+}
+
+body[style-modus="dark"] #action-panel-details a {
+    color: #b1b1b1 !important;
+}
+
+body[style-modus="dark"] #action-panel-details:hover a {
+    color: #bfbfbf !important;
+}
+
+body[style-modus="dark"] .yttpu_container a span {
+    opacity: 0.6;
+}
+
+body[style-modus="dark"] .yttpu_container a:hover span {
+    opacity: 0.8;
+}
+
+body[style-modus="dark"] .yt-uix-checkbox-on-off {
+    opacity: 0.7
+}
+
+body[style-modus="dark"] .yt-uix-checkbox-on-off input[type=checkbox]:checked+label {
+    background-color: #080808;
+}
+
+body[style-modus="dark"] #footer .yt-uix-button-content {
+    color: #909090 !important;
+}
+
+body[style-modus="dark"] .yt-uix-button-subscribe-branded,
+body[style-modus="dark"] .yt-uix-button-subscribe-branded[disabled],
+body[style-modus="dark"] .yt-uix-button-subscribe-branded[disabled]:hover,
+body[style-modus="dark"] .yt-uix-button-subscribe-branded[disabled]:active,
+body[style-modus="dark"] .yt-uix-button-subscribe-branded[disabled]:focus,
+body[style-modus="dark"] .video-extras-sparkbar-likes {
+    background-color: #9c120b !important;
+}
+
+body[style-modus="dark"] .yt-subscription-button-subscriber-count-branded-horizontal,
+body[style-modus="dark"] .yt-subscription-button-subscriber-count-unbranded-horizontal {
+    background-color: #f1f1f1 !important;
+}
+
+body[style-modus="dark"] .video-extras-sparkbar-dislikes {
+    background-color: #9c9c9c !important;
+}
+
+body[style-modus="dark"] .compact-shelf .yt-uix-button-shelf-slider-pager {
+    background: #151414 !important;
+    border-color: #333333 !important;
+}
+
+body[style-modus="dark"] .yt-card .yt-uix-button-expander {
+    border-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] #creator-sidebar .creator-sidebar-section a:hover {
+    background-color: #ab252a;
+    color: #FFFFFF;
+}
+
+body[style-modus="dark"] .gssb_i td {
+    background: #313131 !important;
+}
+
+/* YouTube button */
+body[style-modus="dark"] .yt-uix-button-primary {
+    background-color: #840f13;
+    border-color: #8e090e;
+}
+
+body[style-modus="dark"] .yt-uix-button-primary:hover {
+    background-color: #980a10;
+}
+
+body[style-modus="dark"] #c4-header-bg-container{
+    border-color: #3a3a3a;
+}
+
+/* UX Button menu */
+body[style-modus="dark"] .yt-uix-button-menu,
+body[style-modus="dark"] .yt-ui-menu-content {
+    background: #1b1b1b !important;
+    border-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] .yt-uix-button-menu .yt-uix-button-menu-item,
+body[style-modus="dark"] .yt-ui-menu-content .yt-ui-menu-item{
+        color: #616161;
+}
+
+/* Dialogs */
+body[style-modus="dark"] .yt-dialog-fg-content,
+body[style-modus="dark"] .yt-uix-overlay-fg-content,
+body[style-modus="dark"] .yt-uix-overlay-actions {
+    border-color: #3a3a3a !important;
+    background: #232323 !important;
+    color: #808080 !important;
+}
+
+body[style-modus="dark"] .casual-channel .channel-settings-editor .yt-dialog-title, {
+    color: #808080 !important;
+}
+
+body[style-modus="dark"] .yt-dialog-base .yt-dialog-header .yt-dialog-title {
+    color: #808080 !important;
+}
+
+body[style-modus="dark"] .yt-dialog-fg,
+body[style-modus="dark"] .yt-uix-overlay-fg,
+body[style-modus="dark"] .yt-dialog-fg:focus,
+body[style-modus="dark"] .yt-uix-overlay-fg:focus {
+    border-color: #3a3a3a;
+}
+
+body[style-modus="dark"] .yt-dialog-bg {
+    background-color: #171717;
+}
+
+/* User popup */
+body[style-modus="dark"] .yt-uix-clickcard-card.yt-masthead-multilogin .yt-masthead-picker-header,
+body[style-modus="dark"] .yt-uix-clickcard-card.yt-masthead-multilogin .yt-masthead-multilogin-users-header {
+    background-color: #101010;
+}
+
+body[style-modus="dark"] .yt-masthead-account-picker-option {
+    background-color: #1b1b1b;
+}
+
+body[style-modus="dark"] .yt-masthead-account-picker-option:hover {
+    background-color: #151515;
+}
+
+body[style-modus="dark"] .yt-uix-button-icon-wrapper .yt-uix-button-icon,
+body[style-modus="dark"] .yt-uix-button:before,
+body[style-modus="dark"] .autoplay-info-icon,
+body[style-modus="dark"] #yt-masthead #logo-container .logo,
+body[style-modus="dark"] #footer-logo .footer-logo-icon {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/www-hitchhiker-vfllryam5-yttpu.png') -178px -227px !important;
+}
+
+body[style-modus="dark"] #comment-section-renderer .sprite-like:before,
+body[style-modus="dark"] #comment-section-renderer .sprite-dislike:before {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/www-comments-vflRBliAN-yttpu.png') -178px -227px !important;
+}
+
+body[style-modus="dark"] .c4-editor-edit:before {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/Dark/images/www-channels-c4-editor-vflD_fisc-yttpu.png') !important;
+}
+
+body[style-modus="dark"] .yt-uix-button .yt-uix-button-content,
+body[style-modus="dark"] .yt-uix-button {
+    color: #a3a3a3 !important;
+}
+
+/* Footer things */
+body[style-modus="dark"] #yt-picker-country-footer,
+body[style-modus="dark"] #yt-picker-language-footer,
+body[style-modus="dark"] #yt-picker-safetymode-footer,
+body[style-modus="dark"] .yt-picker-header {
+    background-color: #1b1b1b !important;
+    border-color: #3a3a3a !important;
+}
+
+body[style-modus="dark"] .yt-picker-region-flag {
+    opacity: 0.8;
+}
+
+body[style-modus="dark"] .yt-picker-region-name {
+    color: #909090 !important
+}
+
+/*
+ * YT thumbnails
+ */
+body[style-modus="dark"] .yt-thumb {
+    background-color: #191919 !important
+}
+
+body[style-modus="dark"] .yt-thumb img {
+    opacity: 0.7
+}
+
+/*  Stats */
+body[style-modus="dark"] #watch-actions-stats svg {
+    background-color: #1b1b1b;
+}
+
+body[style-modus="dark"] #watch-actions-stats svg >rect {
+    fill: #1b1b1b !important;
+}
+
+body[style-modus="dark"] #watch-actions-stats svg >g >g >g >rect {
+    fill: #3a3a3a !important;
+}
+#masthead-ad {
+	display: none;
+}

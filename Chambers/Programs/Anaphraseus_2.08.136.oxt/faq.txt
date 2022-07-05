@@ -1,0 +1,48 @@
+Q. After installing Anaphraseus, I don’t see any menus or toolbars. 
+A. Installation  was incomplete. Press "Create Anaphraseus' Menu and Toolbar" or follow the instructions in Readme.odt.
+
+Q. After installing Anaphraseus, I see no sensible messages, just something like MENUTRANSLATE.
+A. As in previous question, installation  was incomplete for some reason. Reinstall Anaphraseus or follow the instructions in Readme.odt.
+
+Q. OpenOffice.org issues a message “Could not create Java implementation loader”.
+A. Java Runtime Environment (JRE) not installed or turned off.
+It's possible to use non-java version, but it's slow, and doesn't have some features. Better go to www.java.com and grab a JRE for your system.
+
+Q. I installed a previous version of Anaphraseus, and now I got an error message trying to install new.
+
+Rejecting types due to incompatibility!
+[org.openoffice.anaphraseus.XTMStorage, members] Different number of types!
+
+A. Close OpenOffice.org (including QuickStart) and reopen it again. 
+
+Q. What are the differences between the java and non-java versions?
+A. With java, TMs load, TMX export, word search in the memory go faster, there is no limit of TM size  (depends only on the computer memory available), querying online translation engines such as Google Translator and Microsoft Bing is added.
+
+Q. How do I turn on format preserving?
+A. Check "Use Clipboard" option in the Setup tab
+
+Q. Can I use third-party TMs and/or glossaries?
+A. Anaphraseus can use TMs produced by Wordfast. For other programs, you need TMs exported to TMX files. As for glossaries, they are simple text files containing source, target and optionally notes separated by tabs. Wordfast glossaries are OK, other may require conversion.
+
+Q. Is Anaphraseus compatible with Trados?
+A. Anaphraseus can’t use Trados TMs directly, only via TMX export/import. Anaphraseus can’t work with ttx files. However, Anaphraseus lets produce uncleaned files that, if saved as DOC or RTF, can be cleaned up with Trados Workbench.
+
+Q. I have turned on Google Translator but have no translations.
+A. Check your Internet connection. If you are behind a proxy, make sure that it is properly configured in the OpenOffice.org settings (Service → Options → Internet → Proxy).
+
+Q. I have installed Anaphraseus to LibreOffice and it does not works! 
+A. Please make sure hidden text is turned on. (Tools → Options → LibreOffice Writer → Formatting Aids: all 'hidden text' entries have to be checked on)
+
+Q. I need help!
+A. Go to the forums (Help [1], Open Discussion [2]), to the IRC channel [3] or to the Anaphraseus mailing list in Google[4].
+[1] http://sourceforge.net/projects/anaphraseus/forums/forum/743096
+[2] http://sourceforge.net/projects/anaphraseus/forums/forum/743095
+[3] #anaphraseus channel on irc.freenode.net
+[4] http://groups.google.com/group/anaphraseus/
+
+Q. I have found a bug! What I have do?
+A. Go to the our bug tracker (for Sourceforge registered users).
+
+Q. I want a new feature!
+A. File a feature request at the Sourceforge site.
+

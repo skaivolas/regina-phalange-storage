@@ -1,0 +1,17 @@
+{
+  "countryLang": {
+    "message": "ro"
+  },
+  "disabled": {
+    "message": "CyberGhost este dezactivat"
+  },
+  "enabled": {
+    "message": "CyberGhost este activat"
+  },
+  "disabled_desc": {
+    "message": "Acum folosești doar<br/>conexiunea ta de internet<br/>și adresa ta de IP este expusă."
+  },
+  "enabled_desc": {
+    "message": "Acum ești conectat la un<br/>server CyberGhost<br/>și adresa ta de IP este ascunsă."
+  }
+}

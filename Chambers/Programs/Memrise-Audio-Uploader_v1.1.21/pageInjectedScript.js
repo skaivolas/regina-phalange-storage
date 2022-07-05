@@ -1,0 +1,1 @@
+document.dispatchEvent(new CustomEvent(    'mau-set-memrise-token',    {        detail: MEMRISE.csrftoken    }));
